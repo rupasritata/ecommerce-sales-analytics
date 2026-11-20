@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,product,category,region,city,quantity,unit_price,discount_pct,revenue,cost,profit,order_status,payment_method
+ORD00001,2024-03-06,CUST0196,Running Shoes,Sports,Central,Nagpur,4,3498.02,0.1,12592.87,10759.4,1833.47,Delivered,UPI
+ORD00002,2025-07-19,CUST0039,Bluetooth Speaker,Electronics,East,Guwahati,4,4352.74,0.1,15669.86,11773.83,3896.03,Cancelled,Credit Card
+ORD00003,2025-04-23,CUST0195,Dumbbells,Sports,North,Lucknow,4,3449.93,0.0,13799.72,6793.38,7006.34,Delivered,Net Banking
+ORD00004,2024-11-16,CUST0136,Cricket Kit,Sports,West,Mumbai,3,4407.25,0.05,12560.66,9494.6,3066.06,Delivered,Net Banking
+ORD00005,2024-11-12,CUST0028,Jeans,Fashion,South,Chennai,2,2950.01,0.05,5605.02,2918.21,2686.81,Delivered,Cash on Delivery
+ORD00006,2025-09-19,CUST0026,Sunscreen,Beauty,North,Delhi,4,1578.0,0.1,5680.8,4546.29,1134.51,Delivered,Cash on Delivery
+ORD00007,2024-03-03,CUST0101,Jeans,Fashion,East,Guwahati,5,413.95,0.1,1862.78,1011.86,850.92,Returned,Cash on Delivery
+ORD00008,2025-05-24,CUST0113,Moisturizer,Beauty,Central,Indore,2,1557.09,0.0,3114.18,2292.05,822.13,Delivered,Credit Card
+ORD00009,2024-05-27,CUST0180,Smart Watch,Electronics,South,Chennai,5,8058.43,0.0,40292.15,23473.32,16818.83,Delivered,Debit Card
+ORD00010,2024-03-09,CUST0184,Dumbbells,Sports,South,Vijayawada,2,2013.36,0.0,4026.72,2627.28,1399.44,Delivered,Debit Card
+ORD00011,2025-01-19,CUST0017,Smart Watch,Electronics,East,Kolkata,2,8296.98,0.0,16593.96,9784.02,6809.94,Delivered,Debit Card
+ORD00012,2025-12-14,CUST0126,Smart Watch,Electronics,Central,Raipur,3,5966.68,0.0,17900.04,10849.47,7050.57,Delivered,Debit Card
+ORD00013,2025-06-21,CUST0133,Running Shoes,Sports,North,Jaipur,2,4067.39,0.0,8134.78,6123.21,2011.57,Delivered,Credit Card
+ORD00014,2025-07-10,CUST0001,Bedsheet,Home & Kitchen,South,Hyderabad,4,1672.07,0.0,6688.28,3857.45,2830.83,Delivered,Credit Card
+ORD00015,2025-06-08,CUST0249,Bluetooth Speaker,Electronics,West,Surat,3,7273.39,0.05,20729.16,13591.29,7137.87,Delivered,Credit Card
+ORD00016,2025-07-28,CUST0080,Dumbbells,Sports,North,Delhi,5,3607.88,0.0,18039.4,11701.28,6338.12,Delivered,Net Banking
+ORD00017,2025-01-10,CUST0011,Sunscreen,Beauty,South,Chennai,1,864.4,0.2,691.52,441.62,249.9,Delivered,Debit Card
+ORD00018,2024-04-03,CUST0195,Power Bank,Electronics,Central,Bhopal,3,4983.53,0.0,14950.59,7404.85,7545.74,Delivered,UPI
+ORD00019,2025-09-05,CUST0001,Dumbbells,Sports,North,Delhi,5,1169.49,0.05,5555.08,3537.61,2017.47,Delivered,Debit Card
+ORD00020,2024-11-25,CUST0117,Yoga Mat,Sports,East,Bhubaneswar,1,2434.3,0.05,2312.59,1411.72,900.87,Delivered,Net Banking
+ORD00021,2024-12-31,CUST0058,Water Bottle,Home & Kitchen,North,Jaipur,3,1781.83,0.05,5078.22,3661.54,1416.68,Delivered,Credit Card
+ORD00022,2024-09-28,CUST0006,Running Shoes,Sports,West,Mumbai,1,2235.23,0.1,2011.71,1173.8,837.91,Delivered,Net Banking
+ORD00023,2024-05-13,CUST0061,Wireless Earbuds,Electronics,South,Chennai,5,2263.07,0.0,11315.35,7536.53,3778.82,Delivered,Credit Card
+ORD00024,2025-11-08,CUST0249,Bedsheet,Home & Kitchen,East,Kolkata,5,272.52,0.15,1158.21,907.13,251.08,Delivered,Net Banking
+ORD00025,2025-07-25,CUST0091,Sneakers,Fashion,East,Kolkata,3,3248.26,0.1,8770.3,7556.05,1214.25,Delivered,UPI
+ORD00026,2025-04-15,CUST0216,Handbag,Fashion,West,Pune,4,2262.28,0.0,9049.12,5467.55,3581.57,Delivered,UPI
+ORD00027,2024-10-21,CUST0185,Moisturizer,Beauty,South,Chennai,4,181.41,0.1,653.08,502.45,150.63,Delivered,UPI
+ORD00028,2025-08-24,CUST0031,Yoga Mat,Sports,South,Hyderabad,3,829.31,0.0,2487.93,1711.52,776.41,Delivered,Net Banking
+ORD00029,2025-02-02,CUST0225,Casual Shirt,Fashion,Central,Nagpur,3,451.4,0.1,1218.78,701.57,517.21,Returned,Debit Card
+ORD00030,2024-11-20,CUST0245,Mixer Grinder,Home & Kitchen,South,Chennai,4,1547.64,0.0,6190.56,4075.68,2114.88,Delivered,Net Banking
+ORD00031,2024-11-25,CUST0153,Wireless Earbuds,Electronics,North,Lucknow,1,5644.42,0.15,4797.76,3138.86,1658.9,Delivered,Debit Card
+ORD00032,2024-06-15,CUST0232,Jeans,Fashion,West,Surat,4,2649.89,0.1,9539.6,7499.47,2040.13,Delivered,Debit Card
+ORD00033,2024-03-08,CUST0223,Yoga Mat,Sports,East,Guwahati,2,3643.32,0.05,6922.31,3703.23,3219.08,Delivered,UPI
+ORD00034,2025-02-09,CUST0061,Moisturizer,Beauty,Central,Raipur,1,1736.56,0.0,1736.56,937.5,799.06,Returned,Credit Card
+ORD00035,2025-10-11,CUST0186,Sneakers,Fashion,Central,Bhopal,4,2673.83,0.05,10160.55,6792.66,3367.89,Delivered,Debit Card
+ORD00036,2024-02-16,CUST0001,Hair Serum,Beauty,Central,Raipur,3,322.61,0.15,822.66,715.88,106.78,Delivered,Credit Card
+ORD00037,2025-09-19,CUST0222,Bedsheet,Home & Kitchen,Central,Raipur,2,359.92,0.05,683.85,500.86,182.99,Delivered,Cash on Delivery
+ORD00038,2025-08-27,CUST0017,Sneakers,Fashion,East,Guwahati,4,2201.07,0.05,8364.07,5815.51,2548.56,Delivered,UPI
+ORD00039,2024-07-21,CUST0085,Sneakers,Fashion,South,Hyderabad,4,1621.73,0.0,6486.92,4445.93,2040.99,Cancelled,Cash on Delivery
+ORD00040,2025-04-06,CUST0120,Casual Shirt,Fashion,East,Kolkata,1,2735.86,0.15,2325.48,1541.48,784.0,Delivered,Debit Card
+ORD00041,2024-04-30,CUST0164,Smart Watch,Electronics,South,Hyderabad,1,2853.35,0.05,2710.68,2190.8,519.88,Delivered,Net Banking
+ORD00042,2025-07-08,CUST0154,Wireless Earbuds,Electronics,West,Surat,2,3146.62,0.1,5663.92,4675.96,987.96,Cancelled,Net Banking
+ORD00043,2025-05-27,CUST0025,Jeans,Fashion,South,Chennai,3,622.65,0.0,1867.95,1206.45,661.5,Delivered,Cash on Delivery
+ORD00044,2024-09-16,CUST0132,Moisturizer,Beauty,South,Vijayawada,3,422.76,0.0,1268.28,669.77,598.51,Delivered,Cash on Delivery
+ORD00045,2024-02-19,CUST0052,Moisturizer,Beauty,East,Kolkata,5,762.57,0.1,3431.57,2713.63,717.94,Returned,Debit Card
+ORD00046,2025-12-10,CUST0016,Wireless Earbuds,Electronics,West,Mumbai,5,1533.28,0.0,7666.4,5626.7,2039.7,Delivered,Debit Card
+ORD00047,2024-11-21,CUST0133,Wireless Earbuds,Electronics,Central,Nagpur,1,6595.04,0.15,5605.78,3836.97,1768.81,Delivered,Credit Card
+ORD00048,2025-10-14,CUST0113,Sneakers,Fashion,North,Lucknow,1,3314.06,0.15,2816.95,2363.61,453.34,Delivered,Debit Card
+ORD00049,2025-05-10,CUST0121,Handbag,Fashion,South,Hyderabad,2,1747.15,0.0,3494.3,2675.5,818.8,Cancelled,UPI
+ORD00050,2025-07-22,CUST0001,Smart Watch,Electronics,North,Delhi,3,2424.05,0.0,7272.15,3556.2,3715.95,Returned,Credit Card
+ORD00051,2025-07-09,CUST0248,Dumbbells,Sports,East,Guwahati,5,2253.06,0.05,10702.03,6040.13,4661.9,Delivered,Net Banking
+ORD00052,2024-05-22,CUST0015,Moisturizer,Beauty,East,Kolkata,3,402.25,0.15,1025.74,702.83,322.91,Delivered,Cash on Delivery
+ORD00053,2024-09-23,CUST0110,Sunscreen,Beauty,West,Ahmedabad,4,1388.88,0.0,5555.52,4206.28,1349.24,Delivered,Cash on Delivery
+ORD00054,2024-12-07,CUST0197,Bluetooth Speaker,Electronics,West,Mumbai,5,3031.44,0.0,15157.2,9359.25,5797.95,Delivered,Cash on Delivery
+ORD00055,2024-12-29,CUST0165,Water Bottle,Home & Kitchen,North,Jaipur,4,4628.8,0.1,16663.68,11448.5,5215.18,Delivered,UPI
+ORD00056,2024-02-02,CUST0247,Bedsheet,Home & Kitchen,Central,Raipur,5,1877.89,0.0,9389.45,6417.02,2972.43,Delivered,Debit Card
+ORD00057,2025-02-03,CUST0076,Jeans,Fashion,Central,Bhopal,2,2723.82,0.05,5175.26,3693.49,1481.77,Returned,Cash on Delivery
+ORD00058,2024-04-22,CUST0083,Handbag,Fashion,East,Patna,4,1649.73,0.1,5939.03,4592.42,1346.61,Returned,Debit Card
+ORD00059,2025-06-27,CUST0023,Bluetooth Speaker,Electronics,East,Guwahati,4,3541.61,0.05,13458.12,7334.56,6123.56,Delivered,UPI
+ORD00060,2025-05-14,CUST0188,Sunscreen,Beauty,South,Vijayawada,4,182.61,0.0,730.44,393.96,336.48,Delivered,Credit Card
+ORD00061,2025-11-05,CUST0169,Dumbbells,Sports,North,Jaipur,5,843.32,0.0,4216.6,2382.62,1833.98,Returned,Cash on Delivery
+ORD00062,2025-06-28,CUST0017,Jeans,Fashion,West,Pune,3,2574.31,0.2,6178.34,5120.44,1057.9,Delivered,Credit Card
+ORD00063,2024-09-25,CUST0219,Hair Serum,Beauty,West,Ahmedabad,3,809.47,0.0,2428.41,1457.09,971.32,Delivered,Credit Card
+ORD00064,2025-12-08,CUST0204,Mixer Grinder,Home & Kitchen,West,Pune,5,4306.43,0.0,21532.15,13853.02,7679.13,Delivered,Credit Card
+ORD00065,2024-10-27,CUST0187,Yoga Mat,Sports,Central,Bhopal,5,4133.22,0.15,17566.19,15984.43,1581.76,Delivered,Credit Card
+ORD00066,2024-08-26,CUST0116,Face Wash,Beauty,West,Pune,3,903.15,0.0,2709.45,1824.67,884.78,Delivered,Debit Card
+ORD00067,2025-10-23,CUST0002,Sneakers,Fashion,Central,Indore,4,1078.46,0.15,3666.76,2287.67,1379.09,Delivered,Debit Card
+ORD00068,2024-09-27,CUST0072,Face Wash,Beauty,South,Chennai,5,378.24,0.1,1702.08,973.42,728.66,Cancelled,UPI
+ORD00069,2024-02-25,CUST0018,Yoga Mat,Sports,West,Ahmedabad,3,2075.76,0.15,5293.19,4821.45,471.74,Delivered,Debit Card
+ORD00070,2024-12-09,CUST0039,Face Wash,Beauty,West,Surat,2,1610.0,0.1,2898.0,1653.64,1244.36,Delivered,Debit Card
+ORD00071,2025-08-04,CUST0250,Bedsheet,Home & Kitchen,West,Mumbai,2,2628.64,0.1,4731.55,4088.13,643.42,Delivered,UPI
+ORD00072,2024-05-18,CUST0093,Bluetooth Speaker,Electronics,South,Chennai,4,8806.31,0.0,35225.24,21781.97,13443.27,Delivered,Cash on Delivery
+ORD00073,2024-12-04,CUST0081,Moisturizer,Beauty,Central,Indore,4,1449.32,0.15,4927.69,3507.35,1420.34,Delivered,Cash on Delivery
+ORD00074,2024-04-04,CUST0077,Yoga Mat,Sports,Central,Bhopal,3,4050.73,0.0,12152.19,9037.83,3114.36,Delivered,Debit Card
+ORD00075,2025-05-16,CUST0009,Casual Shirt,Fashion,South,Hyderabad,2,563.7,0.05,1071.03,803.15,267.88,Delivered,Cash on Delivery
+ORD00076,2024-12-13,CUST0011,Running Shoes,Sports,East,Patna,1,916.83,0.15,779.31,666.48,112.83,Delivered,UPI
+ORD00077,2024-08-29,CUST0188,Water Bottle,Home & Kitchen,North,Lucknow,3,3754.54,0.1,10137.26,7110.2,3027.06,Delivered,Credit Card
+ORD00078,2024-06-14,CUST0041,Sneakers,Fashion,West,Mumbai,2,1045.98,0.1,1882.76,1078.77,803.99,Delivered,UPI
+ORD00079,2025-02-16,CUST0113,Power Bank,Electronics,Central,Bhopal,4,4007.6,0.0,16030.4,10837.54,5192.86,Delivered,UPI
+ORD00080,2025-05-04,CUST0063,Cricket Kit,Sports,East,Patna,5,3966.01,0.0,19830.05,10831.95,8998.1,Delivered,Cash on Delivery
+ORD00081,2025-11-18,CUST0013,Bluetooth Speaker,Electronics,Central,Nagpur,2,5272.54,0.1,9490.57,5145.72,4344.85,Delivered,Credit Card
+ORD00082,2024-11-15,CUST0189,Bedsheet,Home & Kitchen,North,Lucknow,2,2238.62,0.1,4029.52,3259.36,770.16,Delivered,Credit Card
+ORD00083,2024-04-27,CUST0001,Bluetooth Speaker,Electronics,East,Bhubaneswar,3,3312.42,0.1,8943.53,4966.88,3976.65,Delivered,Debit Card
+ORD00084,2025-08-31,CUST0119,Cricket Kit,Sports,Central,Indore,4,1022.23,0.15,3475.58,2539.17,936.41,Returned,UPI
+ORD00085,2025-04-05,CUST0025,Casual Shirt,Fashion,South,Vijayawada,3,2215.89,0.1,5982.9,3617.85,2365.05,Delivered,UPI
+ORD00086,2025-05-26,CUST0132,Bedsheet,Home & Kitchen,North,Jaipur,1,889.79,0.15,756.32,512.63,243.69,Delivered,Credit Card
+ORD00087,2024-03-12,CUST0025,Sneakers,Fashion,North,Lucknow,3,2292.5,0.15,5845.88,5219.33,626.55,Delivered,UPI
+ORD00088,2024-08-16,CUST0036,Smart Watch,Electronics,South,Vijayawada,4,1712.34,0.15,5821.96,4837.58,984.38,Delivered,Net Banking
+ORD00089,2025-07-15,CUST0202,Mixer Grinder,Home & Kitchen,North,Chandigarh,1,2156.01,0.15,1832.61,1408.0,424.61,Delivered,Net Banking
+ORD00090,2025-08-31,CUST0118,Running Shoes,Sports,Central,Indore,3,2373.42,0.2,5696.21,4231.0,1465.21,Delivered,UPI
+ORD00091,2024-11-14,CUST0090,Moisturizer,Beauty,South,Bengaluru,5,468.79,0.15,1992.36,1539.5,452.86,Delivered,Debit Card
+ORD00092,2025-08-11,CUST0243,Storage Set,Home & Kitchen,West,Pune,4,4652.15,0.15,15817.31,11117.66,4699.65,Delivered,Debit Card
+ORD00093,2025-09-07,CUST0095,Sneakers,Fashion,East,Kolkata,2,2442.14,0.0,4884.28,2851.05,2033.23,Delivered,Credit Card
+ORD00094,2024-10-10,CUST0132,Bluetooth Speaker,Electronics,West,Surat,4,3929.5,0.0,15718.0,10197.87,5520.13,Delivered,Net Banking
+ORD00095,2025-10-18,CUST0099,Cricket Kit,Sports,West,Surat,1,2809.06,0.0,2809.06,2145.16,663.9,Returned,Net Banking
+ORD00096,2024-07-29,CUST0038,Storage Set,Home & Kitchen,South,Hyderabad,1,433.07,0.1,389.76,280.98,108.78,Delivered,Net Banking
+ORD00097,2024-06-24,CUST0220,Sneakers,Fashion,South,Vijayawada,3,1843.85,0.1,4978.39,3203.96,1774.43,Delivered,Net Banking
+ORD00098,2025-05-13,CUST0020,Mixer Grinder,Home & Kitchen,North,Lucknow,2,1012.79,0.1,1823.02,1274.04,548.98,Cancelled,Net Banking
+ORD00099,2025-04-10,CUST0026,Hair Serum,Beauty,East,Kolkata,5,459.56,0.15,1953.13,1361.08,592.05,Delivered,Debit Card
+ORD00100,2024-04-12,CUST0033,Mixer Grinder,Home & Kitchen,Central,Indore,3,4915.19,0.1,13271.01,8957.84,4313.17,Delivered,UPI
+ORD00101,2025-08-31,CUST0006,Cricket Kit,Sports,North,Delhi,1,3818.41,0.0,3818.41,2834.41,984.0,Delivered,Debit Card
+ORD00102,2024-05-26,CUST0146,Water Bottle,Home & Kitchen,West,Ahmedabad,4,1026.11,0.1,3694.0,2434.02,1259.98,Delivered,Debit Card
+ORD00103,2025-08-11,CUST0025,Dumbbells,Sports,South,Hyderabad,3,1200.17,0.0,3600.51,2099.97,1500.54,Returned,UPI
+ORD00104,2024-01-06,CUST0090,Mixer Grinder,Home & Kitchen,Central,Raipur,5,4878.48,0.0,24392.4,16477.09,7915.31,Delivered,Debit Card
+ORD00105,2025-08-05,CUST0011,Smart Watch,Electronics,East,Patna,2,997.96,0.2,1596.74,1532.09,64.65,Delivered,Debit Card
+ORD00106,2025-07-29,CUST0002,Handbag,Fashion,Central,Bhopal,5,539.86,0.15,2294.41,1973.84,320.57,Delivered,Net Banking
+ORD00107,2025-07-24,CUST0112,Yoga Mat,Sports,Central,Raipur,1,2546.57,0.1,2291.91,1525.83,766.08,Delivered,UPI
+ORD00108,2025-05-01,CUST0032,Running Shoes,Sports,South,Hyderabad,2,1095.33,0.0,2190.66,1685.3,505.36,Delivered,Cash on Delivery
+ORD00109,2024-12-10,CUST0199,Storage Set,Home & Kitchen,Central,Raipur,4,4885.51,0.15,16610.73,10124.35,6486.38,Delivered,Credit Card
+ORD00110,2025-05-30,CUST0070,Storage Set,Home & Kitchen,East,Bhubaneswar,5,4866.07,0.1,21897.31,15203.59,6693.72,Delivered,Credit Card
+ORD00111,2024-07-21,CUST0233,Smart Watch,Electronics,South,Hyderabad,4,1444.95,0.1,5201.82,3547.77,1654.05,Delivered,UPI
+ORD00112,2025-07-24,CUST0218,Smart Watch,Electronics,North,Lucknow,1,2408.3,0.2,1926.64,1314.0,612.64,Returned,Net Banking
+ORD00113,2025-02-10,CUST0143,Wireless Earbuds,Electronics,South,Hyderabad,2,1107.68,0.0,2215.36,1193.05,1022.31,Returned,Credit Card
+ORD00114,2024-12-01,CUST0032,Bedsheet,Home & Kitchen,West,Surat,4,1208.87,0.15,4110.16,3217.22,892.94,Returned,Credit Card
+ORD00115,2025-01-04,CUST0193,Wireless Earbuds,Electronics,East,Bhubaneswar,3,2575.21,0.15,6566.79,4585.11,1981.68,Delivered,Debit Card
+ORD00116,2025-02-19,CUST0226,Bluetooth Speaker,Electronics,Central,Bhopal,2,6121.49,0.1,11018.68,7473.46,3545.22,Delivered,UPI
+ORD00117,2024-01-28,CUST0128,Hair Serum,Beauty,South,Hyderabad,5,460.04,0.05,2185.19,1462.62,722.57,Delivered,Credit Card
+ORD00118,2024-04-12,CUST0180,Yoga Mat,Sports,West,Ahmedabad,3,2307.38,0.05,6576.03,3461.4,3114.63,Delivered,Cash on Delivery
+ORD00119,2024-06-28,CUST0016,Face Wash,Beauty,East,Patna,1,1769.29,0.15,1503.9,1101.68,402.22,Delivered,Cash on Delivery
+ORD00120,2024-03-24,CUST0109,Sunscreen,Beauty,West,Ahmedabad,4,856.48,0.1,3083.33,2524.45,558.88,Delivered,Cash on Delivery
+ORD00121,2024-11-17,CUST0127,Sunscreen,Beauty,North,Jaipur,4,1734.97,0.05,6592.89,5021.95,1570.94,Delivered,Debit Card
+ORD00122,2025-05-03,CUST0057,Bedsheet,Home & Kitchen,North,Lucknow,2,3789.72,0.0,7579.44,4089.68,3489.76,Delivered,Net Banking
+ORD00123,2025-04-23,CUST0073,Moisturizer,Beauty,Central,Indore,1,332.7,0.0,332.7,179.43,153.27,Delivered,UPI
+ORD00124,2024-12-10,CUST0098,Dumbbells,Sports,West,Pune,4,3274.26,0.0,13097.04,7691.95,5405.09,Delivered,Credit Card
+ORD00125,2025-09-17,CUST0121,Sneakers,Fashion,East,Bhubaneswar,4,794.56,0.1,2860.42,1592.23,1268.19,Delivered,Debit Card
+ORD00126,2025-02-17,CUST0058,Face Wash,Beauty,North,Jaipur,5,889.6,0.15,3780.8,2456.3,1324.5,Delivered,Debit Card
+ORD00127,2024-02-27,CUST0033,Sneakers,Fashion,West,Pune,5,1146.87,0.0,5734.35,3221.79,2512.56,Delivered,Cash on Delivery
+ORD00128,2025-07-13,CUST0006,Jeans,Fashion,North,Jaipur,2,1131.59,0.1,2036.86,1717.76,319.1,Delivered,Net Banking
+ORD00129,2025-02-24,CUST0116,Hair Serum,Beauty,Central,Indore,3,1162.3,0.15,2963.86,2501.63,462.23,Delivered,Cash on Delivery
+ORD00130,2025-04-08,CUST0248,Bluetooth Speaker,Electronics,West,Ahmedabad,3,4802.81,0.05,13688.01,9371.97,4316.04,Delivered,UPI
+ORD00131,2025-02-17,CUST0223,Face Wash,Beauty,Central,Bhopal,1,1458.46,0.2,1166.77,1081.99,84.78,Delivered,UPI
+ORD00132,2025-02-08,CUST0054,Bedsheet,Home & Kitchen,Central,Nagpur,2,3129.92,0.15,5320.86,3651.94,1668.92,Delivered,UPI
+ORD00133,2024-03-07,CUST0171,Casual Shirt,Fashion,Central,Bhopal,4,579.63,0.05,2202.59,1693.07,509.52,Delivered,Cash on Delivery
+ORD00134,2025-02-12,CUST0106,Wireless Earbuds,Electronics,North,Lucknow,5,2897.11,0.15,12312.72,7561.7,4751.02,Delivered,Credit Card
+ORD00135,2025-08-04,CUST0064,Running Shoes,Sports,North,Lucknow,3,4350.98,0.05,12400.29,7959.09,4441.2,Delivered,Cash on Delivery
+ORD00136,2024-08-10,CUST0221,Sunscreen,Beauty,East,Patna,2,1527.96,0.0,3055.92,1470.79,1585.13,Cancelled,UPI
+ORD00137,2025-03-16,CUST0187,Casual Shirt,Fashion,Central,Indore,4,2008.64,0.0,8034.56,4809.25,3225.31,Delivered,Credit Card
+ORD00138,2024-01-23,CUST0034,Wireless Earbuds,Electronics,East,Patna,1,4103.4,0.05,3898.23,3030.54,867.69,Delivered,Net Banking
+ORD00139,2024-09-11,CUST0189,Smart Watch,Electronics,Central,Bhopal,2,4047.84,0.0,8095.68,5658.43,2437.25,Delivered,Debit Card
+ORD00140,2024-11-15,CUST0135,Mixer Grinder,Home & Kitchen,South,Vijayawada,2,1130.53,0.05,2148.01,1281.63,866.38,Returned,Net Banking
+ORD00141,2025-12-19,CUST0101,Moisturizer,Beauty,North,Lucknow,1,602.32,0.0,602.32,459.65,142.67,Delivered,Debit Card
+ORD00142,2024-06-05,CUST0099,Dumbbells,Sports,East,Guwahati,2,447.49,0.0,894.98,601.23,293.75,Delivered,Net Banking
+ORD00143,2024-07-21,CUST0077,Hair Serum,Beauty,North,Lucknow,1,1549.83,0.0,1549.83,1147.23,402.6,Delivered,Debit Card
+ORD00144,2024-10-25,CUST0047,Sunscreen,Beauty,Central,Indore,1,1438.38,0.15,1222.62,1004.73,217.89,Delivered,Debit Card
+ORD00145,2025-12-26,CUST0060,Dumbbells,Sports,West,Surat,1,3746.12,0.0,3746.12,1930.57,1815.55,Delivered,Cash on Delivery
+ORD00146,2025-09-15,CUST0073,Bedsheet,Home & Kitchen,West,Mumbai,3,2126.73,0.1,5742.17,4810.32,931.85,Delivered,Cash on Delivery
+ORD00147,2024-01-26,CUST0230,Handbag,Fashion,West,Surat,2,984.44,0.2,1575.1,1371.43,203.67,Cancelled,Credit Card
+ORD00148,2024-06-20,CUST0025,Sneakers,Fashion,East,Bhubaneswar,4,1869.19,0.2,5981.41,3799.26,2182.15,Delivered,Credit Card
+ORD00149,2025-08-23,CUST0193,Storage Set,Home & Kitchen,Central,Bhopal,4,2068.22,0.15,7031.95,4718.82,2313.13,Delivered,Credit Card
+ORD00150,2024-02-12,CUST0152,Moisturizer,Beauty,Central,Nagpur,4,1518.83,0.0,6075.32,3317.41,2757.91,Delivered,Debit Card
+ORD00151,2025-09-17,CUST0237,Mixer Grinder,Home & Kitchen,Central,Indore,5,1904.31,0.0,9521.55,5702.75,3818.8,Delivered,Credit Card
+ORD00152,2024-07-24,CUST0103,Sunscreen,Beauty,North,Delhi,2,1579.9,0.1,2843.82,2356.3,487.52,Delivered,Cash on Delivery
+ORD00153,2025-11-01,CUST0159,Face Wash,Beauty,South,Hyderabad,3,530.73,0.2,1273.75,1103.4,170.35,Delivered,Net Banking
+ORD00154,2024-08-02,CUST0015,Mixer Grinder,Home & Kitchen,South,Vijayawada,3,2385.28,0.1,6440.26,3867.45,2572.81,Delivered,Credit Card
+ORD00155,2024-11-13,CUST0084,Dumbbells,Sports,Central,Raipur,2,892.31,0.15,1516.93,1350.19,166.74,Delivered,Credit Card
+ORD00156,2025-04-28,CUST0132,Casual Shirt,Fashion,South,Hyderabad,1,772.34,0.0,772.34,600.07,172.27,Delivered,Net Banking
+ORD00157,2024-04-02,CUST0131,Sunscreen,Beauty,West,Pune,1,1427.79,0.15,1213.62,958.82,254.8,Delivered,Debit Card
+ORD00158,2025-02-11,CUST0189,Bedsheet,Home & Kitchen,West,Pune,2,2471.35,0.0,4942.7,3553.66,1389.04,Delivered,Credit Card
+ORD00159,2025-01-04,CUST0192,Hair Serum,Beauty,West,Surat,5,694.83,0.15,2953.03,1748.62,1204.41,Delivered,Cash on Delivery
+ORD00160,2025-07-27,CUST0072,Sneakers,Fashion,North,Jaipur,4,3220.37,0.0,12881.48,8381.34,4500.14,Delivered,Cash on Delivery
+ORD00161,2025-12-29,CUST0171,Bedsheet,Home & Kitchen,South,Bengaluru,5,3211.85,0.1,14453.33,10959.24,3494.09,Delivered,Cash on Delivery
+ORD00162,2025-04-30,CUST0212,Mixer Grinder,Home & Kitchen,Central,Nagpur,3,661.88,0.0,1985.64,1215.79,769.85,Delivered,Net Banking
+ORD00163,2024-10-26,CUST0232,Bedsheet,Home & Kitchen,East,Patna,5,3862.0,0.05,18344.5,12858.83,5485.67,Delivered,Net Banking
+ORD00164,2024-10-24,CUST0084,Bedsheet,Home & Kitchen,West,Pune,4,3753.2,0.0,15012.8,9528.72,5484.08,Returned,Debit Card
+ORD00165,2024-11-01,CUST0024,Water Bottle,Home & Kitchen,East,Kolkata,3,4820.45,0.0,14461.35,7882.52,6578.83,Delivered,Cash on Delivery
+ORD00166,2025-08-18,CUST0242,Water Bottle,Home & Kitchen,Central,Bhopal,4,3733.97,0.0,14935.88,9723.18,5212.7,Returned,UPI
+ORD00167,2024-08-22,CUST0058,Bedsheet,Home & Kitchen,West,Mumbai,2,1799.63,0.05,3419.3,2547.89,871.41,Returned,Net Banking
+ORD00168,2024-05-02,CUST0171,Mixer Grinder,Home & Kitchen,West,Pune,4,4286.22,0.2,13715.9,9381.4,4334.5,Delivered,Credit Card
+ORD00169,2024-09-01,CUST0215,Sunscreen,Beauty,Central,Nagpur,1,1789.31,0.05,1699.84,1201.89,497.95,Returned,Credit Card
+ORD00170,2024-01-17,CUST0230,Sneakers,Fashion,North,Chandigarh,3,2981.79,0.0,8945.37,5474.05,3471.32,Cancelled,Net Banking
+ORD00171,2024-03-18,CUST0127,Storage Set,Home & Kitchen,North,Delhi,1,1528.37,0.05,1451.95,990.74,461.21,Delivered,Debit Card
+ORD00172,2024-03-06,CUST0247,Bedsheet,Home & Kitchen,East,Kolkata,4,1834.36,0.0,7337.44,3802.03,3535.41,Delivered,Debit Card
+ORD00173,2025-07-18,CUST0045,Wireless Earbuds,Electronics,East,Kolkata,5,7002.53,0.0,35012.65,20129.07,14883.58,Delivered,Net Banking
+ORD00174,2025-06-12,CUST0130,Handbag,Fashion,South,Vijayawada,1,570.3,0.1,513.27,277.46,235.81,Delivered,Cash on Delivery
+ORD00175,2025-05-24,CUST0003,Sneakers,Fashion,South,Hyderabad,2,1772.84,0.15,3013.83,2651.87,361.96,Delivered,Debit Card
+ORD00176,2024-12-03,CUST0240,Running Shoes,Sports,South,Bengaluru,3,930.17,0.0,2790.51,1891.95,898.56,Delivered,Net Banking
+ORD00177,2025-06-08,CUST0012,Running Shoes,Sports,East,Patna,5,1561.14,0.05,7415.41,4272.25,3143.16,Delivered,Debit Card
+ORD00178,2024-04-27,CUST0056,Moisturizer,Beauty,West,Surat,1,874.64,0.1,787.18,579.99,207.19,Delivered,Cash on Delivery
+ORD00179,2025-10-20,CUST0056,Wireless Earbuds,Electronics,West,Surat,4,4642.69,0.0,18570.76,9151.03,9419.73,Delivered,UPI
+ORD00180,2025-01-01,CUST0076,Mixer Grinder,Home & Kitchen,West,Surat,1,4165.97,0.15,3541.07,2251.31,1289.76,Delivered,Net Banking
+ORD00181,2025-11-16,CUST0243,Storage Set,Home & Kitchen,West,Mumbai,5,307.25,0.2,1229.0,1154.91,74.09,Delivered,Cash on Delivery
+ORD00182,2024-04-21,CUST0166,Wireless Earbuds,Electronics,West,Ahmedabad,5,5794.77,0.1,26076.47,17534.28,8542.19,Delivered,Cash on Delivery
+ORD00183,2024-12-29,CUST0079,Face Wash,Beauty,Central,Nagpur,1,1354.14,0.05,1286.43,857.1,429.33,Cancelled,UPI
+ORD00184,2025-05-24,CUST0025,Face Wash,Beauty,East,Guwahati,2,438.43,0.0,876.86,542.93,333.93,Delivered,Credit Card
+ORD00185,2024-12-28,CUST0232,Cricket Kit,Sports,Central,Indore,1,1888.44,0.0,1888.44,1256.94,631.5,Delivered,UPI
+ORD00186,2024-11-22,CUST0104,Sunscreen,Beauty,Central,Indore,5,398.49,0.0,1992.45,1359.37,633.08,Delivered,Debit Card
+ORD00187,2024-05-01,CUST0211,Hair Serum,Beauty,North,Jaipur,3,620.45,0.15,1582.15,1183.86,398.29,Delivered,Net Banking
+ORD00188,2024-10-05,CUST0047,Running Shoes,Sports,North,Delhi,4,786.78,0.15,2675.05,1972.55,702.5,Delivered,Cash on Delivery
+ORD00189,2024-06-23,CUST0131,Wireless Earbuds,Electronics,South,Bengaluru,3,3078.73,0.05,8774.38,5581.49,3192.89,Delivered,Debit Card
+ORD00190,2024-08-08,CUST0084,Bluetooth Speaker,Electronics,East,Kolkata,4,3801.86,0.1,13686.7,7795.34,5891.36,Delivered,Debit Card
+ORD00191,2025-05-14,CUST0006,Sneakers,Fashion,North,Delhi,1,2911.94,0.05,2766.34,1916.22,850.12,Delivered,Cash on Delivery
+ORD00192,2025-04-05,CUST0062,Jeans,Fashion,North,Delhi,3,710.89,0.1,1919.4,1626.63,292.77,Delivered,Cash on Delivery
+ORD00193,2025-03-19,CUST0011,Running Shoes,Sports,West,Ahmedabad,3,3607.73,0.15,9199.71,8380.41,819.3,Delivered,Net Banking
+ORD00194,2024-09-21,CUST0129,Bedsheet,Home & Kitchen,South,Chennai,1,1847.36,0.2,1477.89,895.73,582.16,Delivered,Credit Card
+ORD00195,2025-12-02,CUST0237,Smart Watch,Electronics,East,Patna,2,8817.78,0.0,17635.56,8738.71,8896.85,Delivered,Cash on Delivery
+ORD00196,2024-03-05,CUST0221,Mixer Grinder,Home & Kitchen,Central,Raipur,1,2262.36,0.15,1923.01,1426.92,496.09,Delivered,Debit Card
+ORD00197,2024-09-07,CUST0133,Hair Serum,Beauty,North,Jaipur,1,889.62,0.15,756.18,531.07,225.11,Cancelled,Credit Card
+ORD00198,2024-03-27,CUST0127,Bluetooth Speaker,Electronics,West,Ahmedabad,2,957.88,0.05,1819.97,1034.62,785.35,Delivered,Cash on Delivery
+ORD00199,2024-09-04,CUST0091,Sneakers,Fashion,North,Lucknow,3,1501.18,0.1,4053.19,2791.98,1261.21,Delivered,UPI
+ORD00200,2025-12-04,CUST0239,Water Bottle,Home & Kitchen,East,Bhubaneswar,2,4525.43,0.0,9050.86,4450.25,4600.61,Delivered,Credit Card
+ORD00201,2024-09-24,CUST0178,Sunscreen,Beauty,Central,Bhopal,2,365.74,0.15,621.76,484.21,137.55,Delivered,Cash on Delivery
+ORD00202,2025-10-26,CUST0087,Running Shoes,Sports,West,Mumbai,2,984.0,0.05,1869.6,1259.47,610.13,Delivered,UPI
+ORD00203,2024-12-27,CUST0069,Power Bank,Electronics,South,Chennai,2,2895.97,0.0,5791.94,3197.58,2594.36,Delivered,Credit Card
+ORD00204,2025-05-26,CUST0152,Sneakers,Fashion,North,Jaipur,1,1573.72,0.05,1495.03,915.44,579.59,Delivered,UPI
+ORD00205,2024-11-30,CUST0133,Casual Shirt,Fashion,Central,Raipur,3,2745.61,0.15,7001.31,5199.63,1801.68,Delivered,UPI
+ORD00206,2024-07-13,CUST0192,Face Wash,Beauty,South,Vijayawada,4,1543.05,0.15,5246.37,3766.92,1479.45,Delivered,Credit Card
+ORD00207,2025-07-12,CUST0165,Power Bank,Electronics,Central,Indore,5,1483.03,0.1,6673.64,3766.76,2906.88,Delivered,Cash on Delivery
+ORD00208,2025-12-09,CUST0213,Sunscreen,Beauty,West,Pune,4,1143.98,0.15,3889.53,2330.81,1558.72,Delivered,UPI
+ORD00209,2024-07-11,CUST0068,Moisturizer,Beauty,North,Delhi,5,587.6,0.05,2791.1,2185.35,605.75,Returned,Net Banking
+ORD00210,2025-07-23,CUST0192,Storage Set,Home & Kitchen,North,Lucknow,2,2636.93,0.05,5010.17,2938.66,2071.51,Delivered,Credit Card
+ORD00211,2024-07-09,CUST0197,Sunscreen,Beauty,Central,Bhopal,3,832.12,0.0,2496.36,1924.52,571.84,Cancelled,Debit Card
+ORD00212,2025-06-08,CUST0042,Yoga Mat,Sports,North,Lucknow,1,2511.13,0.0,2511.13,1821.74,689.39,Delivered,Net Banking
+ORD00213,2025-07-30,CUST0204,Yoga Mat,Sports,West,Mumbai,2,2668.22,0.0,5336.44,3518.62,1817.82,Delivered,Debit Card
+ORD00214,2024-11-24,CUST0066,Water Bottle,Home & Kitchen,North,Chandigarh,2,3398.89,0.0,6797.78,5173.9,1623.88,Delivered,Credit Card
+ORD00215,2025-06-22,CUST0250,Bluetooth Speaker,Electronics,East,Patna,3,6659.92,0.0,19979.76,10214.56,9765.2,Delivered,Credit Card
+ORD00216,2024-07-18,CUST0087,Running Shoes,Sports,East,Guwahati,3,4173.9,0.0,12521.7,6438.73,6082.97,Returned,Credit Card
+ORD00217,2024-02-27,CUST0064,Sneakers,Fashion,East,Guwahati,4,1802.6,0.0,7210.4,5404.29,1806.11,Delivered,Cash on Delivery
+ORD00218,2024-03-11,CUST0223,Bluetooth Speaker,Electronics,East,Kolkata,1,6125.96,0.0,6125.96,4145.06,1980.9,Returned,Cash on Delivery
+ORD00219,2024-11-22,CUST0075,Storage Set,Home & Kitchen,North,Jaipur,5,898.24,0.05,4266.64,2879.54,1387.1,Delivered,Debit Card
+ORD00220,2025-10-21,CUST0062,Handbag,Fashion,North,Lucknow,2,1596.36,0.0,3192.72,1783.35,1409.37,Delivered,Credit Card
+ORD00221,2024-04-03,CUST0131,Sunscreen,Beauty,North,Jaipur,1,1423.57,0.1,1281.21,1095.95,185.26,Returned,Net Banking
+ORD00222,2024-11-29,CUST0111,Moisturizer,Beauty,Central,Indore,1,858.01,0.1,772.21,665.83,106.38,Delivered,Debit Card
+ORD00223,2025-05-29,CUST0158,Wireless Earbuds,Electronics,East,Patna,1,6937.61,0.1,6243.85,5139.44,1104.41,Delivered,Debit Card
+ORD00224,2024-05-27,CUST0188,Sunscreen,Beauty,West,Mumbai,5,1583.94,0.0,7919.7,5122.91,2796.79,Delivered,Cash on Delivery
+ORD00225,2025-06-11,CUST0024,Water Bottle,Home & Kitchen,North,Lucknow,5,1143.5,0.1,5145.75,3094.93,2050.82,Returned,Cash on Delivery
+ORD00226,2024-08-11,CUST0152,Face Wash,Beauty,East,Patna,1,632.31,0.2,505.85,437.85,68.0,Delivered,Credit Card
+ORD00227,2025-08-14,CUST0238,Face Wash,Beauty,South,Vijayawada,4,1352.0,0.0,5408.0,3779.37,1628.63,Delivered,Credit Card
+ORD00228,2025-02-27,CUST0159,Mixer Grinder,Home & Kitchen,East,Bhubaneswar,3,2321.65,0.0,6964.95,4433.29,2531.66,Delivered,Net Banking
+ORD00229,2025-02-03,CUST0072,Hair Serum,Beauty,North,Delhi,2,279.93,0.0,559.86,327.87,231.99,Delivered,UPI
+ORD00230,2024-05-09,CUST0074,Hair Serum,Beauty,South,Chennai,3,1666.76,0.0,5000.28,2500.61,2499.67,Delivered,Credit Card
+ORD00231,2024-12-04,CUST0146,Jeans,Fashion,South,Vijayawada,1,1047.77,0.1,942.99,659.47,283.52,Delivered,Credit Card
+ORD00232,2025-09-18,CUST0164,Running Shoes,Sports,Central,Indore,1,2099.25,0.1,1889.33,1554.43,334.9,Delivered,UPI
+ORD00233,2024-01-15,CUST0017,Casual Shirt,Fashion,West,Mumbai,3,614.33,0.0,1842.99,1284.79,558.2,Delivered,Cash on Delivery
+ORD00234,2025-07-08,CUST0192,Yoga Mat,Sports,West,Mumbai,1,399.78,0.0,399.78,294.27,105.51,Delivered,Debit Card
+ORD00235,2024-12-26,CUST0208,Jeans,Fashion,East,Patna,1,1915.58,0.2,1532.46,1005.75,526.71,Delivered,Credit Card
+ORD00236,2025-06-09,CUST0088,Mixer Grinder,Home & Kitchen,Central,Indore,5,3409.77,0.1,15343.96,9530.23,5813.73,Delivered,Debit Card
+ORD00237,2025-04-29,CUST0038,Sneakers,Fashion,North,Delhi,4,1413.38,0.0,5653.52,3332.83,2320.69,Delivered,Credit Card
+ORD00238,2024-11-11,CUST0029,Sunscreen,Beauty,East,Kolkata,1,1294.87,0.15,1100.64,713.81,386.83,Delivered,UPI
+ORD00239,2024-08-13,CUST0149,Jeans,Fashion,South,Vijayawada,2,3460.28,0.1,6228.5,3471.07,2757.43,Delivered,Net Banking
+ORD00240,2025-04-03,CUST0098,Handbag,Fashion,North,Delhi,1,2245.09,0.2,1796.07,1251.16,544.91,Delivered,Debit Card
+ORD00241,2024-04-12,CUST0062,Sunscreen,Beauty,West,Mumbai,4,1457.25,0.15,4954.65,4206.97,747.68,Delivered,Cash on Delivery
+ORD00242,2025-03-02,CUST0230,Jeans,Fashion,East,Bhubaneswar,2,3289.03,0.1,5920.25,5080.74,839.51,Delivered,Debit Card
+ORD00243,2024-03-10,CUST0031,Casual Shirt,Fashion,East,Guwahati,5,1133.78,0.0,5668.9,4305.18,1363.72,Delivered,Cash on Delivery
+ORD00244,2025-04-20,CUST0066,Hair Serum,Beauty,South,Bengaluru,1,1635.46,0.1,1471.91,818.69,653.22,Delivered,Cash on Delivery
+ORD00245,2025-04-04,CUST0240,Power Bank,Electronics,East,Kolkata,5,6662.31,0.0,33311.55,22957.72,10353.83,Delivered,UPI
+ORD00246,2024-03-02,CUST0085,Moisturizer,Beauty,South,Hyderabad,3,1397.6,0.2,3354.24,2214.29,1139.95,Delivered,Debit Card
+ORD00247,2025-07-07,CUST0165,Dumbbells,Sports,East,Bhubaneswar,3,506.11,0.1,1366.5,995.35,371.15,Delivered,UPI
+ORD00248,2024-10-30,CUST0212,Moisturizer,Beauty,West,Mumbai,4,1180.86,0.05,4487.27,3126.25,1361.02,Delivered,Debit Card
+ORD00249,2025-07-29,CUST0184,Cricket Kit,Sports,South,Hyderabad,2,3152.02,0.1,5673.64,3445.29,2228.35,Delivered,Credit Card
+ORD00250,2024-01-31,CUST0067,Storage Set,Home & Kitchen,South,Bengaluru,3,1858.31,0.05,5296.18,4121.17,1175.01,Delivered,Credit Card
+ORD00251,2024-05-11,CUST0127,Casual Shirt,Fashion,South,Chennai,2,843.32,0.05,1602.31,1287.32,314.99,Delivered,Net Banking
+ORD00252,2024-12-27,CUST0231,Wireless Earbuds,Electronics,Central,Raipur,2,7470.56,0.05,14194.06,10634.37,3559.69,Delivered,Cash on Delivery
+ORD00253,2024-05-17,CUST0131,Cricket Kit,Sports,South,Bengaluru,1,1988.98,0.15,1690.63,1481.99,208.64,Delivered,Cash on Delivery
+ORD00254,2024-08-29,CUST0180,Handbag,Fashion,West,Surat,5,1945.66,0.0,9728.3,6662.96,3065.34,Delivered,Credit Card
+ORD00255,2025-04-27,CUST0116,Yoga Mat,Sports,Central,Raipur,4,4249.48,0.05,16148.02,11434.42,4713.6,Delivered,Net Banking
+ORD00256,2024-04-15,CUST0249,Smart Watch,Electronics,South,Hyderabad,1,2631.68,0.15,2236.93,1378.34,858.59,Delivered,Credit Card
+ORD00257,2025-05-10,CUST0038,Casual Shirt,Fashion,North,Jaipur,5,2146.28,0.1,9658.26,8087.84,1570.42,Returned,UPI
+ORD00258,2024-03-16,CUST0009,Cricket Kit,Sports,East,Patna,5,2951.4,0.1,13281.3,9913.22,3368.08,Delivered,Net Banking
+ORD00259,2024-05-08,CUST0127,Dumbbells,Sports,North,Jaipur,1,3582.16,0.0,3582.16,2267.22,1314.94,Delivered,Debit Card
+ORD00260,2025-03-05,CUST0235,Jeans,Fashion,East,Kolkata,2,2035.39,0.05,3867.24,3138.49,728.75,Delivered,Credit Card
+ORD00261,2025-08-03,CUST0174,Bedsheet,Home & Kitchen,West,Ahmedabad,1,2621.58,0.2,2097.26,1482.68,614.58,Delivered,Credit Card
+ORD00262,2024-05-04,CUST0170,Sneakers,Fashion,South,Bengaluru,3,496.08,0.1,1339.42,1017.2,322.22,Delivered,Cash on Delivery
+ORD00263,2024-08-07,CUST0004,Sneakers,Fashion,South,Chennai,4,527.88,0.1,1900.37,1644.17,256.2,Delivered,Cash on Delivery
+ORD00264,2025-11-07,CUST0035,Moisturizer,Beauty,Central,Raipur,5,1049.59,0.1,4723.15,3615.93,1107.22,Delivered,Net Banking
+ORD00265,2025-12-24,CUST0112,Casual Shirt,Fashion,South,Bengaluru,2,2992.22,0.0,5984.44,2879.52,3104.92,Delivered,Credit Card
+ORD00266,2025-02-28,CUST0205,Wireless Earbuds,Electronics,West,Ahmedabad,3,4039.68,0.1,10907.14,9064.3,1842.84,Delivered,Credit Card
+ORD00267,2024-11-22,CUST0103,Hair Serum,Beauty,East,Bhubaneswar,2,296.41,0.15,503.9,453.63,50.27,Delivered,Debit Card
+ORD00268,2024-09-10,CUST0013,Bedsheet,Home & Kitchen,Central,Bhopal,4,400.01,0.0,1600.04,1062.84,537.2,Delivered,Credit Card
+ORD00269,2025-03-23,CUST0124,Jeans,Fashion,East,Kolkata,3,2939.7,0.1,7937.19,4950.53,2986.66,Delivered,Credit Card
+ORD00270,2025-03-07,CUST0226,Dumbbells,Sports,North,Delhi,5,4089.03,0.15,17378.38,15699.4,1678.98,Returned,Debit Card
+ORD00271,2024-08-03,CUST0021,Smart Watch,Electronics,North,Chandigarh,2,5351.1,0.0,10702.2,5911.83,4790.37,Delivered,Net Banking
+ORD00272,2024-01-17,CUST0095,Dumbbells,Sports,West,Mumbai,4,2488.1,0.05,9454.78,6163.73,3291.05,Delivered,UPI
+ORD00273,2024-04-20,CUST0221,Sunscreen,Beauty,East,Guwahati,5,1403.98,0.15,5966.91,3982.5,1984.41,Delivered,Net Banking
+ORD00274,2025-12-01,CUST0017,Face Wash,Beauty,North,Chandigarh,4,1546.47,0.2,4948.7,3748.95,1199.75,Delivered,Debit Card
+ORD00275,2024-11-01,CUST0211,Cricket Kit,Sports,East,Bhubaneswar,3,1956.59,0.0,5869.77,3215.06,2654.71,Delivered,Net Banking
+ORD00276,2024-12-18,CUST0098,Handbag,Fashion,West,Mumbai,2,1923.99,0.15,3270.78,2880.4,390.38,Delivered,Debit Card
+ORD00277,2024-12-07,CUST0126,Handbag,Fashion,North,Delhi,2,1786.55,0.05,3394.44,2338.95,1055.49,Delivered,Cash on Delivery
+ORD00278,2025-07-26,CUST0167,Dumbbells,Sports,North,Delhi,4,1733.79,0.15,5894.89,5104.94,789.95,Delivered,Credit Card
+ORD00279,2024-02-17,CUST0238,Sunscreen,Beauty,West,Mumbai,4,544.0,0.0,2176.0,1378.15,797.85,Delivered,UPI
+ORD00280,2024-03-01,CUST0234,Yoga Mat,Sports,East,Kolkata,5,3974.37,0.0,19871.85,14424.93,5446.92,Delivered,Net Banking
+ORD00281,2024-07-20,CUST0118,Dumbbells,Sports,North,Delhi,1,2537.51,0.15,2156.88,1758.16,398.72,Returned,Credit Card
+ORD00282,2024-12-21,CUST0008,Sneakers,Fashion,North,Delhi,1,2392.69,0.2,1914.15,1325.97,588.18,Delivered,Net Banking
+ORD00283,2025-05-05,CUST0129,Yoga Mat,Sports,Central,Nagpur,3,2413.35,0.0,7240.05,4683.92,2556.13,Delivered,Credit Card
+ORD00284,2024-12-24,CUST0130,Handbag,Fashion,North,Delhi,3,920.61,0.1,2485.65,1975.85,509.8,Delivered,Net Banking
+ORD00285,2024-11-18,CUST0116,Yoga Mat,Sports,East,Patna,1,1554.79,0.0,1554.79,873.19,681.6,Delivered,UPI
+ORD00286,2025-11-16,CUST0216,Water Bottle,Home & Kitchen,East,Kolkata,4,2982.65,0.0,11930.6,8748.98,3181.62,Delivered,Credit Card
+ORD00287,2024-04-27,CUST0057,Storage Set,Home & Kitchen,South,Vijayawada,4,1229.8,0.05,4673.24,2409.82,2263.42,Delivered,Debit Card
+ORD00288,2025-02-21,CUST0142,Yoga Mat,Sports,East,Patna,1,4004.73,0.1,3604.26,2967.13,637.13,Delivered,Debit Card
+ORD00289,2025-01-31,CUST0237,Bedsheet,Home & Kitchen,South,Bengaluru,4,4615.77,0.0,18463.08,9263.6,9199.48,Delivered,UPI
+ORD00290,2024-12-12,CUST0055,Face Wash,Beauty,North,Chandigarh,5,1785.15,0.0,8925.75,6425.23,2500.52,Delivered,Cash on Delivery
+ORD00291,2025-08-13,CUST0030,Moisturizer,Beauty,East,Bhubaneswar,3,1220.18,0.0,3660.54,1905.55,1754.99,Delivered,UPI
+ORD00292,2024-07-14,CUST0114,Face Wash,Beauty,West,Ahmedabad,2,507.45,0.1,913.41,696.28,217.13,Returned,Credit Card
+ORD00293,2025-11-28,CUST0145,Storage Set,Home & Kitchen,West,Mumbai,3,606.91,0.2,1456.58,1336.38,120.2,Delivered,Net Banking
+ORD00294,2024-08-30,CUST0152,Handbag,Fashion,West,Mumbai,4,2788.23,0.2,8922.34,7001.12,1921.22,Delivered,UPI
+ORD00295,2025-02-02,CUST0012,Casual Shirt,Fashion,West,Mumbai,3,1419.22,0.0,4257.66,2255.39,2002.27,Delivered,Credit Card
+ORD00296,2025-01-15,CUST0028,Moisturizer,Beauty,West,Ahmedabad,1,196.68,0.1,177.01,111.08,65.93,Delivered,Net Banking
+ORD00297,2025-09-13,CUST0185,Moisturizer,Beauty,South,Vijayawada,4,1270.59,0.2,4065.89,3934.9,130.99,Delivered,Credit Card
+ORD00298,2024-11-16,CUST0190,Jeans,Fashion,East,Bhubaneswar,5,2682.7,0.0,13413.5,8254.19,5159.31,Delivered,Cash on Delivery
+ORD00299,2024-07-27,CUST0197,Handbag,Fashion,North,Delhi,3,2414.47,0.05,6881.24,3576.06,3305.18,Delivered,Debit Card
+ORD00300,2024-01-16,CUST0180,Storage Set,Home & Kitchen,East,Kolkata,2,1244.78,0.1,2240.6,1368.68,871.92,Delivered,Credit Card
+ORD00301,2024-09-22,CUST0235,Moisturizer,Beauty,Central,Indore,2,861.68,0.0,1723.36,1219.12,504.24,Delivered,Net Banking
+ORD00302,2025-08-27,CUST0104,Mixer Grinder,Home & Kitchen,North,Jaipur,4,2425.01,0.05,9215.04,6184.6,3030.44,Delivered,Debit Card
+ORD00303,2024-01-08,CUST0156,Yoga Mat,Sports,East,Guwahati,4,2023.85,0.15,6881.09,3973.76,2907.33,Delivered,UPI
+ORD00304,2025-10-17,CUST0135,Smart Watch,Electronics,South,Chennai,2,1683.43,0.0,3366.86,1893.42,1473.44,Delivered,UPI
+ORD00305,2025-01-31,CUST0056,Wireless Earbuds,Electronics,East,Bhubaneswar,2,1476.6,0.0,2953.2,1903.39,1049.81,Delivered,Debit Card
+ORD00306,2024-04-12,CUST0137,Running Shoes,Sports,East,Patna,1,832.81,0.0,832.81,644.91,187.9,Delivered,Net Banking
+ORD00307,2024-08-08,CUST0096,Face Wash,Beauty,North,Delhi,3,1757.93,0.1,4746.41,3196.05,1550.36,Returned,Credit Card
+ORD00308,2025-02-09,CUST0099,Smart Watch,Electronics,East,Kolkata,5,3846.74,0.1,17310.33,14817.1,2493.23,Returned,Debit Card
+ORD00309,2024-08-18,CUST0039,Sunscreen,Beauty,East,Bhubaneswar,3,396.15,0.1,1069.6,733.12,336.48,Delivered,Credit Card
+ORD00310,2024-03-20,CUST0151,Cricket Kit,Sports,Central,Bhopal,1,3277.22,0.2,2621.78,1580.42,1041.36,Delivered,UPI
+ORD00311,2025-05-01,CUST0149,Bluetooth Speaker,Electronics,East,Patna,3,6377.2,0.05,18175.02,13185.21,4989.81,Delivered,Net Banking
+ORD00312,2025-05-06,CUST0165,Bedsheet,Home & Kitchen,West,Mumbai,5,3417.46,0.05,16232.93,9850.41,6382.52,Delivered,UPI
+ORD00313,2024-03-27,CUST0105,Power Bank,Electronics,Central,Nagpur,1,2546.6,0.0,2546.6,1439.03,1107.57,Delivered,Debit Card
+ORD00314,2024-07-24,CUST0199,Face Wash,Beauty,South,Hyderabad,5,1594.24,0.0,7971.2,5683.52,2287.68,Returned,Debit Card
+ORD00315,2024-06-27,CUST0200,Smart Watch,Electronics,South,Hyderabad,3,2003.31,0.0,6009.93,4532.73,1477.2,Cancelled,Net Banking
+ORD00316,2025-04-27,CUST0249,Bluetooth Speaker,Electronics,Central,Indore,3,2834.35,0.05,8077.9,4898.92,3178.98,Delivered,UPI
+ORD00317,2025-06-17,CUST0205,Sneakers,Fashion,South,Chennai,2,2417.52,0.15,4109.78,3054.38,1055.4,Delivered,Cash on Delivery
+ORD00318,2025-06-15,CUST0049,Face Wash,Beauty,West,Mumbai,4,1593.91,0.1,5738.08,3592.45,2145.63,Delivered,UPI
+ORD00319,2025-11-17,CUST0198,Face Wash,Beauty,East,Patna,5,250.17,0.0,1250.85,829.47,421.38,Delivered,UPI
+ORD00320,2025-07-15,CUST0189,Jeans,Fashion,South,Hyderabad,3,2145.33,0.05,6114.19,4354.17,1760.02,Cancelled,UPI
+ORD00321,2024-08-22,CUST0194,Hair Serum,Beauty,North,Jaipur,3,1130.26,0.1,3051.7,1713.51,1338.19,Delivered,Debit Card
+ORD00322,2024-03-19,CUST0133,Smart Watch,Electronics,East,Guwahati,1,6931.94,0.0,6931.94,5176.71,1755.23,Delivered,Credit Card
+ORD00323,2025-03-25,CUST0099,Dumbbells,Sports,South,Chennai,2,4282.22,0.0,8564.44,4713.88,3850.56,Delivered,Debit Card
+ORD00324,2025-10-31,CUST0161,Mixer Grinder,Home & Kitchen,Central,Raipur,3,1742.24,0.0,5226.72,2927.38,2299.34,Delivered,Credit Card
+ORD00325,2025-12-13,CUST0177,Storage Set,Home & Kitchen,North,Delhi,2,556.17,0.0,1112.34,862.74,249.6,Delivered,Net Banking
+ORD00326,2024-06-17,CUST0098,Smart Watch,Electronics,West,Surat,1,5974.99,0.05,5676.24,4524.77,1151.47,Delivered,Cash on Delivery
+ORD00327,2024-06-21,CUST0222,Jeans,Fashion,West,Mumbai,2,1829.04,0.15,3109.37,2028.78,1080.59,Delivered,Net Banking
+ORD00328,2024-01-28,CUST0127,Face Wash,Beauty,South,Hyderabad,4,1164.1,0.05,4423.58,3097.46,1326.12,Delivered,Credit Card
+ORD00329,2024-04-13,CUST0112,Handbag,Fashion,North,Delhi,1,1769.89,0.15,1504.41,1048.09,456.32,Delivered,Cash on Delivery
+ORD00330,2025-02-09,CUST0025,Wireless Earbuds,Electronics,South,Vijayawada,4,4422.2,0.0,17688.8,13606.3,4082.5,Delivered,Net Banking
+ORD00331,2025-02-03,CUST0056,Power Bank,Electronics,West,Mumbai,1,3501.16,0.1,3151.04,1961.31,1189.73,Delivered,Credit Card
+ORD00332,2024-09-28,CUST0200,Moisturizer,Beauty,East,Bhubaneswar,4,1405.57,0.0,5622.28,3044.9,2577.38,Delivered,Net Banking
+ORD00333,2024-08-14,CUST0012,Jeans,Fashion,Central,Raipur,1,3239.78,0.2,2591.82,2007.53,584.29,Delivered,Credit Card
+ORD00334,2025-08-29,CUST0073,Handbag,Fashion,South,Vijayawada,2,926.82,0.2,1482.91,998.42,484.49,Delivered,Cash on Delivery
+ORD00335,2024-12-02,CUST0076,Bluetooth Speaker,Electronics,West,Pune,4,3451.24,0.0,13804.96,10509.88,3295.08,Delivered,Credit Card
+ORD00336,2025-08-13,CUST0250,Sunscreen,Beauty,West,Ahmedabad,4,894.64,0.1,3220.7,1888.94,1331.76,Delivered,Credit Card
+ORD00337,2025-12-05,CUST0049,Face Wash,Beauty,North,Lucknow,5,698.42,0.05,3317.49,1875.7,1441.79,Delivered,Credit Card
+ORD00338,2024-08-19,CUST0069,Bluetooth Speaker,Electronics,East,Kolkata,4,8534.76,0.05,32432.09,25615.6,6816.49,Delivered,Cash on Delivery
+ORD00339,2024-05-28,CUST0076,Storage Set,Home & Kitchen,South,Hyderabad,3,4254.53,0.1,11487.23,7568.32,3918.91,Delivered,Debit Card
+ORD00340,2025-11-27,CUST0075,Yoga Mat,Sports,South,Bengaluru,1,3773.43,0.1,3396.09,2643.38,752.71,Delivered,UPI
+ORD00341,2025-04-09,CUST0083,Casual Shirt,Fashion,North,Jaipur,2,2255.44,0.0,4510.88,2417.12,2093.76,Delivered,Net Banking
+ORD00342,2024-07-31,CUST0020,Power Bank,Electronics,Central,Bhopal,5,3290.45,0.2,13161.8,12656.88,504.92,Delivered,Cash on Delivery
+ORD00343,2025-03-30,CUST0247,Bluetooth Speaker,Electronics,South,Chennai,1,1498.39,0.0,1498.39,990.8,507.59,Delivered,UPI
+ORD00344,2025-01-11,CUST0010,Sunscreen,Beauty,West,Pune,5,1268.72,0.0,6343.6,4694.91,1648.69,Delivered,Debit Card
+ORD00345,2025-10-23,CUST0021,Hair Serum,Beauty,East,Guwahati,5,574.6,0.0,2873.0,1428.77,1444.23,Delivered,UPI
+ORD00346,2024-07-06,CUST0055,Yoga Mat,Sports,North,Lucknow,1,1510.94,0.0,1510.94,737.42,773.52,Delivered,Cash on Delivery
+ORD00347,2025-12-25,CUST0191,Moisturizer,Beauty,South,Bengaluru,3,1065.77,0.0,3197.31,2428.48,768.83,Returned,Net Banking
+ORD00348,2025-11-15,CUST0246,Dumbbells,Sports,North,Delhi,4,4198.6,0.05,15954.68,8079.53,7875.15,Delivered,UPI
+ORD00349,2024-05-12,CUST0187,Moisturizer,Beauty,West,Surat,5,1307.1,0.1,5881.95,3424.15,2457.8,Delivered,Cash on Delivery
+ORD00350,2024-04-30,CUST0048,Power Bank,Electronics,South,Vijayawada,2,3443.98,0.0,6887.96,4983.86,1904.1,Delivered,UPI
+ORD00351,2025-01-24,CUST0110,Hair Serum,Beauty,South,Hyderabad,3,1267.34,0.1,3421.82,2376.47,1045.35,Delivered,UPI
+ORD00352,2024-02-02,CUST0180,Water Bottle,Home & Kitchen,North,Jaipur,1,1030.2,0.0,1030.2,789.37,240.83,Delivered,Credit Card
+ORD00353,2024-08-06,CUST0140,Hair Serum,Beauty,Central,Raipur,4,1078.89,0.0,4315.56,2220.14,2095.42,Delivered,Credit Card
+ORD00354,2024-11-14,CUST0169,Dumbbells,Sports,East,Bhubaneswar,5,2284.81,0.2,9139.24,7378.84,1760.4,Delivered,UPI
+ORD00355,2025-12-09,CUST0020,Jeans,Fashion,North,Delhi,5,714.45,0.1,3215.03,1760.74,1454.29,Delivered,Credit Card
+ORD00356,2025-12-26,CUST0082,Wireless Earbuds,Electronics,Central,Raipur,3,3511.17,0.0,10533.51,5652.64,4880.87,Cancelled,UPI
+ORD00357,2024-04-20,CUST0205,Cricket Kit,Sports,West,Ahmedabad,1,2798.0,0.1,2518.2,1934.08,584.12,Delivered,Debit Card
+ORD00358,2025-10-13,CUST0041,Mixer Grinder,Home & Kitchen,South,Chennai,2,749.97,0.1,1349.95,735.1,614.85,Delivered,UPI
+ORD00359,2024-03-07,CUST0089,Dumbbells,Sports,East,Bhubaneswar,1,2939.6,0.0,2939.6,1793.19,1146.41,Delivered,Cash on Delivery
+ORD00360,2025-07-01,CUST0034,Bedsheet,Home & Kitchen,Central,Indore,3,2563.16,0.2,6151.58,5435.6,715.98,Delivered,UPI
+ORD00361,2025-09-10,CUST0012,Power Bank,Electronics,North,Jaipur,3,3349.14,0.2,8037.94,6989.05,1048.89,Delivered,Credit Card
+ORD00362,2025-10-13,CUST0110,Smart Watch,Electronics,East,Patna,3,1293.99,0.15,3299.67,2954.46,345.21,Delivered,Credit Card
+ORD00363,2024-06-12,CUST0004,Mixer Grinder,Home & Kitchen,South,Chennai,5,3752.94,0.0,18764.7,10759.06,8005.64,Delivered,Cash on Delivery
+ORD00364,2025-10-15,CUST0145,Face Wash,Beauty,South,Vijayawada,5,1147.11,0.15,4875.22,3452.52,1422.7,Delivered,Credit Card
+ORD00365,2024-03-25,CUST0088,Power Bank,Electronics,South,Hyderabad,4,2982.26,0.0,11929.04,7038.21,4890.83,Delivered,Debit Card
+ORD00366,2025-01-14,CUST0175,Cricket Kit,Sports,North,Delhi,2,2487.24,0.0,4974.48,3614.12,1360.36,Delivered,Debit Card
+ORD00367,2024-12-09,CUST0009,Bedsheet,Home & Kitchen,East,Guwahati,1,4028.74,0.1,3625.87,2408.43,1217.44,Delivered,Net Banking
+ORD00368,2024-08-18,CUST0044,Wireless Earbuds,Electronics,Central,Indore,2,4812.58,0.05,9143.9,6238.83,2905.07,Delivered,Cash on Delivery
+ORD00369,2024-01-17,CUST0083,Running Shoes,Sports,East,Patna,2,1754.1,0.1,3157.38,2015.15,1142.23,Delivered,Credit Card
+ORD00370,2025-07-18,CUST0091,Moisturizer,Beauty,Central,Raipur,1,877.72,0.15,746.06,430.87,315.19,Delivered,Debit Card
+ORD00371,2024-09-02,CUST0072,Moisturizer,Beauty,Central,Bhopal,4,166.71,0.05,633.5,510.99,122.51,Delivered,Debit Card
+ORD00372,2025-04-28,CUST0036,Dumbbells,Sports,Central,Raipur,3,1151.25,0.1,3108.38,2226.61,881.77,Delivered,Credit Card
+ORD00373,2024-10-26,CUST0232,Yoga Mat,Sports,Central,Raipur,2,3234.26,0.0,6468.52,4541.77,1926.75,Delivered,Cash on Delivery
+ORD00374,2024-09-30,CUST0013,Wireless Earbuds,Electronics,East,Patna,4,6078.1,0.0,24312.4,17756.0,6556.4,Returned,Net Banking
+ORD00375,2025-10-09,CUST0165,Cricket Kit,Sports,North,Chandigarh,2,2466.78,0.05,4686.88,2517.32,2169.56,Delivered,Debit Card
+ORD00376,2024-03-10,CUST0017,Bedsheet,Home & Kitchen,South,Vijayawada,1,1672.68,0.0,1672.68,1114.02,558.66,Delivered,Net Banking
+ORD00377,2025-06-22,CUST0133,Jeans,Fashion,West,Pune,2,1461.03,0.05,2775.96,1537.76,1238.2,Delivered,Net Banking
+ORD00378,2025-06-29,CUST0187,Dumbbells,Sports,Central,Raipur,5,3750.78,0.1,16878.51,12139.02,4739.49,Delivered,UPI
+ORD00379,2024-10-04,CUST0067,Bluetooth Speaker,Electronics,North,Jaipur,3,3428.92,0.0,10286.76,6777.66,3509.1,Delivered,UPI
+ORD00380,2024-07-10,CUST0235,Power Bank,Electronics,West,Surat,2,7995.44,0.0,15990.88,10933.32,5057.56,Delivered,Net Banking
+ORD00381,2024-01-04,CUST0196,Bluetooth Speaker,Electronics,South,Bengaluru,4,5341.71,0.0,21366.84,16607.58,4759.26,Returned,UPI
+ORD00382,2025-11-15,CUST0183,Yoga Mat,Sports,North,Delhi,1,3625.76,0.05,3444.47,2599.19,845.28,Delivered,Cash on Delivery
+ORD00383,2025-11-23,CUST0110,Power Bank,Electronics,North,Chandigarh,2,5843.63,0.0,11687.26,8999.53,2687.73,Delivered,Cash on Delivery
+ORD00384,2024-06-25,CUST0074,Water Bottle,Home & Kitchen,East,Guwahati,3,2875.19,0.05,8194.29,6279.54,1914.75,Returned,Debit Card
+ORD00385,2024-01-24,CUST0188,Sneakers,Fashion,Central,Bhopal,1,2586.24,0.1,2327.62,1784.49,543.13,Delivered,Credit Card
+ORD00386,2024-03-30,CUST0093,Hair Serum,Beauty,Central,Raipur,2,972.32,0.1,1750.18,934.87,815.31,Delivered,UPI
+ORD00387,2024-02-19,CUST0104,Storage Set,Home & Kitchen,West,Surat,4,3656.02,0.05,13892.88,10767.14,3125.74,Delivered,Credit Card
+ORD00388,2025-08-30,CUST0117,Bluetooth Speaker,Electronics,East,Guwahati,4,6660.86,0.1,23979.1,16757.86,7221.24,Delivered,Credit Card
+ORD00389,2025-10-13,CUST0189,Storage Set,Home & Kitchen,Central,Raipur,1,3609.52,0.2,2887.62,2727.62,160.0,Delivered,Net Banking
+ORD00390,2024-04-22,CUST0200,Wireless Earbuds,Electronics,Central,Bhopal,3,7052.63,0.05,20100.0,15666.82,4433.18,Delivered,Debit Card
+ORD00391,2025-06-29,CUST0013,Running Shoes,Sports,South,Chennai,5,756.06,0.15,3213.25,2363.88,849.37,Delivered,UPI
+ORD00392,2024-05-11,CUST0058,Mixer Grinder,Home & Kitchen,West,Ahmedabad,1,3599.35,0.1,3239.41,1974.2,1265.21,Delivered,Credit Card
+ORD00393,2024-09-25,CUST0118,Jeans,Fashion,Central,Nagpur,3,2086.7,0.0,6260.1,3624.64,2635.46,Delivered,Net Banking
+ORD00394,2025-03-14,CUST0071,Yoga Mat,Sports,North,Jaipur,1,3878.25,0.15,3296.51,2505.19,791.32,Delivered,Credit Card
+ORD00395,2025-06-10,CUST0178,Power Bank,Electronics,Central,Nagpur,3,4835.72,0.1,13056.44,9201.83,3854.61,Delivered,UPI
+ORD00396,2025-10-01,CUST0057,Cricket Kit,Sports,South,Chennai,1,4388.06,0.15,3729.85,3239.35,490.5,Delivered,Credit Card
+ORD00397,2024-02-02,CUST0097,Power Bank,Electronics,North,Lucknow,2,1865.74,0.05,3544.91,2151.93,1392.98,Delivered,Debit Card
+ORD00398,2024-05-23,CUST0100,Handbag,Fashion,West,Pune,4,628.51,0.1,2262.64,1804.09,458.55,Delivered,Net Banking
+ORD00399,2024-07-24,CUST0201,Cricket Kit,Sports,East,Bhubaneswar,1,1939.88,0.1,1745.89,1101.42,644.47,Delivered,Credit Card
+ORD00400,2024-08-14,CUST0060,Running Shoes,Sports,West,Surat,1,486.47,0.2,389.18,360.4,28.78,Cancelled,Debit Card
+ORD00401,2025-12-30,CUST0002,Moisturizer,Beauty,East,Guwahati,1,364.54,0.0,364.54,277.29,87.25,Delivered,Credit Card
+ORD00402,2025-07-22,CUST0230,Handbag,Fashion,East,Patna,1,1099.91,0.1,989.92,636.03,353.89,Returned,Cash on Delivery
+ORD00403,2024-08-22,CUST0156,Bedsheet,Home & Kitchen,South,Bengaluru,2,1986.14,0.0,3972.28,3055.81,916.47,Delivered,Cash on Delivery
+ORD00404,2025-12-11,CUST0036,Mixer Grinder,Home & Kitchen,North,Lucknow,5,3425.11,0.1,15412.99,12767.93,2645.06,Delivered,UPI
+ORD00405,2024-12-30,CUST0016,Casual Shirt,Fashion,East,Bhubaneswar,3,3391.94,0.05,9667.03,6682.52,2984.51,Delivered,UPI
+ORD00406,2025-01-01,CUST0110,Sneakers,Fashion,South,Vijayawada,5,2056.57,0.0,10282.85,5028.96,5253.89,Delivered,UPI
+ORD00407,2024-11-13,CUST0075,Hair Serum,Beauty,North,Chandigarh,2,727.57,0.0,1455.14,1073.53,381.61,Delivered,Net Banking
+ORD00408,2024-04-15,CUST0134,Handbag,Fashion,Central,Indore,2,1384.73,0.0,2769.46,1461.05,1308.41,Delivered,UPI
+ORD00409,2025-11-14,CUST0105,Casual Shirt,Fashion,Central,Indore,3,3215.87,0.1,8682.85,5326.85,3356.0,Delivered,Credit Card
+ORD00410,2024-01-11,CUST0232,Power Bank,Electronics,West,Pune,2,5479.32,0.05,10410.71,7268.29,3142.42,Delivered,Cash on Delivery
+ORD00411,2024-05-07,CUST0185,Hair Serum,Beauty,East,Kolkata,5,681.36,0.0,3406.8,1689.77,1717.03,Delivered,Net Banking
+ORD00412,2024-06-16,CUST0088,Bedsheet,Home & Kitchen,North,Chandigarh,3,1126.24,0.0,3378.72,1974.54,1404.18,Delivered,Credit Card
+ORD00413,2024-07-23,CUST0106,Face Wash,Beauty,South,Vijayawada,4,1140.45,0.05,4333.71,3218.74,1114.97,Delivered,Debit Card
+ORD00414,2024-04-06,CUST0135,Smart Watch,Electronics,East,Patna,1,4269.22,0.15,3628.84,2361.81,1267.03,Delivered,UPI
+ORD00415,2024-01-14,CUST0217,Wireless Earbuds,Electronics,West,Ahmedabad,2,3449.6,0.05,6554.24,4831.22,1723.02,Delivered,Net Banking
+ORD00416,2025-05-10,CUST0148,Dumbbells,Sports,East,Guwahati,4,3879.15,0.15,13189.11,10847.34,2341.77,Returned,Debit Card
+ORD00417,2025-12-09,CUST0200,Bluetooth Speaker,Electronics,Central,Raipur,4,4974.0,0.05,18901.2,14442.87,4458.33,Cancelled,Cash on Delivery
+ORD00418,2024-03-30,CUST0226,Handbag,Fashion,East,Patna,4,2746.45,0.15,9337.93,8262.1,1075.83,Delivered,UPI
+ORD00419,2024-08-04,CUST0053,Hair Serum,Beauty,West,Ahmedabad,3,570.78,0.1,1541.11,1048.58,492.53,Delivered,UPI
+ORD00420,2025-01-05,CUST0145,Cricket Kit,Sports,Central,Raipur,3,678.58,0.1,1832.17,1129.94,702.23,Delivered,Credit Card
+ORD00421,2025-11-09,CUST0086,Yoga Mat,Sports,East,Bhubaneswar,4,2448.43,0.1,8814.35,6066.04,2748.31,Delivered,Credit Card
+ORD00422,2025-05-22,CUST0201,Casual Shirt,Fashion,East,Kolkata,5,911.74,0.2,3646.96,2635.27,1011.69,Delivered,UPI
+ORD00423,2025-07-14,CUST0235,Storage Set,Home & Kitchen,North,Lucknow,2,2684.63,0.1,4832.33,3593.08,1239.25,Cancelled,Debit Card
+ORD00424,2025-02-28,CUST0027,Sunscreen,Beauty,West,Mumbai,5,1457.5,0.05,6923.12,5038.12,1885.0,Delivered,Net Banking
+ORD00425,2024-10-31,CUST0232,Face Wash,Beauty,Central,Nagpur,2,1529.59,0.0,3059.18,1950.05,1109.13,Cancelled,Debit Card
+ORD00426,2024-05-26,CUST0026,Power Bank,Electronics,South,Hyderabad,2,6494.6,0.0,12989.2,7500.37,5488.83,Delivered,Debit Card
+ORD00427,2025-09-23,CUST0004,Bluetooth Speaker,Electronics,West,Mumbai,3,6085.97,0.05,17345.01,10261.81,7083.2,Delivered,UPI
+ORD00428,2025-08-10,CUST0064,Handbag,Fashion,West,Ahmedabad,1,462.45,0.0,462.45,314.39,148.06,Returned,Cash on Delivery
+ORD00429,2024-01-19,CUST0098,Dumbbells,Sports,East,Bhubaneswar,5,877.74,0.0,4388.7,2673.88,1714.82,Delivered,UPI
+ORD00430,2025-06-06,CUST0138,Casual Shirt,Fashion,South,Bengaluru,4,3006.93,0.1,10824.95,8038.43,2786.52,Delivered,Cash on Delivery
+ORD00431,2024-03-02,CUST0119,Handbag,Fashion,North,Lucknow,1,1239.3,0.15,1053.4,827.0,226.4,Delivered,Cash on Delivery
+ORD00432,2025-06-24,CUST0110,Bedsheet,Home & Kitchen,Central,Bhopal,3,1628.97,0.05,4642.56,3350.85,1291.71,Delivered,Credit Card
+ORD00433,2025-08-26,CUST0128,Handbag,Fashion,West,Surat,3,2392.45,0.1,6459.61,5510.27,949.34,Delivered,Cash on Delivery
+ORD00434,2024-04-05,CUST0111,Sunscreen,Beauty,Central,Indore,2,617.45,0.05,1173.15,695.63,477.52,Delivered,Cash on Delivery
+ORD00435,2024-11-13,CUST0118,Casual Shirt,Fashion,East,Kolkata,1,2893.3,0.1,2603.97,1459.48,1144.49,Delivered,Net Banking
+ORD00436,2024-03-31,CUST0168,Face Wash,Beauty,South,Chennai,2,1716.27,0.0,3432.54,2228.21,1204.33,Delivered,Debit Card
+ORD00437,2025-02-18,CUST0104,Smart Watch,Electronics,South,Bengaluru,1,2390.62,0.0,2390.62,1864.0,526.62,Delivered,UPI
+ORD00438,2025-11-09,CUST0072,Yoga Mat,Sports,East,Patna,1,2058.06,0.1,1852.25,1552.56,299.69,Delivered,Net Banking
+ORD00439,2024-02-29,CUST0036,Casual Shirt,Fashion,Central,Nagpur,1,3459.37,0.15,2940.46,1924.9,1015.56,Delivered,Debit Card
+ORD00440,2024-10-17,CUST0137,Bedsheet,Home & Kitchen,South,Chennai,3,4641.94,0.1,12533.24,7983.94,4549.3,Delivered,UPI
+ORD00441,2025-12-12,CUST0168,Mixer Grinder,Home & Kitchen,West,Ahmedabad,4,4098.88,0.05,15575.74,9711.24,5864.5,Delivered,Debit Card
+ORD00442,2024-08-07,CUST0138,Dumbbells,Sports,Central,Raipur,3,3743.52,0.05,10669.03,6989.44,3679.59,Delivered,Credit Card
+ORD00443,2024-04-06,CUST0055,Smart Watch,Electronics,East,Bhubaneswar,5,5005.22,0.1,22523.49,15244.67,7278.82,Delivered,UPI
+ORD00444,2024-12-23,CUST0024,Sneakers,Fashion,West,Surat,5,1042.8,0.1,4692.6,3342.09,1350.51,Delivered,Net Banking
+ORD00445,2025-01-06,CUST0066,Sunscreen,Beauty,East,Kolkata,2,1117.08,0.0,2234.16,1405.57,828.59,Delivered,Credit Card
+ORD00446,2025-04-29,CUST0208,Moisturizer,Beauty,Central,Bhopal,3,303.81,0.0,911.43,488.25,423.18,Delivered,UPI
+ORD00447,2024-08-17,CUST0107,Jeans,Fashion,South,Hyderabad,4,1050.26,0.15,3570.88,2388.7,1182.18,Cancelled,Cash on Delivery
+ORD00448,2025-11-29,CUST0015,Cricket Kit,Sports,South,Vijayawada,4,589.54,0.1,2122.34,1831.64,290.7,Delivered,Credit Card
+ORD00449,2025-01-15,CUST0023,Sneakers,Fashion,West,Pune,1,802.16,0.0,802.16,468.03,334.13,Delivered,Cash on Delivery
+ORD00450,2024-07-28,CUST0145,Wireless Earbuds,Electronics,Central,Nagpur,3,1889.74,0.2,4535.38,2967.81,1567.57,Delivered,UPI
+ORD00451,2025-12-02,CUST0022,Face Wash,Beauty,South,Chennai,4,240.38,0.05,913.44,649.55,263.89,Delivered,UPI
+ORD00452,2025-11-07,CUST0118,Mixer Grinder,Home & Kitchen,South,Chennai,2,2017.37,0.0,4034.74,2203.13,1831.61,Cancelled,Net Banking
+ORD00453,2024-12-30,CUST0004,Cricket Kit,Sports,South,Hyderabad,4,2076.96,0.0,8307.84,4580.23,3727.61,Delivered,Net Banking
+ORD00454,2024-01-19,CUST0076,Bedsheet,Home & Kitchen,Central,Raipur,2,1106.68,0.1,1992.02,1299.54,692.48,Delivered,Debit Card
+ORD00455,2025-03-12,CUST0066,Mixer Grinder,Home & Kitchen,South,Chennai,4,2602.68,0.0,10410.72,6909.25,3501.47,Delivered,UPI
+ORD00456,2025-02-09,CUST0082,Dumbbells,Sports,Central,Indore,1,2673.62,0.05,2539.94,1484.35,1055.59,Delivered,Cash on Delivery
+ORD00457,2024-04-18,CUST0237,Yoga Mat,Sports,North,Jaipur,3,1112.22,0.15,2836.16,2398.86,437.3,Delivered,Cash on Delivery
+ORD00458,2025-04-08,CUST0203,Sunscreen,Beauty,West,Ahmedabad,3,1643.56,0.05,4684.15,2891.93,1792.22,Delivered,UPI
+ORD00459,2025-09-06,CUST0111,Smart Watch,Electronics,Central,Raipur,5,3300.6,0.05,15677.85,11988.88,3688.97,Delivered,Cash on Delivery
+ORD00460,2024-03-18,CUST0021,Bluetooth Speaker,Electronics,North,Jaipur,5,4688.65,0.0,23443.25,12951.15,10492.1,Delivered,Cash on Delivery
+ORD00461,2025-06-12,CUST0213,Storage Set,Home & Kitchen,East,Bhubaneswar,1,3427.93,0.05,3256.53,2497.1,759.43,Delivered,Credit Card
+ORD00462,2024-04-12,CUST0053,Yoga Mat,Sports,West,Mumbai,2,3660.33,0.2,5856.53,5059.29,797.24,Delivered,UPI
+ORD00463,2025-07-01,CUST0099,Power Bank,Electronics,West,Surat,4,3034.92,0.15,10318.73,6486.27,3832.46,Delivered,Cash on Delivery
+ORD00464,2024-11-02,CUST0234,Storage Set,Home & Kitchen,East,Patna,1,388.09,0.05,368.69,261.87,106.82,Delivered,Debit Card
+ORD00465,2024-01-05,CUST0231,Smart Watch,Electronics,West,Surat,2,2975.88,0.0,5951.76,3821.28,2130.48,Delivered,UPI
+ORD00466,2025-12-07,CUST0038,Face Wash,Beauty,East,Guwahati,1,443.92,0.0,443.92,314.94,128.98,Delivered,Credit Card
+ORD00467,2024-05-01,CUST0074,Sneakers,Fashion,West,Pune,1,2232.34,0.1,2009.11,1677.73,331.38,Delivered,Debit Card
+ORD00468,2025-03-11,CUST0123,Water Bottle,Home & Kitchen,South,Bengaluru,2,4560.22,0.0,9120.44,6325.94,2794.5,Returned,Debit Card
+ORD00469,2024-05-12,CUST0067,Sneakers,Fashion,West,Pune,5,2966.0,0.05,14088.5,10534.6,3553.9,Delivered,Credit Card
+ORD00470,2025-11-13,CUST0106,Cricket Kit,Sports,East,Guwahati,2,2330.91,0.2,3729.46,3354.01,375.45,Delivered,Net Banking
+ORD00471,2025-06-23,CUST0183,Face Wash,Beauty,East,Patna,5,1005.97,0.1,4526.87,3785.39,741.48,Delivered,UPI
+ORD00472,2025-08-10,CUST0044,Mixer Grinder,Home & Kitchen,South,Vijayawada,3,2669.18,0.0,8007.54,5052.07,2955.47,Delivered,Cash on Delivery
+ORD00473,2024-11-11,CUST0064,Moisturizer,Beauty,South,Chennai,4,1022.81,0.05,3886.68,2546.08,1340.6,Delivered,UPI
+ORD00474,2024-12-07,CUST0180,Hair Serum,Beauty,North,Jaipur,3,835.87,0.0,2507.61,1608.25,899.36,Delivered,Debit Card
+ORD00475,2025-04-08,CUST0131,Wireless Earbuds,Electronics,South,Bengaluru,1,8233.88,0.05,7822.19,4464.51,3357.68,Delivered,Debit Card
+ORD00476,2025-07-27,CUST0160,Running Shoes,Sports,Central,Indore,2,2982.77,0.0,5965.54,2898.19,3067.35,Delivered,Debit Card
+ORD00477,2025-09-11,CUST0139,Cricket Kit,Sports,Central,Bhopal,2,3268.72,0.0,6537.44,4685.49,1851.95,Delivered,Debit Card
+ORD00478,2024-01-14,CUST0123,Cricket Kit,Sports,Central,Nagpur,4,4075.03,0.1,14670.11,8446.98,6223.13,Delivered,Net Banking
+ORD00479,2025-04-30,CUST0021,Cricket Kit,Sports,South,Hyderabad,5,737.37,0.0,3686.85,2315.24,1371.61,Delivered,Net Banking
+ORD00480,2024-03-20,CUST0224,Bedsheet,Home & Kitchen,South,Vijayawada,5,1579.03,0.05,7500.39,4067.93,3432.46,Delivered,UPI
+ORD00481,2024-07-29,CUST0188,Face Wash,Beauty,South,Vijayawada,5,1480.28,0.1,6661.26,5209.51,1451.75,Delivered,Cash on Delivery
+ORD00482,2025-08-29,CUST0140,Bluetooth Speaker,Electronics,South,Chennai,3,2380.63,0.1,6427.7,4192.35,2235.35,Delivered,Debit Card
+ORD00483,2024-07-02,CUST0046,Wireless Earbuds,Electronics,South,Chennai,2,6335.58,0.2,10136.93,8684.28,1452.65,Delivered,Cash on Delivery
+ORD00484,2025-08-05,CUST0103,Sneakers,Fashion,Central,Bhopal,1,1077.08,0.15,915.52,711.91,203.61,Delivered,Credit Card
+ORD00485,2024-12-04,CUST0043,Hair Serum,Beauty,West,Ahmedabad,3,204.05,0.1,550.94,306.17,244.77,Delivered,Net Banking
+ORD00486,2024-06-19,CUST0133,Running Shoes,Sports,South,Chennai,3,3052.29,0.1,8241.18,6670.2,1570.98,Delivered,Cash on Delivery
+ORD00487,2024-09-01,CUST0086,Water Bottle,Home & Kitchen,South,Chennai,2,4308.83,0.0,8617.66,6205.23,2412.43,Delivered,UPI
+ORD00488,2025-01-22,CUST0232,Smart Watch,Electronics,East,Bhubaneswar,3,7723.31,0.0,23169.93,11333.44,11836.49,Cancelled,Credit Card
+ORD00489,2025-07-13,CUST0128,Storage Set,Home & Kitchen,North,Lucknow,3,4466.49,0.15,11389.55,9188.82,2200.73,Delivered,Debit Card
+ORD00490,2025-03-18,CUST0024,Dumbbells,Sports,South,Vijayawada,4,3479.13,0.2,11133.22,8677.7,2455.52,Delivered,Credit Card
+ORD00491,2025-11-13,CUST0002,Yoga Mat,Sports,Central,Raipur,5,1999.94,0.0,9999.7,6899.82,3099.88,Delivered,UPI
+ORD00492,2025-09-26,CUST0226,Hair Serum,Beauty,Central,Bhopal,1,1629.4,0.0,1629.4,1226.84,402.56,Cancelled,Cash on Delivery
+ORD00493,2025-07-04,CUST0101,Wireless Earbuds,Electronics,South,Chennai,1,1241.8,0.1,1117.62,897.66,219.96,Delivered,UPI
+ORD00494,2025-03-16,CUST0182,Storage Set,Home & Kitchen,South,Vijayawada,3,3518.29,0.05,10027.13,7326.75,2700.38,Delivered,UPI
+ORD00495,2024-07-30,CUST0131,Casual Shirt,Fashion,North,Delhi,1,2115.89,0.15,1798.51,1413.91,384.6,Delivered,Credit Card
+ORD00496,2024-10-28,CUST0189,Jeans,Fashion,Central,Raipur,5,409.49,0.1,1842.71,1556.94,285.77,Delivered,Credit Card
+ORD00497,2024-03-27,CUST0138,Storage Set,Home & Kitchen,West,Surat,1,2866.45,0.0,2866.45,1549.22,1317.23,Delivered,UPI
+ORD00498,2024-09-30,CUST0007,Moisturizer,Beauty,North,Delhi,5,1668.6,0.0,8343.0,6356.67,1986.33,Delivered,Net Banking
+ORD00499,2025-11-08,CUST0032,Face Wash,Beauty,South,Vijayawada,5,180.08,0.05,855.38,651.42,203.96,Delivered,Cash on Delivery
+ORD00500,2024-11-07,CUST0111,Mixer Grinder,Home & Kitchen,East,Guwahati,2,3718.52,0.15,6321.48,5278.89,1042.59,Delivered,Net Banking
+ORD00501,2024-03-24,CUST0173,Mixer Grinder,Home & Kitchen,West,Mumbai,4,574.65,0.0,2298.6,1718.77,579.83,Cancelled,Debit Card
+ORD00502,2025-04-21,CUST0249,Handbag,Fashion,Central,Nagpur,3,2699.24,0.0,8097.72,5203.23,2894.49,Cancelled,Cash on Delivery
+ORD00503,2025-12-04,CUST0072,Mixer Grinder,Home & Kitchen,East,Kolkata,4,2507.83,0.0,10031.32,6114.99,3916.33,Delivered,Debit Card
+ORD00504,2025-09-26,CUST0057,Mixer Grinder,Home & Kitchen,West,Mumbai,1,3055.05,0.0,3055.05,2129.61,925.44,Returned,UPI
+ORD00505,2024-07-19,CUST0229,Dumbbells,Sports,North,Lucknow,2,1644.44,0.05,3124.44,2409.45,714.99,Delivered,Debit Card
+ORD00506,2024-11-27,CUST0013,Power Bank,Electronics,North,Lucknow,4,5530.59,0.0,22122.36,15664.59,6457.77,Delivered,Credit Card
+ORD00507,2025-01-23,CUST0200,Water Bottle,Home & Kitchen,West,Ahmedabad,3,1106.62,0.0,3319.86,2368.69,951.17,Delivered,Debit Card
+ORD00508,2024-06-30,CUST0190,Bluetooth Speaker,Electronics,East,Bhubaneswar,2,4587.2,0.1,8256.96,6933.71,1323.25,Delivered,UPI
+ORD00509,2024-07-15,CUST0194,Water Bottle,Home & Kitchen,West,Surat,4,498.34,0.0,1993.36,1110.51,882.85,Delivered,Net Banking
+ORD00510,2024-06-22,CUST0089,Smart Watch,Electronics,East,Patna,1,4938.48,0.0,4938.48,2637.61,2300.87,Delivered,Debit Card
+ORD00511,2025-12-28,CUST0078,Sneakers,Fashion,South,Vijayawada,3,978.91,0.0,2936.73,1435.91,1500.82,Returned,Net Banking
+ORD00512,2025-06-29,CUST0087,Yoga Mat,Sports,North,Delhi,2,2718.5,0.1,4893.3,3961.51,931.79,Delivered,Credit Card
+ORD00513,2025-09-06,CUST0115,Mixer Grinder,Home & Kitchen,Central,Raipur,1,1744.77,0.15,1483.05,894.88,588.17,Delivered,Debit Card
+ORD00514,2025-08-19,CUST0083,Water Bottle,Home & Kitchen,West,Ahmedabad,3,346.23,0.15,882.89,801.97,80.92,Delivered,Debit Card
+ORD00515,2025-12-02,CUST0106,Sneakers,Fashion,East,Patna,4,861.83,0.0,3447.32,2507.41,939.91,Delivered,Credit Card
+ORD00516,2024-03-17,CUST0224,Casual Shirt,Fashion,North,Lucknow,5,942.24,0.0,4711.2,2495.33,2215.87,Cancelled,Credit Card
+ORD00517,2025-10-06,CUST0164,Power Bank,Electronics,West,Mumbai,1,3012.52,0.0,3012.52,1893.96,1118.56,Delivered,Net Banking
+ORD00518,2024-02-18,CUST0100,Handbag,Fashion,Central,Raipur,5,3407.42,0.05,16185.24,11428.07,4757.17,Delivered,Net Banking
+ORD00519,2024-12-13,CUST0132,Moisturizer,Beauty,South,Vijayawada,1,1430.12,0.0,1430.12,915.4,514.72,Delivered,Credit Card
+ORD00520,2025-03-10,CUST0023,Dumbbells,Sports,South,Chennai,1,1439.83,0.05,1367.84,897.99,469.85,Delivered,Cash on Delivery
+ORD00521,2024-09-18,CUST0100,Mixer Grinder,Home & Kitchen,West,Pune,4,2411.35,0.05,9163.13,5007.83,4155.3,Delivered,Net Banking
+ORD00522,2024-04-16,CUST0148,Smart Watch,Electronics,Central,Raipur,4,3367.63,0.1,12123.47,8550.0,3573.47,Delivered,UPI
+ORD00523,2024-05-20,CUST0022,Sneakers,Fashion,North,Lucknow,5,1736.77,0.1,7815.47,4807.2,3008.27,Delivered,Net Banking
+ORD00524,2025-08-25,CUST0249,Hair Serum,Beauty,Central,Nagpur,5,1360.02,0.1,6120.09,4741.42,1378.67,Delivered,Debit Card
+ORD00525,2024-08-20,CUST0023,Hair Serum,Beauty,West,Mumbai,4,673.25,0.05,2558.35,1699.14,859.21,Delivered,Debit Card
+ORD00526,2024-08-14,CUST0037,Dumbbells,Sports,East,Guwahati,1,1837.64,0.0,1837.64,898.4,939.24,Delivered,Credit Card
+ORD00527,2025-11-05,CUST0018,Water Bottle,Home & Kitchen,North,Delhi,2,4905.06,0.1,8829.11,5543.97,3285.14,Delivered,Credit Card
+ORD00528,2024-04-15,CUST0092,Smart Watch,Electronics,East,Patna,4,2778.13,0.1,10001.27,7900.17,2101.1,Delivered,Cash on Delivery
+ORD00529,2025-10-31,CUST0166,Hair Serum,Beauty,North,Lucknow,1,550.33,0.15,467.78,290.64,177.14,Delivered,Credit Card
+ORD00530,2025-11-04,CUST0110,Bluetooth Speaker,Electronics,Central,Bhopal,3,5479.78,0.0,16439.34,12212.84,4226.5,Delivered,Net Banking
+ORD00531,2025-03-13,CUST0170,Yoga Mat,Sports,South,Bengaluru,5,3749.77,0.05,17811.41,9423.16,8388.25,Delivered,Net Banking
+ORD00532,2024-05-01,CUST0047,Dumbbells,Sports,East,Guwahati,5,3122.47,0.1,14051.11,9862.75,4188.36,Delivered,Net Banking
+ORD00533,2024-04-23,CUST0245,Yoga Mat,Sports,West,Mumbai,5,2386.3,0.0,11931.5,6483.6,5447.9,Delivered,Credit Card
+ORD00534,2024-07-27,CUST0092,Power Bank,Electronics,West,Surat,2,3998.22,0.1,7196.8,6052.54,1144.26,Delivered,Cash on Delivery
+ORD00535,2025-02-26,CUST0217,Moisturizer,Beauty,North,Delhi,5,1564.31,0.0,7821.55,6038.06,1783.49,Delivered,UPI
+ORD00536,2024-04-22,CUST0161,Sunscreen,Beauty,East,Patna,3,683.16,0.0,2049.48,1067.39,982.09,Delivered,Debit Card
+ORD00537,2024-11-29,CUST0156,Casual Shirt,Fashion,West,Ahmedabad,4,3309.69,0.15,11252.95,6788.59,4464.36,Delivered,Net Banking
+ORD00538,2024-03-25,CUST0176,Sneakers,Fashion,West,Pune,1,1221.57,0.0,1221.57,750.24,471.33,Delivered,Cash on Delivery
+ORD00539,2025-01-29,CUST0051,Yoga Mat,Sports,West,Ahmedabad,1,1729.53,0.0,1729.53,944.8,784.73,Delivered,UPI
+ORD00540,2024-01-16,CUST0213,Water Bottle,Home & Kitchen,South,Hyderabad,1,1546.46,0.2,1237.17,1168.38,68.79,Delivered,Debit Card
+ORD00541,2025-06-02,CUST0218,Jeans,Fashion,South,Vijayawada,3,2888.2,0.0,8664.6,5242.25,3422.35,Returned,UPI
+ORD00542,2024-02-10,CUST0110,Power Bank,Electronics,East,Bhubaneswar,3,1992.1,0.1,5378.67,4511.69,866.98,Delivered,Debit Card
+ORD00543,2024-05-22,CUST0040,Smart Watch,Electronics,North,Lucknow,5,7430.46,0.15,31579.46,20883.68,10695.78,Delivered,Net Banking
+ORD00544,2024-05-07,CUST0198,Power Bank,Electronics,East,Kolkata,2,6178.98,0.0,12357.96,6344.69,6013.27,Delivered,Net Banking
+ORD00545,2025-08-30,CUST0087,Hair Serum,Beauty,West,Pune,2,226.83,0.1,408.29,353.43,54.86,Delivered,Credit Card
+ORD00546,2024-02-09,CUST0108,Water Bottle,Home & Kitchen,East,Patna,5,3710.82,0.05,17626.4,10267.26,7359.14,Delivered,Credit Card
+ORD00547,2024-11-09,CUST0245,Handbag,Fashion,East,Bhubaneswar,1,1640.66,0.05,1558.63,1169.33,389.3,Delivered,Cash on Delivery
+ORD00548,2025-03-08,CUST0019,Jeans,Fashion,East,Bhubaneswar,2,815.06,0.0,1630.12,824.73,805.39,Delivered,Credit Card
+ORD00549,2025-01-12,CUST0049,Storage Set,Home & Kitchen,West,Mumbai,2,1418.16,0.15,2410.87,1843.83,567.04,Delivered,Debit Card
+ORD00550,2025-05-12,CUST0194,Mixer Grinder,Home & Kitchen,West,Pune,3,955.94,0.05,2724.43,1843.78,880.65,Delivered,UPI
+ORD00551,2025-08-10,CUST0080,Moisturizer,Beauty,North,Delhi,2,1477.06,0.1,2658.71,1781.36,877.35,Returned,UPI
+ORD00552,2024-10-14,CUST0074,Handbag,Fashion,South,Hyderabad,2,3218.83,0.1,5793.89,4406.84,1387.05,Delivered,Cash on Delivery
+ORD00553,2025-08-28,CUST0010,Mixer Grinder,Home & Kitchen,West,Mumbai,3,1321.78,0.0,3965.34,1988.52,1976.82,Delivered,Debit Card
+ORD00554,2024-08-20,CUST0204,Moisturizer,Beauty,South,Chennai,5,332.83,0.0,1664.15,1063.29,600.86,Delivered,Net Banking
+ORD00555,2025-12-20,CUST0126,Handbag,Fashion,Central,Indore,4,1686.87,0.0,6747.48,5125.62,1621.86,Delivered,Debit Card
+ORD00556,2025-01-03,CUST0138,Cricket Kit,Sports,South,Bengaluru,3,2141.31,0.0,6423.93,4353.14,2070.79,Delivered,Cash on Delivery
+ORD00557,2025-06-22,CUST0019,Bluetooth Speaker,Electronics,South,Vijayawada,4,3997.87,0.05,15191.91,7704.97,7486.94,Delivered,Debit Card
+ORD00558,2025-10-01,CUST0100,Power Bank,Electronics,Central,Raipur,2,6140.58,0.0,12281.16,9570.64,2710.52,Delivered,Net Banking
+ORD00559,2025-08-02,CUST0123,Cricket Kit,Sports,West,Pune,4,1639.37,0.0,6557.48,4494.27,2063.21,Delivered,Cash on Delivery
+ORD00560,2025-09-14,CUST0140,Jeans,Fashion,East,Bhubaneswar,5,1379.08,0.0,6895.4,3697.72,3197.68,Delivered,Cash on Delivery
+ORD00561,2025-01-27,CUST0183,Water Bottle,Home & Kitchen,South,Vijayawada,3,1241.45,0.05,3538.13,2698.04,840.09,Delivered,Cash on Delivery
+ORD00562,2024-02-01,CUST0165,Water Bottle,Home & Kitchen,Central,Nagpur,3,3000.33,0.05,8550.94,6159.29,2391.65,Returned,Debit Card
+ORD00563,2024-12-26,CUST0179,Wireless Earbuds,Electronics,East,Bhubaneswar,4,2661.9,0.05,10115.22,6875.32,3239.9,Delivered,Debit Card
+ORD00564,2024-05-12,CUST0196,Moisturizer,Beauty,Central,Indore,4,828.61,0.05,3148.72,1768.84,1379.88,Delivered,Net Banking
+ORD00565,2025-10-11,CUST0207,Bluetooth Speaker,Electronics,West,Ahmedabad,1,3184.77,0.1,2866.29,1846.1,1020.19,Delivered,Debit Card
+ORD00566,2024-06-22,CUST0069,Power Bank,Electronics,West,Pune,1,1994.87,0.15,1695.64,1211.87,483.77,Delivered,Credit Card
+ORD00567,2024-06-15,CUST0051,Smart Watch,Electronics,West,Mumbai,1,1844.57,0.0,1844.57,1314.49,530.08,Delivered,UPI
+ORD00568,2024-07-01,CUST0138,Running Shoes,Sports,West,Ahmedabad,1,664.33,0.15,564.68,411.16,153.52,Delivered,Credit Card
+ORD00569,2025-04-14,CUST0029,Dumbbells,Sports,North,Chandigarh,2,4022.12,0.1,7239.82,5459.34,1780.48,Delivered,Credit Card
+ORD00570,2025-02-21,CUST0178,Casual Shirt,Fashion,East,Patna,3,2369.54,0.05,6753.19,3933.63,2819.56,Delivered,Debit Card
+ORD00571,2025-11-24,CUST0038,Handbag,Fashion,West,Ahmedabad,3,1087.89,0.05,3100.49,1922.43,1178.06,Delivered,Cash on Delivery
+ORD00572,2024-10-31,CUST0161,Moisturizer,Beauty,South,Bengaluru,2,1568.75,0.15,2666.88,1608.65,1058.23,Delivered,Net Banking
+ORD00573,2024-07-25,CUST0121,Casual Shirt,Fashion,East,Kolkata,3,1269.63,0.0,3808.89,2618.99,1189.9,Delivered,Net Banking
+ORD00574,2024-02-06,CUST0036,Bedsheet,Home & Kitchen,Central,Bhopal,5,4013.88,0.05,19065.93,11370.27,7695.66,Delivered,Cash on Delivery
+ORD00575,2024-01-06,CUST0031,Dumbbells,Sports,South,Vijayawada,3,3993.63,0.1,10782.8,6529.75,4253.05,Delivered,UPI
+ORD00576,2024-09-30,CUST0026,Jeans,Fashion,South,Bengaluru,5,1404.34,0.15,5968.44,4947.83,1020.61,Returned,Debit Card
+ORD00577,2025-11-07,CUST0086,Running Shoes,Sports,North,Delhi,4,975.98,0.15,3318.33,2429.47,888.86,Delivered,Cash on Delivery
+ORD00578,2025-01-17,CUST0121,Water Bottle,Home & Kitchen,West,Surat,4,1611.79,0.1,5802.44,4312.74,1489.7,Delivered,Cash on Delivery
+ORD00579,2025-10-15,CUST0215,Face Wash,Beauty,West,Pune,5,750.27,0.1,3376.22,2012.07,1364.15,Delivered,Credit Card
+ORD00580,2024-03-15,CUST0165,Bedsheet,Home & Kitchen,East,Guwahati,5,2774.65,0.15,11792.26,9136.29,2655.97,Delivered,Cash on Delivery
+ORD00581,2024-03-09,CUST0060,Mixer Grinder,Home & Kitchen,North,Chandigarh,4,3773.65,0.2,12075.68,8276.91,3798.77,Delivered,Debit Card
+ORD00582,2025-09-01,CUST0053,Casual Shirt,Fashion,South,Chennai,2,2615.38,0.0,5230.76,2760.38,2470.38,Delivered,Credit Card
+ORD00583,2024-03-19,CUST0157,Casual Shirt,Fashion,North,Lucknow,1,1548.39,0.0,1548.39,1031.8,516.59,Delivered,UPI
+ORD00584,2024-02-07,CUST0076,Handbag,Fashion,East,Kolkata,5,2204.72,0.05,10472.42,6829.46,3642.96,Delivered,Net Banking
+ORD00585,2024-10-22,CUST0084,Power Bank,Electronics,North,Delhi,4,2558.66,0.0,10234.64,5855.86,4378.78,Delivered,Debit Card
+ORD00586,2025-11-07,CUST0166,Wireless Earbuds,Electronics,North,Lucknow,5,1555.73,0.0,7778.65,5728.85,2049.8,Delivered,Debit Card
+ORD00587,2025-05-18,CUST0055,Casual Shirt,Fashion,East,Bhubaneswar,5,922.01,0.05,4379.55,3063.7,1315.85,Delivered,Credit Card
+ORD00588,2024-03-13,CUST0204,Sunscreen,Beauty,West,Ahmedabad,1,222.37,0.05,211.25,158.37,52.88,Delivered,Debit Card
+ORD00589,2025-09-03,CUST0073,Casual Shirt,Fashion,North,Delhi,1,2048.51,0.1,1843.66,1104.33,739.33,Delivered,Cash on Delivery
+ORD00590,2025-09-08,CUST0081,Water Bottle,Home & Kitchen,East,Guwahati,4,2327.86,0.15,7914.72,6815.79,1098.93,Delivered,Cash on Delivery
+ORD00591,2025-08-08,CUST0002,Handbag,Fashion,North,Delhi,3,1748.14,0.1,4719.98,2557.49,2162.49,Delivered,UPI
+ORD00592,2025-10-21,CUST0238,Power Bank,Electronics,West,Mumbai,3,5804.4,0.0,17413.2,13037.6,4375.6,Returned,Cash on Delivery
+ORD00593,2024-06-24,CUST0250,Wireless Earbuds,Electronics,North,Delhi,1,1951.18,0.05,1853.62,1080.44,773.18,Delivered,Net Banking
+ORD00594,2025-12-17,CUST0135,Cricket Kit,Sports,East,Patna,1,4417.03,0.0,4417.03,2678.96,1738.07,Delivered,Net Banking
+ORD00595,2024-08-22,CUST0043,Water Bottle,Home & Kitchen,East,Patna,4,2859.03,0.1,10292.51,5679.7,4612.81,Delivered,Net Banking
+ORD00596,2025-08-09,CUST0061,Sneakers,Fashion,South,Chennai,1,3257.96,0.05,3095.06,2173.3,921.76,Delivered,Debit Card
+ORD00597,2025-02-27,CUST0056,Sneakers,Fashion,East,Patna,2,1465.3,0.05,2784.07,2272.08,511.99,Delivered,Debit Card
+ORD00598,2025-07-23,CUST0215,Wireless Earbuds,Electronics,East,Bhubaneswar,2,6653.68,0.0,13307.36,8708.41,4598.95,Delivered,Net Banking
+ORD00599,2025-04-03,CUST0104,Smart Watch,Electronics,East,Guwahati,5,7206.59,0.15,30628.01,20435.77,10192.24,Delivered,Net Banking
+ORD00600,2025-04-14,CUST0244,Sneakers,Fashion,Central,Nagpur,2,3483.95,0.1,6271.11,4785.65,1485.46,Delivered,Net Banking
+ORD00601,2025-03-26,CUST0113,Handbag,Fashion,South,Hyderabad,4,1313.12,0.1,4727.23,3821.92,905.31,Delivered,Net Banking
+ORD00602,2025-07-23,CUST0021,Handbag,Fashion,West,Surat,3,2993.71,0.0,8981.13,5960.28,3020.85,Returned,UPI
+ORD00603,2025-06-24,CUST0156,Power Bank,Electronics,West,Ahmedabad,5,5692.18,0.0,28460.9,17982.86,10478.04,Delivered,UPI
+ORD00604,2024-04-08,CUST0127,Water Bottle,Home & Kitchen,South,Hyderabad,3,2874.6,0.0,8623.8,5276.42,3347.38,Returned,Net Banking
+ORD00605,2025-08-26,CUST0126,Smart Watch,Electronics,North,Chandigarh,4,2154.04,0.05,8185.35,6396.22,1789.13,Delivered,Credit Card
+ORD00606,2025-01-26,CUST0065,Power Bank,Electronics,East,Bhubaneswar,2,7695.0,0.1,13851.0,9986.38,3864.62,Returned,Credit Card
+ORD00607,2024-08-24,CUST0165,Jeans,Fashion,East,Kolkata,4,3177.3,0.15,10802.82,7155.8,3647.02,Delivered,Net Banking
+ORD00608,2025-01-10,CUST0020,Bedsheet,Home & Kitchen,East,Patna,2,548.13,0.0,1096.26,633.01,463.25,Delivered,Credit Card
+ORD00609,2025-12-07,CUST0184,Cricket Kit,Sports,South,Chennai,3,4246.01,0.05,12101.13,8593.76,3507.37,Delivered,Credit Card
+ORD00610,2025-09-18,CUST0186,Face Wash,Beauty,West,Surat,1,697.49,0.1,627.74,465.72,162.02,Delivered,UPI
+ORD00611,2025-09-01,CUST0165,Yoga Mat,Sports,South,Chennai,4,1106.88,0.05,4206.14,2826.95,1379.19,Delivered,Debit Card
+ORD00612,2024-12-04,CUST0079,Wireless Earbuds,Electronics,West,Ahmedabad,4,1150.62,0.15,3912.11,2240.47,1671.64,Returned,Debit Card
+ORD00613,2025-07-27,CUST0244,Sunscreen,Beauty,South,Hyderabad,4,1274.66,0.1,4588.78,3793.93,794.85,Delivered,Credit Card
+ORD00614,2024-10-08,CUST0093,Handbag,Fashion,Central,Bhopal,4,2082.91,0.0,8331.64,4429.49,3902.15,Delivered,UPI
+ORD00615,2025-05-16,CUST0113,Face Wash,Beauty,Central,Raipur,2,235.95,0.0,471.9,236.87,235.03,Delivered,UPI
+ORD00616,2025-04-12,CUST0018,Cricket Kit,Sports,West,Mumbai,5,1999.92,0.05,9499.62,5925.1,3574.52,Delivered,UPI
+ORD00617,2024-07-01,CUST0111,Mixer Grinder,Home & Kitchen,South,Vijayawada,5,2914.09,0.0,14570.45,9094.21,5476.24,Delivered,UPI
+ORD00618,2024-07-13,CUST0191,Smart Watch,Electronics,North,Jaipur,1,2657.91,0.15,2259.22,2005.74,253.48,Delivered,Cash on Delivery
+ORD00619,2024-02-14,CUST0035,Bedsheet,Home & Kitchen,South,Chennai,2,1124.67,0.05,2136.87,1460.83,676.04,Delivered,UPI
+ORD00620,2024-04-12,CUST0175,Jeans,Fashion,East,Kolkata,2,1828.36,0.1,3291.05,2314.03,977.02,Delivered,Net Banking
+ORD00621,2024-11-12,CUST0219,Smart Watch,Electronics,North,Lucknow,2,1215.76,0.15,2066.79,1715.48,351.31,Delivered,Credit Card
+ORD00622,2024-12-15,CUST0209,Storage Set,Home & Kitchen,East,Kolkata,3,1171.5,0.1,3163.05,2303.83,859.22,Returned,Credit Card
+ORD00623,2024-04-30,CUST0240,Casual Shirt,Fashion,Central,Indore,5,1416.43,0.15,6019.83,4441.35,1578.48,Delivered,Debit Card
+ORD00624,2024-10-31,CUST0142,Cricket Kit,Sports,Central,Nagpur,5,1903.88,0.1,8567.46,6218.09,2349.37,Delivered,Cash on Delivery
+ORD00625,2025-03-17,CUST0029,Hair Serum,Beauty,Central,Raipur,5,649.39,0.05,3084.6,1753.08,1331.52,Delivered,Cash on Delivery
+ORD00626,2024-06-19,CUST0236,Storage Set,Home & Kitchen,East,Guwahati,2,3140.14,0.0,6280.28,3859.28,2421.0,Delivered,Cash on Delivery
+ORD00627,2024-09-04,CUST0139,Dumbbells,Sports,North,Lucknow,4,4463.87,0.0,17855.48,9066.44,8789.04,Delivered,Cash on Delivery
+ORD00628,2024-09-25,CUST0240,Sunscreen,Beauty,East,Bhubaneswar,2,170.22,0.1,306.4,265.41,40.99,Delivered,Credit Card
+ORD00629,2025-01-04,CUST0100,Sneakers,Fashion,North,Delhi,5,1177.83,0.1,5300.23,3436.37,1863.86,Delivered,UPI
+ORD00630,2024-09-24,CUST0087,Yoga Mat,Sports,Central,Raipur,3,1678.2,0.0,5034.6,3374.47,1660.13,Delivered,UPI
+ORD00631,2025-06-22,CUST0192,Mixer Grinder,Home & Kitchen,Central,Nagpur,2,3110.81,0.05,5910.54,3628.09,2282.45,Delivered,Credit Card
+ORD00632,2024-08-27,CUST0060,Sneakers,Fashion,West,Ahmedabad,1,1509.21,0.1,1358.29,1039.12,319.17,Delivered,Credit Card
+ORD00633,2024-11-13,CUST0018,Running Shoes,Sports,Central,Indore,4,477.83,0.1,1720.19,1088.38,631.81,Delivered,Cash on Delivery
+ORD00634,2024-10-04,CUST0195,Face Wash,Beauty,East,Patna,4,486.24,0.15,1653.22,1373.04,280.18,Delivered,Net Banking
+ORD00635,2024-05-13,CUST0162,Jeans,Fashion,East,Bhubaneswar,2,2246.48,0.05,4268.31,3260.65,1007.66,Delivered,Net Banking
+ORD00636,2025-05-16,CUST0006,Power Bank,Electronics,North,Chandigarh,5,8041.33,0.2,32165.32,24459.93,7705.39,Delivered,Credit Card
+ORD00637,2024-06-21,CUST0171,Mixer Grinder,Home & Kitchen,South,Bengaluru,5,4985.88,0.1,22436.46,16828.93,5607.53,Delivered,Cash on Delivery
+ORD00638,2024-08-05,CUST0068,Face Wash,Beauty,Central,Raipur,2,1517.91,0.0,3035.82,2091.72,944.1,Delivered,Credit Card
+ORD00639,2025-08-02,CUST0141,Power Bank,Electronics,South,Hyderabad,1,1413.79,0.05,1343.1,1073.14,269.96,Delivered,Net Banking
+ORD00640,2025-11-24,CUST0025,Yoga Mat,Sports,North,Jaipur,3,2121.69,0.05,6046.82,3651.35,2395.47,Delivered,UPI
+ORD00641,2025-05-05,CUST0183,Bedsheet,Home & Kitchen,North,Jaipur,4,1205.72,0.0,4822.88,3114.74,1708.14,Delivered,UPI
+ORD00642,2025-10-31,CUST0176,Power Bank,Electronics,West,Pune,2,7490.34,0.0,14980.68,10672.4,4308.28,Delivered,Cash on Delivery
+ORD00643,2025-09-16,CUST0097,Sneakers,Fashion,Central,Raipur,1,496.96,0.0,496.96,291.23,205.73,Delivered,Cash on Delivery
+ORD00644,2024-12-17,CUST0037,Face Wash,Beauty,North,Chandigarh,1,1688.58,0.1,1519.72,1292.09,227.63,Returned,Cash on Delivery
+ORD00645,2025-07-17,CUST0023,Smart Watch,Electronics,West,Pune,5,4376.19,0.05,20786.9,15305.76,5481.14,Delivered,Debit Card
+ORD00646,2024-08-28,CUST0071,Casual Shirt,Fashion,South,Vijayawada,5,882.19,0.0,4410.95,3191.6,1219.35,Delivered,Net Banking
+ORD00647,2024-12-02,CUST0002,Water Bottle,Home & Kitchen,North,Delhi,3,4176.58,0.05,11903.25,7689.25,4214.0,Delivered,Debit Card
+ORD00648,2025-01-26,CUST0034,Hair Serum,Beauty,South,Bengaluru,1,1687.23,0.05,1602.87,900.09,702.78,Delivered,UPI
+ORD00649,2025-12-03,CUST0203,Sunscreen,Beauty,South,Chennai,1,332.65,0.1,299.38,165.18,134.2,Delivered,Debit Card
+ORD00650,2025-09-12,CUST0229,Power Bank,Electronics,West,Surat,3,1501.99,0.1,4055.37,2247.93,1807.44,Delivered,Cash on Delivery
+ORD00651,2024-12-23,CUST0007,Wireless Earbuds,Electronics,East,Guwahati,1,2439.65,0.1,2195.68,1902.1,293.58,Delivered,Credit Card
+ORD00652,2025-04-22,CUST0158,Jeans,Fashion,Central,Bhopal,2,3139.9,0.15,5337.83,4673.16,664.67,Delivered,Cash on Delivery
+ORD00653,2024-05-27,CUST0063,Water Bottle,Home & Kitchen,North,Jaipur,5,3400.38,0.0,17001.9,12549.59,4452.31,Cancelled,Credit Card
+ORD00654,2025-08-11,CUST0086,Casual Shirt,Fashion,West,Mumbai,1,1190.19,0.0,1190.19,752.26,437.93,Delivered,Net Banking
+ORD00655,2025-02-08,CUST0026,Water Bottle,Home & Kitchen,East,Bhubaneswar,3,1050.34,0.1,2835.92,2071.63,764.29,Delivered,UPI
+ORD00656,2025-01-24,CUST0155,Bedsheet,Home & Kitchen,East,Kolkata,2,773.26,0.2,1237.22,824.01,413.21,Delivered,Debit Card
+ORD00657,2025-07-14,CUST0229,Moisturizer,Beauty,East,Guwahati,2,561.77,0.1,1011.19,634.25,376.94,Delivered,UPI
+ORD00658,2025-04-07,CUST0104,Wireless Earbuds,Electronics,Central,Nagpur,5,7427.65,0.0,37138.25,27201.15,9937.1,Delivered,Net Banking
+ORD00659,2024-02-22,CUST0241,Jeans,Fashion,West,Mumbai,2,1323.41,0.05,2514.48,1271.31,1243.17,Delivered,UPI
+ORD00660,2024-07-29,CUST0034,Water Bottle,Home & Kitchen,West,Ahmedabad,3,2865.55,0.0,8596.65,6632.08,1964.57,Delivered,Debit Card
+ORD00661,2024-05-09,CUST0220,Running Shoes,Sports,North,Jaipur,2,570.27,0.0,1140.54,774.0,366.54,Delivered,Debit Card
+ORD00662,2025-06-21,CUST0232,Sneakers,Fashion,West,Mumbai,4,862.74,0.15,2933.32,2033.15,900.17,Delivered,Net Banking
+ORD00663,2024-01-26,CUST0038,Face Wash,Beauty,South,Hyderabad,5,1242.74,0.0,6213.7,4621.57,1592.13,Delivered,Cash on Delivery
+ORD00664,2024-05-27,CUST0181,Water Bottle,Home & Kitchen,East,Patna,5,1798.46,0.0,8992.3,6966.06,2026.24,Delivered,Cash on Delivery
+ORD00665,2025-03-12,CUST0238,Bedsheet,Home & Kitchen,North,Jaipur,3,2076.68,0.1,5607.04,4329.96,1277.08,Delivered,UPI
+ORD00666,2025-05-22,CUST0229,Handbag,Fashion,North,Lucknow,3,2302.51,0.05,6562.15,4955.05,1607.1,Delivered,Debit Card
+ORD00667,2025-01-02,CUST0133,Handbag,Fashion,East,Guwahati,1,3237.31,0.1,2913.58,2015.22,898.36,Delivered,Credit Card
+ORD00668,2025-09-21,CUST0074,Running Shoes,Sports,East,Patna,5,2601.85,0.1,11708.33,6469.07,5239.26,Delivered,Cash on Delivery
+ORD00669,2025-11-02,CUST0057,Face Wash,Beauty,North,Chandigarh,4,1322.96,0.1,4762.66,3535.68,1226.98,Delivered,UPI
+ORD00670,2024-04-06,CUST0232,Cricket Kit,Sports,East,Patna,4,588.7,0.05,2237.06,1350.55,886.51,Delivered,UPI
+ORD00671,2025-11-27,CUST0106,Dumbbells,Sports,West,Mumbai,4,3386.37,0.0,13545.48,7735.79,5809.69,Delivered,Net Banking
+ORD00672,2025-03-25,CUST0046,Mixer Grinder,Home & Kitchen,South,Bengaluru,1,787.78,0.1,709.0,440.19,268.81,Delivered,Debit Card
+ORD00673,2025-04-10,CUST0057,Smart Watch,Electronics,West,Surat,4,7314.86,0.05,27796.47,19510.61,8285.86,Delivered,Net Banking
+ORD00674,2024-03-10,CUST0093,Power Bank,Electronics,West,Ahmedabad,3,2216.64,0.15,5652.43,4079.53,1572.9,Delivered,Credit Card
+ORD00675,2025-03-30,CUST0105,Yoga Mat,Sports,West,Ahmedabad,4,4129.86,0.0,16519.44,11629.97,4889.47,Delivered,Credit Card
+ORD00676,2025-06-14,CUST0174,Mixer Grinder,Home & Kitchen,East,Guwahati,1,1247.19,0.1,1122.47,694.86,427.61,Delivered,Net Banking
+ORD00677,2025-02-28,CUST0226,Dumbbells,Sports,North,Lucknow,4,3949.17,0.05,15006.85,10027.21,4979.64,Delivered,Net Banking
+ORD00678,2024-03-02,CUST0214,Water Bottle,Home & Kitchen,Central,Bhopal,4,2007.74,0.15,6826.32,4753.56,2072.76,Delivered,Debit Card
+ORD00679,2025-01-17,CUST0137,Yoga Mat,Sports,South,Chennai,4,593.32,0.1,2135.95,1774.29,361.66,Delivered,Credit Card
+ORD00680,2025-11-15,CUST0148,Bedsheet,Home & Kitchen,East,Guwahati,5,3810.02,0.0,19050.1,9852.09,9198.01,Delivered,UPI
+ORD00681,2025-06-12,CUST0104,Jeans,Fashion,South,Hyderabad,5,701.36,0.1,3156.12,2247.48,908.64,Returned,Debit Card
+ORD00682,2024-04-10,CUST0161,Cricket Kit,Sports,North,Chandigarh,1,2887.57,0.1,2598.81,1862.91,735.9,Delivered,UPI
+ORD00683,2025-12-02,CUST0191,Mixer Grinder,Home & Kitchen,Central,Nagpur,2,4174.67,0.0,8349.34,4258.99,4090.35,Delivered,Credit Card
+ORD00684,2025-12-01,CUST0078,Bluetooth Speaker,Electronics,Central,Indore,5,7343.73,0.15,31210.85,24790.74,6420.11,Returned,Credit Card
+ORD00685,2024-05-03,CUST0239,Smart Watch,Electronics,West,Pune,1,8057.12,0.15,6848.55,4244.25,2604.3,Delivered,Net Banking
+ORD00686,2025-08-08,CUST0091,Face Wash,Beauty,Central,Raipur,5,778.24,0.1,3502.08,2615.28,886.8,Returned,Cash on Delivery
+ORD00687,2024-10-24,CUST0010,Mixer Grinder,Home & Kitchen,Central,Bhopal,5,1119.92,0.2,4479.68,4312.95,166.73,Delivered,Credit Card
+ORD00688,2025-03-09,CUST0005,Moisturizer,Beauty,West,Pune,4,291.75,0.1,1050.3,610.18,440.12,Delivered,UPI
+ORD00689,2024-11-21,CUST0104,Face Wash,Beauty,West,Ahmedabad,2,1652.97,0.15,2810.05,2052.98,757.07,Delivered,Net Banking
+ORD00690,2025-07-26,CUST0081,Sunscreen,Beauty,Central,Bhopal,2,1381.35,0.15,2348.29,2052.0,296.29,Delivered,Credit Card
+ORD00691,2025-12-29,CUST0249,Casual Shirt,Fashion,East,Bhubaneswar,4,2594.26,0.1,9339.34,5253.76,4085.58,Cancelled,UPI
+ORD00692,2025-08-04,CUST0250,Mixer Grinder,Home & Kitchen,Central,Raipur,5,1406.95,0.1,6331.28,5232.22,1099.06,Delivered,Debit Card
+ORD00693,2025-11-11,CUST0157,Hair Serum,Beauty,South,Hyderabad,2,1289.66,0.0,2579.32,1835.38,743.94,Delivered,Cash on Delivery
+ORD00694,2025-11-22,CUST0154,Dumbbells,Sports,West,Surat,4,1963.82,0.05,7462.52,5196.84,2265.68,Delivered,Debit Card
+ORD00695,2024-03-06,CUST0129,Handbag,Fashion,Central,Raipur,4,2586.32,0.0,10345.28,7308.79,3036.49,Delivered,Cash on Delivery
+ORD00696,2024-07-04,CUST0079,Sunscreen,Beauty,East,Kolkata,4,1013.98,0.1,3650.33,2312.18,1338.15,Delivered,Debit Card
+ORD00697,2025-06-11,CUST0040,Bedsheet,Home & Kitchen,West,Pune,3,4266.22,0.0,12798.66,7549.48,5249.18,Delivered,Cash on Delivery
+ORD00698,2025-03-07,CUST0156,Sneakers,Fashion,Central,Indore,3,2854.67,0.1,7707.61,4877.31,2830.3,Delivered,Debit Card
+ORD00699,2024-02-06,CUST0095,Casual Shirt,Fashion,East,Bhubaneswar,5,3109.37,0.05,14769.51,8388.02,6381.49,Delivered,Cash on Delivery
+ORD00700,2024-03-10,CUST0241,Handbag,Fashion,Central,Bhopal,3,1833.05,0.15,4674.28,4192.57,481.71,Delivered,Cash on Delivery
+ORD00701,2025-01-15,CUST0206,Hair Serum,Beauty,South,Bengaluru,1,1574.94,0.0,1574.94,776.45,798.49,Delivered,Cash on Delivery
+ORD00702,2025-03-26,CUST0248,Water Bottle,Home & Kitchen,North,Lucknow,3,1449.14,0.1,3912.68,2126.76,1785.92,Delivered,Cash on Delivery
+ORD00703,2024-05-02,CUST0160,Water Bottle,Home & Kitchen,West,Ahmedabad,3,4174.75,0.0,12524.25,6744.85,5779.4,Delivered,Debit Card
+ORD00704,2024-05-05,CUST0246,Smart Watch,Electronics,East,Kolkata,1,2074.62,0.05,1970.89,1373.85,597.04,Delivered,Credit Card
+ORD00705,2024-04-04,CUST0011,Sneakers,Fashion,West,Pune,3,1092.85,0.2,2622.84,2058.11,564.73,Delivered,Debit Card
+ORD00706,2025-02-16,CUST0133,Bluetooth Speaker,Electronics,North,Lucknow,5,1404.29,0.2,5617.16,4609.96,1007.2,Delivered,UPI
+ORD00707,2024-01-06,CUST0209,Hair Serum,Beauty,Central,Bhopal,1,342.4,0.05,325.28,170.63,154.65,Delivered,Cash on Delivery
+ORD00708,2025-02-22,CUST0192,Power Bank,Electronics,South,Bengaluru,4,4558.43,0.15,15498.66,12228.06,3270.6,Delivered,UPI
+ORD00709,2024-12-13,CUST0149,Hair Serum,Beauty,East,Patna,3,322.92,0.0,968.76,541.77,426.99,Delivered,Net Banking
+ORD00710,2024-12-06,CUST0078,Hair Serum,Beauty,South,Bengaluru,5,633.29,0.05,3008.13,1528.76,1479.37,Delivered,Debit Card
+ORD00711,2025-05-11,CUST0249,Mixer Grinder,Home & Kitchen,Central,Bhopal,4,4142.15,0.15,14083.31,8181.26,5902.05,Delivered,Net Banking
+ORD00712,2025-01-17,CUST0242,Handbag,Fashion,East,Bhubaneswar,2,1229.35,0.1,2212.83,1357.06,855.77,Delivered,Net Banking
+ORD00713,2025-06-15,CUST0067,Handbag,Fashion,South,Chennai,4,2242.4,0.15,7624.16,4405.71,3218.45,Delivered,Debit Card
+ORD00714,2025-07-12,CUST0132,Sunscreen,Beauty,East,Bhubaneswar,2,1225.88,0.0,2451.76,1512.05,939.71,Delivered,Debit Card
+ORD00715,2025-11-03,CUST0004,Handbag,Fashion,South,Vijayawada,1,2092.76,0.1,1883.48,1198.44,685.04,Delivered,Net Banking
+ORD00716,2025-08-07,CUST0152,Mixer Grinder,Home & Kitchen,South,Chennai,2,3548.32,0.0,7096.64,5051.66,2044.98,Delivered,Cash on Delivery
+ORD00717,2025-01-13,CUST0056,Sneakers,Fashion,East,Patna,4,545.1,0.2,1744.32,1680.43,63.89,Delivered,Credit Card
+ORD00718,2024-12-25,CUST0157,Jeans,Fashion,North,Chandigarh,1,2464.34,0.05,2341.12,1581.54,759.58,Delivered,Cash on Delivery
+ORD00719,2024-06-21,CUST0028,Moisturizer,Beauty,North,Lucknow,3,220.49,0.2,529.18,413.4,115.78,Delivered,Cash on Delivery
+ORD00720,2025-03-14,CUST0090,Running Shoes,Sports,Central,Raipur,5,2702.24,0.05,12835.64,8839.07,3996.57,Delivered,Net Banking
+ORD00721,2024-04-11,CUST0125,Water Bottle,Home & Kitchen,East,Kolkata,3,814.58,0.0,2443.74,1217.69,1226.05,Delivered,Net Banking
+ORD00722,2025-11-11,CUST0136,Running Shoes,Sports,Central,Bhopal,4,3900.41,0.1,14041.48,10780.29,3261.19,Delivered,UPI
+ORD00723,2025-09-09,CUST0245,Face Wash,Beauty,Central,Indore,3,408.08,0.1,1101.82,936.09,165.73,Returned,Cash on Delivery
+ORD00724,2024-03-28,CUST0052,Bluetooth Speaker,Electronics,West,Mumbai,5,7660.69,0.15,32557.93,20128.68,12429.25,Returned,UPI
+ORD00725,2025-07-28,CUST0220,Water Bottle,Home & Kitchen,South,Chennai,2,2415.93,0.0,4831.86,3760.28,1071.58,Returned,UPI
+ORD00726,2024-03-26,CUST0196,Handbag,Fashion,West,Surat,2,1720.19,0.05,3268.36,1657.16,1611.2,Cancelled,Debit Card
+ORD00727,2025-06-11,CUST0108,Water Bottle,Home & Kitchen,South,Bengaluru,3,2115.57,0.0,6346.71,4002.49,2344.22,Delivered,UPI
+ORD00728,2024-03-05,CUST0028,Cricket Kit,Sports,West,Ahmedabad,2,416.19,0.0,832.38,433.05,399.33,Delivered,Net Banking
+ORD00729,2024-12-22,CUST0218,Sunscreen,Beauty,South,Vijayawada,2,815.19,0.05,1548.86,945.17,603.69,Delivered,Cash on Delivery
+ORD00730,2025-04-25,CUST0026,Casual Shirt,Fashion,East,Kolkata,2,823.06,0.15,1399.2,815.0,584.2,Delivered,Net Banking
+ORD00731,2025-06-16,CUST0048,Bluetooth Speaker,Electronics,North,Delhi,4,5894.5,0.0,23578.0,17373.39,6204.61,Delivered,UPI
+ORD00732,2024-11-02,CUST0009,Bedsheet,Home & Kitchen,South,Hyderabad,1,704.87,0.15,599.14,442.29,156.85,Delivered,Cash on Delivery
+ORD00733,2025-11-04,CUST0094,Face Wash,Beauty,West,Ahmedabad,1,342.19,0.1,307.97,264.08,43.89,Delivered,UPI
+ORD00734,2025-07-20,CUST0181,Mixer Grinder,Home & Kitchen,East,Guwahati,4,913.11,0.1,3287.2,1969.87,1317.33,Delivered,Debit Card
+ORD00735,2024-06-01,CUST0022,Cricket Kit,Sports,South,Bengaluru,1,4415.05,0.05,4194.3,2914.36,1279.94,Delivered,Debit Card
+ORD00736,2025-05-05,CUST0116,Casual Shirt,Fashion,West,Mumbai,5,1675.92,0.1,7541.64,4994.34,2547.3,Delivered,UPI
+ORD00737,2025-06-18,CUST0080,Casual Shirt,Fashion,West,Mumbai,1,1529.59,0.0,1529.59,764.63,764.96,Delivered,Net Banking
+ORD00738,2024-08-31,CUST0069,Power Bank,Electronics,North,Lucknow,3,1668.16,0.0,5004.48,3364.8,1639.68,Delivered,Credit Card
+ORD00739,2025-06-23,CUST0048,Yoga Mat,Sports,South,Bengaluru,4,4318.93,0.0,17275.72,10598.84,6676.88,Delivered,Cash on Delivery
+ORD00740,2025-10-18,CUST0205,Smart Watch,Electronics,West,Pune,4,5780.28,0.1,20809.01,16462.01,4347.0,Returned,Cash on Delivery
+ORD00741,2025-08-20,CUST0025,Hair Serum,Beauty,North,Delhi,1,1339.59,0.0,1339.59,812.8,526.79,Delivered,Debit Card
+ORD00742,2025-07-11,CUST0070,Smart Watch,Electronics,Central,Indore,1,8431.44,0.1,7588.3,5468.24,2120.06,Delivered,Net Banking
+ORD00743,2025-04-08,CUST0246,Dumbbells,Sports,East,Patna,4,2830.42,0.0,11321.68,7807.02,3514.66,Delivered,Debit Card
+ORD00744,2024-07-16,CUST0249,Jeans,Fashion,East,Bhubaneswar,3,1719.19,0.2,4126.06,3569.21,556.85,Delivered,Debit Card
+ORD00745,2025-08-04,CUST0183,Wireless Earbuds,Electronics,Central,Bhopal,2,5080.88,0.1,9145.58,5482.54,3663.04,Delivered,UPI
+ORD00746,2024-09-23,CUST0193,Handbag,Fashion,Central,Bhopal,4,2293.94,0.15,7799.4,4778.93,3020.47,Delivered,UPI
+ORD00747,2025-01-24,CUST0127,Smart Watch,Electronics,South,Hyderabad,4,7242.22,0.05,27520.44,22506.81,5013.63,Delivered,Credit Card
+ORD00748,2024-08-17,CUST0037,Water Bottle,Home & Kitchen,South,Chennai,1,949.03,0.1,854.13,568.21,285.92,Delivered,Net Banking
+ORD00749,2024-08-16,CUST0039,Mixer Grinder,Home & Kitchen,North,Jaipur,2,3812.42,0.1,6862.36,4226.47,2635.89,Delivered,Credit Card
+ORD00750,2024-04-25,CUST0142,Moisturizer,Beauty,North,Lucknow,1,869.99,0.05,826.49,473.97,352.52,Delivered,Debit Card
+ORD00751,2025-12-03,CUST0227,Face Wash,Beauty,North,Jaipur,1,951.14,0.05,903.58,580.31,323.27,Delivered,Net Banking
+ORD00752,2024-04-18,CUST0125,Cricket Kit,Sports,Central,Nagpur,2,1778.75,0.0,3557.5,2156.64,1400.86,Delivered,Debit Card
+ORD00753,2024-03-04,CUST0023,Dumbbells,Sports,South,Bengaluru,3,1044.52,0.1,2820.2,1661.14,1159.06,Returned,Cash on Delivery
+ORD00754,2025-11-15,CUST0074,Running Shoes,Sports,East,Bhubaneswar,4,1890.28,0.15,6426.95,4093.71,2333.24,Delivered,Net Banking
+ORD00755,2025-02-09,CUST0222,Storage Set,Home & Kitchen,South,Hyderabad,5,3341.71,0.05,15873.12,9249.83,6623.29,Delivered,Cash on Delivery
+ORD00756,2024-11-16,CUST0043,Smart Watch,Electronics,South,Vijayawada,4,4462.27,0.15,15171.72,8967.18,6204.54,Delivered,UPI
+ORD00757,2025-06-23,CUST0182,Running Shoes,Sports,East,Bhubaneswar,4,1229.42,0.0,4917.68,2412.7,2504.98,Delivered,Cash on Delivery
+ORD00758,2024-10-07,CUST0250,Face Wash,Beauty,West,Pune,4,247.9,0.1,892.44,555.82,336.62,Delivered,Net Banking
+ORD00759,2024-04-03,CUST0180,Bluetooth Speaker,Electronics,Central,Nagpur,2,4888.72,0.0,9777.44,7306.03,2471.41,Returned,Net Banking
+ORD00760,2025-06-17,CUST0109,Cricket Kit,Sports,Central,Nagpur,5,853.04,0.1,3838.68,3076.69,761.99,Delivered,Net Banking
+ORD00761,2024-05-08,CUST0023,Yoga Mat,Sports,East,Guwahati,5,2398.22,0.0,11991.1,8354.9,3636.2,Delivered,Debit Card
+ORD00762,2025-02-08,CUST0035,Yoga Mat,Sports,South,Vijayawada,2,3279.57,0.0,6559.14,4813.0,1746.14,Delivered,Cash on Delivery
+ORD00763,2025-11-24,CUST0058,Bluetooth Speaker,Electronics,West,Surat,2,5111.44,0.05,9711.74,6748.1,2963.64,Delivered,Cash on Delivery
+ORD00764,2025-11-15,CUST0018,Running Shoes,Sports,West,Ahmedabad,1,2809.82,0.0,2809.82,2062.3,747.52,Delivered,Credit Card
+ORD00765,2024-09-20,CUST0095,Water Bottle,Home & Kitchen,East,Guwahati,2,4798.66,0.05,9117.45,6755.38,2362.07,Delivered,Debit Card
+ORD00766,2025-07-24,CUST0103,Sneakers,Fashion,South,Vijayawada,1,2612.81,0.15,2220.89,1963.99,256.9,Delivered,Credit Card
+ORD00767,2025-03-23,CUST0194,Dumbbells,Sports,West,Surat,3,4309.76,0.05,12282.82,8877.79,3405.03,Returned,UPI
+ORD00768,2024-12-16,CUST0209,Moisturizer,Beauty,East,Guwahati,3,601.45,0.05,1714.13,1043.73,670.4,Delivered,Debit Card
+ORD00769,2024-04-12,CUST0090,Water Bottle,Home & Kitchen,East,Guwahati,5,3287.18,0.0,16435.9,12175.1,4260.8,Delivered,Credit Card
+ORD00770,2024-10-02,CUST0211,Sneakers,Fashion,North,Chandigarh,3,2576.37,0.15,6569.74,3829.64,2740.1,Delivered,Credit Card
+ORD00771,2025-04-21,CUST0177,Face Wash,Beauty,Central,Nagpur,4,638.55,0.0,2554.2,1580.66,973.54,Delivered,Credit Card
+ORD00772,2025-12-22,CUST0099,Moisturizer,Beauty,South,Hyderabad,4,435.99,0.15,1482.37,981.35,501.02,Cancelled,Credit Card
+ORD00773,2024-01-04,CUST0190,Mixer Grinder,Home & Kitchen,North,Delhi,5,3223.6,0.0,16118.0,10643.3,5474.7,Delivered,Debit Card
+ORD00774,2025-06-08,CUST0038,Wireless Earbuds,Electronics,South,Hyderabad,3,7453.53,0.0,22360.59,12126.25,10234.34,Delivered,UPI
+ORD00775,2025-09-10,CUST0005,Bluetooth Speaker,Electronics,North,Jaipur,1,8686.38,0.1,7817.74,4721.48,3096.26,Delivered,Debit Card
+ORD00776,2025-11-26,CUST0154,Water Bottle,Home & Kitchen,North,Delhi,5,2787.86,0.0,13939.3,8571.73,5367.57,Delivered,Cash on Delivery
+ORD00777,2024-11-05,CUST0006,Smart Watch,Electronics,West,Surat,4,5080.91,0.1,18291.28,10244.01,8047.27,Delivered,Credit Card
+ORD00778,2024-03-27,CUST0131,Casual Shirt,Fashion,North,Delhi,3,823.03,0.05,2345.64,1512.29,833.35,Returned,Debit Card
+ORD00779,2024-07-17,CUST0124,Moisturizer,Beauty,North,Lucknow,5,986.4,0.15,4192.2,3218.15,974.05,Returned,Cash on Delivery
+ORD00780,2025-09-13,CUST0092,Cricket Kit,Sports,East,Bhubaneswar,5,1247.56,0.0,6237.8,4285.55,1952.25,Delivered,Cash on Delivery
+ORD00781,2025-10-03,CUST0187,Smart Watch,Electronics,East,Guwahati,5,3062.6,0.0,15313.0,10415.73,4897.27,Delivered,UPI
+ORD00782,2025-04-10,CUST0011,Hair Serum,Beauty,North,Lucknow,3,1326.24,0.0,3978.72,2791.68,1187.04,Delivered,Debit Card
+ORD00783,2024-03-30,CUST0101,Storage Set,Home & Kitchen,West,Surat,5,1435.23,0.2,5740.92,5309.44,431.48,Delivered,Cash on Delivery
+ORD00784,2024-03-30,CUST0106,Dumbbells,Sports,North,Jaipur,3,783.12,0.0,2349.36,1684.71,664.65,Delivered,Credit Card
+ORD00785,2024-12-15,CUST0223,Hair Serum,Beauty,Central,Nagpur,5,917.66,0.1,4129.47,3543.1,586.37,Delivered,UPI
+ORD00786,2025-03-06,CUST0082,Moisturizer,Beauty,North,Chandigarh,1,1785.33,0.0,1785.33,1213.02,572.31,Delivered,Net Banking
+ORD00787,2024-01-24,CUST0229,Wireless Earbuds,Electronics,East,Patna,2,4368.41,0.05,8299.98,5730.61,2569.37,Delivered,Credit Card
+ORD00788,2025-05-16,CUST0223,Bedsheet,Home & Kitchen,North,Delhi,5,3921.73,0.0,19608.65,14958.21,4650.44,Delivered,Debit Card
+ORD00789,2025-02-02,CUST0118,Hair Serum,Beauty,South,Hyderabad,4,394.93,0.1,1421.75,829.12,592.63,Delivered,Net Banking
+ORD00790,2024-01-09,CUST0026,Hair Serum,Beauty,North,Delhi,2,651.53,0.2,1042.45,800.86,241.59,Delivered,Credit Card
+ORD00791,2024-03-10,CUST0069,Power Bank,Electronics,South,Chennai,2,3212.34,0.05,6103.45,3244.99,2858.46,Cancelled,Credit Card
+ORD00792,2024-11-28,CUST0232,Hair Serum,Beauty,Central,Nagpur,1,890.33,0.0,890.33,460.2,430.13,Delivered,Cash on Delivery
+ORD00793,2025-06-12,CUST0212,Jeans,Fashion,Central,Bhopal,1,1164.71,0.05,1106.47,649.5,456.97,Delivered,UPI
+ORD00794,2025-08-26,CUST0201,Mixer Grinder,Home & Kitchen,South,Vijayawada,4,1579.89,0.15,5371.63,3488.94,1882.69,Delivered,UPI
+ORD00795,2024-11-11,CUST0114,Smart Watch,Electronics,South,Hyderabad,4,7788.66,0.15,26481.44,17101.39,9380.05,Delivered,UPI
+ORD00796,2024-08-03,CUST0189,Bluetooth Speaker,Electronics,West,Ahmedabad,5,4336.88,0.1,19515.96,14150.81,5365.15,Delivered,Net Banking
+ORD00797,2025-12-08,CUST0157,Handbag,Fashion,West,Mumbai,5,2050.69,0.1,9228.11,6253.95,2974.16,Delivered,Net Banking
+ORD00798,2024-12-01,CUST0086,Moisturizer,Beauty,West,Ahmedabad,5,1733.78,0.15,7368.56,5726.05,1642.51,Delivered,Debit Card
+ORD00799,2024-08-18,CUST0064,Moisturizer,Beauty,Central,Nagpur,1,155.77,0.15,132.4,98.78,33.62,Delivered,Debit Card
+ORD00800,2024-11-19,CUST0021,Water Bottle,Home & Kitchen,Central,Indore,5,4997.71,0.0,24988.55,13826.69,11161.86,Delivered,Credit Card
+ORD00801,2024-01-09,CUST0027,Mixer Grinder,Home & Kitchen,North,Delhi,5,793.38,0.0,3966.9,2775.43,1191.47,Delivered,UPI
+ORD00802,2024-08-08,CUST0046,Handbag,Fashion,East,Patna,1,431.33,0.1,388.2,240.24,147.96,Delivered,Net Banking
+ORD00803,2025-01-11,CUST0203,Face Wash,Beauty,Central,Nagpur,1,829.68,0.0,829.68,464.7,364.98,Delivered,Credit Card
+ORD00804,2025-11-02,CUST0094,Wireless Earbuds,Electronics,East,Patna,3,804.04,0.15,2050.3,1622.26,428.04,Delivered,Cash on Delivery
+ORD00805,2025-06-23,CUST0066,Sunscreen,Beauty,Central,Indore,4,249.76,0.1,899.14,717.05,182.09,Delivered,Net Banking
+ORD00806,2025-07-25,CUST0184,Moisturizer,Beauty,East,Kolkata,4,786.96,0.0,3147.84,2283.68,864.16,Delivered,Cash on Delivery
+ORD00807,2025-02-02,CUST0166,Wireless Earbuds,Electronics,South,Bengaluru,2,1297.56,0.15,2205.85,1488.08,717.77,Cancelled,Cash on Delivery
+ORD00808,2024-03-21,CUST0063,Sunscreen,Beauty,West,Surat,3,1009.52,0.05,2877.13,1998.65,878.48,Delivered,Debit Card
+ORD00809,2024-10-12,CUST0179,Water Bottle,Home & Kitchen,South,Bengaluru,2,4446.77,0.15,7559.51,4949.46,2610.05,Delivered,Net Banking
+ORD00810,2025-12-29,CUST0161,Mixer Grinder,Home & Kitchen,West,Ahmedabad,1,4262.65,0.05,4049.52,2456.16,1593.36,Delivered,Cash on Delivery
+ORD00811,2024-02-02,CUST0166,Wireless Earbuds,Electronics,Central,Nagpur,5,4316.22,0.0,21581.1,13319.89,8261.21,Returned,Debit Card
+ORD00812,2025-10-04,CUST0115,Mixer Grinder,Home & Kitchen,Central,Raipur,5,1307.78,0.05,6211.95,4986.82,1225.13,Delivered,Debit Card
+ORD00813,2025-05-15,CUST0070,Water Bottle,Home & Kitchen,Central,Bhopal,1,529.25,0.15,449.86,326.48,123.38,Delivered,Debit Card
+ORD00814,2024-07-26,CUST0086,Smart Watch,Electronics,East,Guwahati,4,5320.36,0.0,21281.44,14192.63,7088.81,Delivered,Debit Card
+ORD00815,2025-07-22,CUST0039,Running Shoes,Sports,East,Kolkata,3,1000.55,0.1,2701.48,1582.48,1119.0,Delivered,Net Banking
+ORD00816,2025-09-03,CUST0091,Casual Shirt,Fashion,East,Guwahati,4,2343.0,0.15,7966.2,6578.85,1387.35,Delivered,Debit Card
+ORD00817,2024-02-01,CUST0098,Running Shoes,Sports,East,Kolkata,2,1891.93,0.0,3783.86,2297.51,1486.35,Delivered,Credit Card
+ORD00818,2024-03-18,CUST0116,Casual Shirt,Fashion,West,Surat,4,2191.63,0.15,7451.54,5635.18,1816.36,Delivered,UPI
+ORD00819,2025-05-01,CUST0150,Hair Serum,Beauty,East,Bhubaneswar,5,174.33,0.1,784.49,505.18,279.31,Delivered,Credit Card
+ORD00820,2025-12-31,CUST0029,Power Bank,Electronics,South,Bengaluru,1,1487.35,0.0,1487.35,986.51,500.84,Delivered,Cash on Delivery
+ORD00821,2024-01-18,CUST0021,Wireless Earbuds,Electronics,West,Surat,1,2949.16,0.15,2506.79,1803.41,703.38,Delivered,Credit Card
+ORD00822,2025-05-01,CUST0165,Running Shoes,Sports,East,Guwahati,3,1322.09,0.0,3966.27,2607.13,1359.14,Delivered,Credit Card
+ORD00823,2024-04-09,CUST0088,Dumbbells,Sports,East,Kolkata,2,3794.69,0.15,6450.97,4535.21,1915.76,Delivered,Net Banking
+ORD00824,2025-04-20,CUST0126,Storage Set,Home & Kitchen,South,Bengaluru,5,2702.85,0.05,12838.54,8088.01,4750.53,Delivered,Cash on Delivery
+ORD00825,2025-03-31,CUST0127,Sneakers,Fashion,West,Mumbai,3,1590.85,0.0,4772.55,3229.14,1543.41,Delivered,Cash on Delivery
+ORD00826,2024-03-07,CUST0036,Sunscreen,Beauty,South,Bengaluru,4,1546.33,0.05,5876.05,3575.8,2300.25,Delivered,Cash on Delivery
+ORD00827,2025-05-12,CUST0102,Bluetooth Speaker,Electronics,South,Chennai,5,7113.35,0.1,32010.08,18758.99,13251.09,Delivered,Credit Card
+ORD00828,2025-10-17,CUST0214,Storage Set,Home & Kitchen,South,Vijayawada,2,4453.61,0.1,8016.5,5681.8,2334.7,Delivered,Cash on Delivery
+ORD00829,2025-09-23,CUST0049,Face Wash,Beauty,North,Jaipur,1,621.56,0.0,621.56,391.92,229.64,Delivered,Debit Card
+ORD00830,2024-01-22,CUST0193,Wireless Earbuds,Electronics,North,Jaipur,1,8743.42,0.1,7869.08,6653.18,1215.9,Delivered,Debit Card
+ORD00831,2024-06-28,CUST0124,Handbag,Fashion,Central,Raipur,4,446.42,0.1,1607.11,1256.06,351.05,Delivered,UPI
+ORD00832,2024-06-25,CUST0223,Jeans,Fashion,North,Lucknow,5,1642.23,0.0,8211.15,4079.09,4132.06,Cancelled,Net Banking
+ORD00833,2024-11-27,CUST0020,Sunscreen,Beauty,West,Surat,1,1784.49,0.0,1784.49,1178.42,606.07,Delivered,UPI
+ORD00834,2024-04-14,CUST0083,Bedsheet,Home & Kitchen,East,Patna,2,4779.13,0.2,7646.61,5651.62,1994.99,Delivered,UPI
+ORD00835,2025-09-16,CUST0055,Smart Watch,Electronics,North,Jaipur,1,2636.99,0.0,2636.99,1354.63,1282.36,Returned,Credit Card
+ORD00836,2025-07-21,CUST0169,Wireless Earbuds,Electronics,West,Mumbai,2,5086.13,0.05,9663.65,6462.25,3201.4,Delivered,Debit Card
+ORD00837,2025-08-13,CUST0126,Bedsheet,Home & Kitchen,East,Bhubaneswar,2,2944.47,0.05,5594.49,3226.73,2367.76,Delivered,Net Banking
+ORD00838,2024-05-24,CUST0182,Handbag,Fashion,East,Bhubaneswar,4,737.02,0.0,2948.08,1991.88,956.2,Delivered,Net Banking
+ORD00839,2024-01-11,CUST0156,Hair Serum,Beauty,North,Jaipur,4,852.23,0.1,3068.03,2278.72,789.31,Delivered,Net Banking
+ORD00840,2025-10-27,CUST0131,Power Bank,Electronics,East,Kolkata,2,1981.68,0.0,3963.36,3003.77,959.59,Delivered,Net Banking
+ORD00841,2024-07-30,CUST0205,Water Bottle,Home & Kitchen,West,Ahmedabad,4,2753.72,0.0,11014.88,6865.53,4149.35,Delivered,Net Banking
+ORD00842,2025-04-24,CUST0018,Cricket Kit,Sports,East,Patna,5,1855.38,0.1,8349.21,6130.5,2218.71,Delivered,Cash on Delivery
+ORD00843,2025-10-26,CUST0188,Cricket Kit,Sports,West,Ahmedabad,1,1767.15,0.0,1767.15,1163.44,603.71,Delivered,Debit Card
+ORD00844,2024-01-27,CUST0013,Water Bottle,Home & Kitchen,East,Guwahati,3,1835.79,0.0,5507.37,3073.97,2433.4,Delivered,Net Banking
+ORD00845,2024-01-05,CUST0177,Face Wash,Beauty,East,Kolkata,5,1343.07,0.1,6043.81,4520.69,1523.12,Returned,Net Banking
+ORD00846,2024-01-04,CUST0241,Bedsheet,Home & Kitchen,East,Patna,1,1536.42,0.1,1382.78,965.21,417.57,Delivered,Credit Card
+ORD00847,2024-04-24,CUST0149,Hair Serum,Beauty,West,Surat,5,1343.83,0.1,6047.23,5019.93,1027.3,Cancelled,Credit Card
+ORD00848,2024-02-07,CUST0061,Power Bank,Electronics,Central,Nagpur,4,6650.49,0.05,25271.86,15069.01,10202.85,Delivered,Net Banking
+ORD00849,2025-08-22,CUST0142,Sneakers,Fashion,East,Guwahati,4,944.69,0.05,3589.82,1922.52,1667.3,Delivered,Net Banking
+ORD00850,2025-03-18,CUST0074,Bluetooth Speaker,Electronics,West,Mumbai,3,5409.08,0.1,14604.52,9549.26,5055.26,Cancelled,Debit Card
+ORD00851,2025-12-17,CUST0243,Yoga Mat,Sports,South,Bengaluru,5,3746.99,0.1,16861.45,12956.13,3905.32,Cancelled,Debit Card
+ORD00852,2025-08-08,CUST0143,Sneakers,Fashion,Central,Bhopal,4,1382.25,0.1,4976.1,3645.4,1330.7,Delivered,UPI
+ORD00853,2025-12-05,CUST0210,Yoga Mat,Sports,Central,Bhopal,4,1382.14,0.05,5252.13,3975.41,1276.72,Delivered,Debit Card
+ORD00854,2024-06-23,CUST0001,Jeans,Fashion,East,Patna,5,2700.35,0.1,12151.58,10132.69,2018.89,Delivered,Net Banking
+ORD00855,2024-07-29,CUST0019,Moisturizer,Beauty,South,Bengaluru,1,1489.09,0.0,1489.09,950.77,538.32,Cancelled,Debit Card
+ORD00856,2025-09-12,CUST0009,Smart Watch,Electronics,East,Kolkata,4,2720.09,0.2,8704.29,6467.97,2236.32,Delivered,Debit Card
+ORD00857,2024-06-28,CUST0131,Storage Set,Home & Kitchen,North,Delhi,5,4903.92,0.05,23293.62,12508.35,10785.27,Delivered,UPI
+ORD00858,2024-02-11,CUST0133,Handbag,Fashion,North,Delhi,4,3189.05,0.0,12756.2,6999.07,5757.13,Delivered,UPI
+ORD00859,2025-05-04,CUST0166,Bedsheet,Home & Kitchen,West,Mumbai,5,737.8,0.15,3135.65,2796.17,339.48,Delivered,Debit Card
+ORD00860,2025-08-08,CUST0122,Smart Watch,Electronics,North,Jaipur,2,8684.24,0.2,13894.78,10326.88,3567.9,Delivered,Credit Card
+ORD00861,2025-12-08,CUST0096,Cricket Kit,Sports,North,Delhi,3,1229.13,0.05,3503.02,1908.3,1594.72,Delivered,Net Banking
+ORD00862,2025-11-09,CUST0096,Power Bank,Electronics,South,Chennai,3,4075.09,0.0,12225.27,5913.37,6311.9,Delivered,Credit Card
+ORD00863,2024-03-28,CUST0167,Power Bank,Electronics,Central,Bhopal,3,6673.39,0.05,19019.16,13860.77,5158.39,Delivered,Cash on Delivery
+ORD00864,2025-07-18,CUST0072,Sneakers,Fashion,East,Guwahati,3,2869.64,0.05,8178.47,4720.46,3458.01,Delivered,Net Banking
+ORD00865,2025-09-10,CUST0190,Hair Serum,Beauty,West,Ahmedabad,2,1534.17,0.0,3068.34,2055.1,1013.24,Delivered,Credit Card
+ORD00866,2025-05-25,CUST0228,Casual Shirt,Fashion,East,Guwahati,1,1417.18,0.05,1346.32,924.19,422.13,Delivered,Cash on Delivery
+ORD00867,2025-08-22,CUST0085,Smart Watch,Electronics,North,Chandigarh,2,4674.71,0.0,9349.42,4516.46,4832.96,Delivered,Net Banking
+ORD00868,2025-09-04,CUST0110,Storage Set,Home & Kitchen,Central,Nagpur,1,1534.97,0.0,1534.97,1032.15,502.82,Delivered,UPI
+ORD00869,2024-11-22,CUST0225,Cricket Kit,Sports,West,Ahmedabad,4,2754.45,0.05,10466.91,7954.41,2512.5,Delivered,Debit Card
+ORD00870,2024-01-30,CUST0055,Hair Serum,Beauty,North,Chandigarh,2,1225.56,0.05,2328.56,1181.52,1147.04,Delivered,Credit Card
+ORD00871,2024-11-29,CUST0113,Cricket Kit,Sports,East,Guwahati,5,1631.94,0.15,6935.75,4662.28,2273.47,Delivered,Net Banking
+ORD00872,2024-05-27,CUST0201,Power Bank,Electronics,East,Kolkata,3,3268.1,0.1,8823.87,5105.99,3717.88,Delivered,UPI
+ORD00873,2024-03-24,CUST0181,Moisturizer,Beauty,West,Ahmedabad,2,1326.25,0.0,2652.5,1951.18,701.32,Delivered,Credit Card
+ORD00874,2024-04-01,CUST0228,Moisturizer,Beauty,South,Vijayawada,4,1141.47,0.1,4109.29,3197.99,911.3,Delivered,Net Banking
+ORD00875,2025-05-24,CUST0147,Bluetooth Speaker,Electronics,Central,Raipur,5,7803.21,0.0,39016.05,20664.38,18351.67,Delivered,UPI
+ORD00876,2025-01-03,CUST0116,Water Bottle,Home & Kitchen,West,Mumbai,4,4675.64,0.05,17767.43,13005.38,4762.05,Delivered,UPI
+ORD00877,2025-01-29,CUST0002,Bluetooth Speaker,Electronics,West,Mumbai,1,5226.29,0.1,4703.66,3070.54,1633.12,Delivered,Net Banking
+ORD00878,2025-06-28,CUST0057,Cricket Kit,Sports,North,Lucknow,5,1665.39,0.0,8326.95,5087.14,3239.81,Delivered,UPI
+ORD00879,2025-02-04,CUST0132,Smart Watch,Electronics,North,Jaipur,4,2862.89,0.0,11451.56,7760.17,3691.39,Delivered,Cash on Delivery
+ORD00880,2025-04-05,CUST0196,Mixer Grinder,Home & Kitchen,East,Guwahati,3,4030.88,0.2,9674.11,6278.51,3395.6,Delivered,Cash on Delivery
+ORD00881,2024-03-03,CUST0101,Smart Watch,Electronics,South,Vijayawada,5,3554.44,0.2,14217.76,11764.34,2453.42,Delivered,UPI
+ORD00882,2025-09-14,CUST0136,Power Bank,Electronics,Central,Nagpur,1,5873.89,0.05,5580.2,4206.42,1373.78,Delivered,Net Banking
+ORD00883,2024-11-24,CUST0054,Yoga Mat,Sports,West,Pune,5,3201.72,0.0,16008.6,8623.75,7384.85,Delivered,UPI
+ORD00884,2024-04-23,CUST0196,Storage Set,Home & Kitchen,North,Jaipur,1,3381.61,0.0,3381.61,1650.45,1731.16,Delivered,Net Banking
+ORD00885,2025-08-17,CUST0196,Running Shoes,Sports,South,Bengaluru,4,1232.67,0.05,4684.15,3262.9,1421.25,Delivered,Debit Card
+ORD00886,2025-06-21,CUST0008,Hair Serum,Beauty,East,Patna,3,1546.72,0.1,4176.14,2630.82,1545.32,Delivered,Debit Card
+ORD00887,2024-02-08,CUST0134,Hair Serum,Beauty,South,Bengaluru,1,1600.51,0.1,1440.46,1056.79,383.67,Delivered,Credit Card
+ORD00888,2024-05-21,CUST0089,Running Shoes,Sports,North,Chandigarh,4,2558.37,0.0,10233.48,6288.38,3945.1,Delivered,UPI
+ORD00889,2024-01-12,CUST0014,Hair Serum,Beauty,East,Kolkata,5,1514.0,0.0,7570.0,4910.88,2659.12,Delivered,Credit Card
+ORD00890,2024-07-16,CUST0212,Moisturizer,Beauty,North,Delhi,5,740.36,0.15,3146.53,2796.74,349.79,Delivered,Cash on Delivery
+ORD00891,2024-03-14,CUST0180,Jeans,Fashion,West,Mumbai,2,1616.49,0.1,2909.68,2269.33,640.35,Delivered,Cash on Delivery
+ORD00892,2025-06-02,CUST0217,Power Bank,Electronics,Central,Bhopal,1,8439.58,0.15,7173.64,6069.95,1103.69,Delivered,UPI
+ORD00893,2025-01-16,CUST0246,Smart Watch,Electronics,Central,Nagpur,1,2916.86,0.0,2916.86,1965.54,951.32,Delivered,UPI
+ORD00894,2025-12-17,CUST0086,Bluetooth Speaker,Electronics,South,Vijayawada,5,6037.56,0.05,28678.41,20464.54,8213.87,Delivered,Debit Card
+ORD00895,2025-07-01,CUST0097,Running Shoes,Sports,West,Mumbai,5,604.88,0.0,3024.4,1809.71,1214.69,Delivered,UPI
+ORD00896,2025-03-23,CUST0167,Bedsheet,Home & Kitchen,South,Vijayawada,4,1729.09,0.0,6916.36,5123.71,1792.65,Delivered,Credit Card
+ORD00897,2025-01-07,CUST0088,Casual Shirt,Fashion,North,Lucknow,3,514.24,0.15,1311.31,1078.69,232.62,Cancelled,Credit Card
+ORD00898,2024-02-09,CUST0141,Mixer Grinder,Home & Kitchen,East,Bhubaneswar,2,2275.18,0.0,4550.36,3393.17,1157.19,Delivered,Credit Card
+ORD00899,2024-02-21,CUST0137,Cricket Kit,Sports,East,Kolkata,5,2998.0,0.0,14990.0,11251.12,3738.88,Delivered,Cash on Delivery
+ORD00900,2025-03-26,CUST0080,Yoga Mat,Sports,West,Pune,1,1619.12,0.05,1538.16,942.24,595.92,Delivered,UPI
+ORD00901,2024-01-04,CUST0097,Wireless Earbuds,Electronics,Central,Raipur,3,2008.47,0.1,5422.87,3776.05,1646.82,Delivered,Credit Card
+ORD00902,2024-01-31,CUST0106,Wireless Earbuds,Electronics,West,Surat,2,6143.99,0.05,11673.58,8737.09,2936.49,Delivered,UPI
+ORD00903,2024-06-09,CUST0075,Wireless Earbuds,Electronics,West,Pune,5,2106.36,0.15,8952.03,7979.26,972.77,Delivered,Net Banking
+ORD00904,2025-10-08,CUST0102,Mixer Grinder,Home & Kitchen,Central,Raipur,5,2854.73,0.0,14273.65,7190.58,7083.07,Delivered,Credit Card
+ORD00905,2024-12-01,CUST0198,Water Bottle,Home & Kitchen,Central,Bhopal,4,2049.94,0.0,8199.76,4228.77,3970.99,Delivered,Cash on Delivery
+ORD00906,2025-06-02,CUST0222,Smart Watch,Electronics,South,Hyderabad,1,2561.15,0.0,2561.15,1240.27,1320.88,Delivered,Net Banking
+ORD00907,2024-10-27,CUST0135,Cricket Kit,Sports,North,Chandigarh,4,1937.64,0.2,6200.45,5509.11,691.34,Delivered,UPI
+ORD00908,2024-05-06,CUST0131,Handbag,Fashion,West,Ahmedabad,3,2080.46,0.0,6241.38,4792.26,1449.12,Delivered,Credit Card
+ORD00909,2024-09-28,CUST0209,Cricket Kit,Sports,South,Chennai,4,3396.51,0.1,12227.44,9203.97,3023.47,Delivered,UPI
+ORD00910,2024-03-08,CUST0039,Dumbbells,Sports,South,Chennai,3,705.4,0.0,2116.2,1141.35,974.85,Delivered,Cash on Delivery
+ORD00911,2025-07-17,CUST0209,Mixer Grinder,Home & Kitchen,South,Vijayawada,3,4965.1,0.1,13405.77,11300.8,2104.97,Delivered,Cash on Delivery
+ORD00912,2024-05-14,CUST0106,Sunscreen,Beauty,East,Bhubaneswar,1,165.94,0.05,157.64,84.11,73.53,Delivered,Net Banking
+ORD00913,2024-10-02,CUST0164,Jeans,Fashion,West,Ahmedabad,5,2938.72,0.0,14693.6,7266.14,7427.46,Delivered,Credit Card
+ORD00914,2025-12-17,CUST0184,Handbag,Fashion,North,Jaipur,3,1916.36,0.0,5749.08,3301.41,2447.67,Delivered,Net Banking
+ORD00915,2025-03-08,CUST0121,Handbag,Fashion,Central,Nagpur,4,2666.61,0.0,10666.44,7209.85,3456.59,Delivered,Cash on Delivery
+ORD00916,2024-12-01,CUST0069,Bluetooth Speaker,Electronics,South,Hyderabad,5,8608.11,0.0,43040.55,23407.06,19633.49,Delivered,Debit Card
+ORD00917,2025-01-31,CUST0131,Casual Shirt,Fashion,North,Jaipur,2,2923.31,0.05,5554.29,3485.71,2068.58,Delivered,Debit Card
+ORD00918,2025-07-27,CUST0095,Sneakers,Fashion,South,Bengaluru,3,3215.85,0.05,9165.17,7283.09,1882.08,Delivered,Credit Card
+ORD00919,2024-07-05,CUST0237,Power Bank,Electronics,South,Hyderabad,5,2893.87,0.0,14469.35,7039.28,7430.07,Cancelled,Credit Card
+ORD00920,2025-04-10,CUST0118,Face Wash,Beauty,West,Ahmedabad,1,1633.26,0.1,1469.93,946.76,523.17,Delivered,UPI
+ORD00921,2025-09-29,CUST0184,Bluetooth Speaker,Electronics,South,Bengaluru,3,6778.88,0.05,19319.81,13010.55,6309.26,Cancelled,Cash on Delivery
+ORD00922,2025-02-22,CUST0120,Dumbbells,Sports,North,Delhi,4,2751.29,0.1,9904.64,7082.41,2822.23,Delivered,Cash on Delivery
+ORD00923,2024-11-22,CUST0015,Sunscreen,Beauty,West,Surat,3,1586.14,0.05,4520.5,2312.16,2208.34,Delivered,UPI
+ORD00924,2024-04-16,CUST0226,Storage Set,Home & Kitchen,West,Surat,1,1149.31,0.0,1149.31,820.78,328.53,Delivered,UPI
+ORD00925,2024-06-30,CUST0241,Face Wash,Beauty,North,Lucknow,2,293.76,0.0,587.52,340.81,246.71,Delivered,Credit Card
+ORD00926,2025-11-22,CUST0120,Yoga Mat,Sports,North,Lucknow,1,1425.93,0.15,1212.04,848.52,363.52,Cancelled,Debit Card
+ORD00927,2025-01-30,CUST0222,Running Shoes,Sports,South,Chennai,2,2534.18,0.0,5068.36,2443.72,2624.64,Delivered,Cash on Delivery
+ORD00928,2024-08-08,CUST0065,Handbag,Fashion,East,Bhubaneswar,2,2517.54,0.15,4279.82,2868.7,1411.12,Delivered,Net Banking
+ORD00929,2024-11-01,CUST0221,Cricket Kit,Sports,South,Vijayawada,1,1531.25,0.05,1454.69,870.87,583.82,Delivered,Cash on Delivery
+ORD00930,2025-02-26,CUST0004,Face Wash,Beauty,West,Mumbai,5,1761.51,0.1,7926.79,6737.57,1189.22,Delivered,UPI
+ORD00931,2025-01-27,CUST0065,Cricket Kit,Sports,South,Hyderabad,4,4091.45,0.0,16365.8,9657.31,6708.49,Delivered,Debit Card
+ORD00932,2025-05-26,CUST0081,Power Bank,Electronics,West,Surat,4,5302.02,0.05,20147.68,11107.01,9040.67,Delivered,Debit Card
+ORD00933,2024-07-07,CUST0222,Smart Watch,Electronics,Central,Raipur,5,8217.54,0.15,34924.55,27317.55,7607.0,Delivered,Debit Card
+ORD00934,2025-04-19,CUST0109,Sunscreen,Beauty,South,Bengaluru,3,1140.0,0.2,2736.0,2651.72,84.28,Delivered,Net Banking
+ORD00935,2024-11-19,CUST0193,Power Bank,Electronics,South,Chennai,1,7162.44,0.0,7162.44,5364.44,1798.0,Delivered,UPI
+ORD00936,2025-11-18,CUST0238,Moisturizer,Beauty,East,Patna,3,815.35,0.15,2079.14,1389.68,689.46,Delivered,Net Banking
+ORD00937,2024-04-25,CUST0014,Water Bottle,Home & Kitchen,South,Chennai,3,3773.97,0.0,11321.91,6852.03,4469.88,Returned,Debit Card
+ORD00938,2024-04-18,CUST0091,Cricket Kit,Sports,Central,Raipur,1,3820.91,0.05,3629.86,2638.68,991.18,Delivered,UPI
+ORD00939,2024-12-03,CUST0008,Face Wash,Beauty,Central,Bhopal,4,969.92,0.1,3491.71,2296.31,1195.4,Returned,UPI
+ORD00940,2025-01-06,CUST0243,Handbag,Fashion,North,Jaipur,4,2552.14,0.0,10208.56,5095.43,5113.13,Delivered,Cash on Delivery
+ORD00941,2025-05-20,CUST0191,Hair Serum,Beauty,East,Kolkata,3,517.03,0.0,1551.09,844.22,706.87,Delivered,Net Banking
+ORD00942,2024-10-22,CUST0119,Face Wash,Beauty,Central,Nagpur,1,1059.21,0.05,1006.25,823.48,182.77,Returned,UPI
+ORD00943,2025-10-29,CUST0248,Moisturizer,Beauty,North,Lucknow,3,1423.15,0.1,3842.51,2704.74,1137.77,Delivered,Cash on Delivery
+ORD00944,2024-12-12,CUST0130,Dumbbells,Sports,East,Guwahati,3,2265.57,0.05,6456.87,3803.51,2653.36,Returned,Net Banking
+ORD00945,2024-04-04,CUST0209,Jeans,Fashion,East,Patna,3,2476.38,0.15,6314.77,3619.04,2695.73,Delivered,Credit Card
+ORD00946,2024-03-28,CUST0099,Sunscreen,Beauty,East,Bhubaneswar,2,758.23,0.0,1516.46,920.7,595.76,Delivered,Credit Card
+ORD00947,2025-12-12,CUST0041,Handbag,Fashion,Central,Raipur,4,1385.09,0.0,5540.36,3619.48,1920.88,Delivered,Net Banking
+ORD00948,2024-04-08,CUST0085,Storage Set,Home & Kitchen,West,Pune,4,2280.27,0.05,8665.03,4873.26,3791.77,Delivered,Cash on Delivery
+ORD00949,2025-11-23,CUST0012,Smart Watch,Electronics,East,Guwahati,4,7168.54,0.0,28674.16,16117.94,12556.22,Delivered,Credit Card
+ORD00950,2024-07-22,CUST0200,Cricket Kit,Sports,North,Delhi,4,2138.72,0.0,8554.88,6322.44,2232.44,Delivered,Net Banking
+ORD00951,2024-03-09,CUST0164,Running Shoes,Sports,North,Chandigarh,2,795.08,0.1,1431.14,835.81,595.33,Delivered,UPI
+ORD00952,2024-08-10,CUST0009,Handbag,Fashion,South,Chennai,2,2952.32,0.05,5609.41,4142.36,1467.05,Delivered,Debit Card
+ORD00953,2025-03-25,CUST0146,Bedsheet,Home & Kitchen,Central,Nagpur,3,2424.75,0.15,6183.11,5208.61,974.5,Delivered,Net Banking
+ORD00954,2024-11-08,CUST0231,Face Wash,Beauty,South,Vijayawada,2,1489.55,0.15,2532.23,1668.79,863.44,Delivered,Debit Card
+ORD00955,2025-07-28,CUST0088,Power Bank,Electronics,South,Vijayawada,3,1699.64,0.0,5098.92,3312.42,1786.5,Returned,Cash on Delivery
+ORD00956,2025-03-22,CUST0236,Handbag,Fashion,South,Chennai,2,2367.97,0.0,4735.94,3306.95,1428.99,Cancelled,Cash on Delivery
+ORD00957,2024-10-19,CUST0107,Mixer Grinder,Home & Kitchen,South,Vijayawada,4,689.98,0.2,2207.94,1891.14,316.8,Delivered,Debit Card
+ORD00958,2025-04-08,CUST0064,Dumbbells,Sports,East,Patna,2,3268.05,0.1,5882.49,3715.1,2167.39,Delivered,Credit Card
+ORD00959,2025-12-11,CUST0179,Cricket Kit,Sports,Central,Indore,5,3211.18,0.05,15253.1,8858.23,6394.87,Delivered,Net Banking
+ORD00960,2024-10-28,CUST0024,Power Bank,Electronics,Central,Raipur,3,5969.17,0.1,16116.76,9902.25,6214.51,Delivered,Credit Card
+ORD00961,2024-04-22,CUST0172,Yoga Mat,Sports,North,Lucknow,5,3677.52,0.05,17468.22,10055.18,7413.04,Delivered,Cash on Delivery
+ORD00962,2024-10-25,CUST0202,Sneakers,Fashion,West,Ahmedabad,5,494.89,0.0,2474.45,1624.81,849.64,Delivered,Debit Card
+ORD00963,2025-09-06,CUST0163,Water Bottle,Home & Kitchen,West,Ahmedabad,2,2881.92,0.2,4611.07,3554.61,1056.46,Delivered,Net Banking
+ORD00964,2024-06-08,CUST0145,Sneakers,Fashion,East,Kolkata,2,3462.4,0.0,6924.8,4965.65,1959.15,Delivered,UPI
+ORD00965,2025-11-24,CUST0085,Power Bank,Electronics,South,Chennai,2,6393.7,0.1,11508.66,8453.57,3055.09,Delivered,Credit Card
+ORD00966,2025-03-06,CUST0169,Moisturizer,Beauty,West,Mumbai,4,689.89,0.15,2345.63,1547.14,798.49,Delivered,UPI
+ORD00967,2025-03-15,CUST0137,Smart Watch,Electronics,North,Jaipur,5,4909.65,0.0,24548.25,16961.75,7586.5,Delivered,UPI
+ORD00968,2024-08-19,CUST0012,Storage Set,Home & Kitchen,North,Delhi,3,1490.97,0.1,4025.62,2411.17,1614.45,Delivered,Cash on Delivery
+ORD00969,2025-11-03,CUST0117,Sunscreen,Beauty,South,Bengaluru,4,214.22,0.05,814.04,603.16,210.88,Delivered,Net Banking
+ORD00970,2024-01-27,CUST0116,Power Bank,Electronics,Central,Indore,3,6462.0,0.0,19386.0,9557.29,9828.71,Delivered,Debit Card
+ORD00971,2024-08-06,CUST0069,Yoga Mat,Sports,West,Mumbai,1,3022.52,0.2,2418.02,2310.78,107.24,Delivered,UPI
+ORD00972,2024-11-01,CUST0118,Handbag,Fashion,North,Delhi,4,585.38,0.05,2224.44,1333.29,891.15,Delivered,Cash on Delivery
+ORD00973,2024-12-14,CUST0164,Bluetooth Speaker,Electronics,South,Vijayawada,3,8259.43,0.0,24778.29,14743.95,10034.34,Delivered,UPI
+ORD00974,2024-12-12,CUST0126,Power Bank,Electronics,West,Surat,5,3232.04,0.05,15352.19,10780.29,4571.9,Delivered,Net Banking
+ORD00975,2024-04-18,CUST0247,Casual Shirt,Fashion,Central,Raipur,5,2318.31,0.05,11011.97,6823.39,4188.58,Delivered,Cash on Delivery
+ORD00976,2024-06-13,CUST0079,Water Bottle,Home & Kitchen,East,Kolkata,5,4527.28,0.2,18109.12,16874.4,1234.72,Returned,Debit Card
+ORD00977,2024-03-10,CUST0049,Bedsheet,Home & Kitchen,Central,Bhopal,5,2122.81,0.1,9552.65,7787.14,1765.51,Delivered,Cash on Delivery
+ORD00978,2025-02-22,CUST0065,Mixer Grinder,Home & Kitchen,West,Mumbai,1,3541.05,0.0,3541.05,2291.73,1249.32,Delivered,Cash on Delivery
+ORD00979,2024-09-13,CUST0042,Smart Watch,Electronics,North,Chandigarh,4,2482.19,0.0,9928.76,6621.05,3307.71,Delivered,UPI
+ORD00980,2025-02-17,CUST0112,Face Wash,Beauty,South,Chennai,3,1135.51,0.0,3406.53,2588.33,818.2,Delivered,Net Banking
+ORD00981,2025-03-07,CUST0170,Dumbbells,Sports,Central,Raipur,2,2878.57,0.0,5757.14,4210.22,1546.92,Delivered,Debit Card
+ORD00982,2025-05-28,CUST0123,Sneakers,Fashion,North,Lucknow,1,3317.33,0.0,3317.33,1850.51,1466.82,Delivered,UPI
+ORD00983,2025-02-03,CUST0160,Power Bank,Electronics,Central,Indore,3,4935.38,0.0,14806.14,7297.19,7508.95,Delivered,Debit Card
+ORD00984,2025-04-18,CUST0098,Bedsheet,Home & Kitchen,East,Guwahati,1,3954.66,0.15,3361.46,2893.49,467.97,Returned,Debit Card
+ORD00985,2025-03-05,CUST0051,Moisturizer,Beauty,Central,Raipur,3,1628.7,0.2,3908.88,3471.55,437.33,Returned,Cash on Delivery
+ORD00986,2025-04-21,CUST0131,Cricket Kit,Sports,North,Delhi,4,3900.58,0.1,14042.09,11908.28,2133.81,Delivered,UPI
+ORD00987,2025-03-26,CUST0140,Smart Watch,Electronics,East,Guwahati,3,1823.2,0.0,5469.6,4187.64,1281.96,Returned,Net Banking
+ORD00988,2024-08-19,CUST0038,Sneakers,Fashion,North,Chandigarh,1,2804.53,0.1,2524.08,1805.13,718.95,Delivered,Debit Card
+ORD00989,2024-06-29,CUST0061,Jeans,Fashion,West,Ahmedabad,1,2631.11,0.05,2499.55,1264.72,1234.83,Delivered,UPI
+ORD00990,2025-07-29,CUST0110,Moisturizer,Beauty,North,Chandigarh,2,1182.21,0.0,2364.42,1321.92,1042.5,Delivered,Credit Card
+ORD00991,2024-09-07,CUST0148,Moisturizer,Beauty,West,Mumbai,5,788.58,0.2,3154.32,2592.54,561.78,Delivered,UPI
+ORD00992,2025-02-05,CUST0054,Storage Set,Home & Kitchen,South,Chennai,2,255.19,0.15,433.82,310.74,123.08,Delivered,Net Banking
+ORD00993,2024-05-23,CUST0053,Mixer Grinder,Home & Kitchen,Central,Raipur,3,2200.45,0.05,6271.28,5012.71,1258.57,Delivered,Credit Card
+ORD00994,2024-11-11,CUST0193,Running Shoes,Sports,Central,Raipur,3,3207.17,0.05,9140.43,6787.02,2353.41,Delivered,Net Banking
+ORD00995,2025-01-22,CUST0162,Bluetooth Speaker,Electronics,North,Delhi,2,5490.24,0.1,9882.43,8175.91,1706.52,Delivered,UPI
+ORD00996,2025-04-02,CUST0066,Bedsheet,Home & Kitchen,East,Bhubaneswar,4,4711.98,0.0,18847.92,9767.92,9080.0,Delivered,Net Banking
+ORD00997,2025-01-19,CUST0123,Smart Watch,Electronics,North,Delhi,5,5128.97,0.05,24362.61,19885.23,4477.38,Delivered,Net Banking
+ORD00998,2024-09-20,CUST0194,Handbag,Fashion,North,Delhi,5,3466.11,0.0,17330.55,11517.52,5813.03,Delivered,UPI
+ORD00999,2025-12-04,CUST0085,Storage Set,Home & Kitchen,South,Hyderabad,2,4712.98,0.05,8954.66,4813.02,4141.64,Delivered,UPI
+ORD01000,2025-01-09,CUST0057,Jeans,Fashion,Central,Nagpur,5,538.27,0.15,2287.65,1354.38,933.27,Delivered,Net Banking
+ORD01001,2025-08-13,CUST0007,Face Wash,Beauty,West,Pune,3,446.48,0.1,1205.5,923.88,281.62,Delivered,Net Banking
+ORD01002,2025-06-22,CUST0233,Yoga Mat,Sports,Central,Raipur,4,2829.22,0.0,11316.88,6315.41,5001.47,Delivered,UPI
+ORD01003,2025-02-12,CUST0095,Hair Serum,Beauty,North,Jaipur,4,1110.91,0.05,4221.46,3099.98,1121.48,Delivered,Net Banking
+ORD01004,2025-10-09,CUST0244,Hair Serum,Beauty,West,Ahmedabad,1,1708.0,0.05,1622.6,1034.73,587.87,Delivered,Debit Card
+ORD01005,2024-04-03,CUST0105,Dumbbells,Sports,Central,Bhopal,1,4091.88,0.15,3478.1,2281.32,1196.78,Delivered,UPI
+ORD01006,2025-11-04,CUST0189,Smart Watch,Electronics,North,Jaipur,4,3384.75,0.0,13539.0,7551.89,5987.11,Delivered,Cash on Delivery
+ORD01007,2025-09-13,CUST0129,Sunscreen,Beauty,North,Lucknow,5,571.92,0.15,2430.66,1452.15,978.51,Delivered,Cash on Delivery
+ORD01008,2025-01-03,CUST0066,Bedsheet,Home & Kitchen,West,Mumbai,5,3213.59,0.2,12854.36,11912.87,941.49,Delivered,Credit Card
+ORD01009,2025-06-20,CUST0169,Moisturizer,Beauty,North,Jaipur,1,1062.44,0.0,1062.44,631.53,430.91,Delivered,Debit Card
+ORD01010,2025-01-15,CUST0049,Cricket Kit,Sports,North,Lucknow,2,1950.01,0.2,3120.02,2679.32,440.7,Delivered,UPI
+ORD01011,2024-07-15,CUST0064,Cricket Kit,Sports,East,Guwahati,2,2927.12,0.05,5561.53,3498.34,2063.19,Delivered,Net Banking
+ORD01012,2025-08-07,CUST0105,Mixer Grinder,Home & Kitchen,West,Pune,1,2145.7,0.15,1823.84,1270.62,553.22,Delivered,Net Banking
+ORD01013,2024-06-28,CUST0130,Bluetooth Speaker,Electronics,South,Hyderabad,1,7755.45,0.15,6592.13,5825.71,766.42,Delivered,Cash on Delivery
+ORD01014,2024-08-17,CUST0227,Sneakers,Fashion,Central,Indore,3,1028.38,0.0,3085.14,2388.73,696.41,Delivered,Credit Card
+ORD01015,2025-01-14,CUST0108,Running Shoes,Sports,North,Lucknow,4,1970.6,0.1,7094.16,6055.9,1038.26,Cancelled,Cash on Delivery
+ORD01016,2025-09-04,CUST0198,Hair Serum,Beauty,South,Bengaluru,4,541.22,0.0,2164.88,1592.44,572.44,Delivered,Net Banking
+ORD01017,2024-10-07,CUST0035,Running Shoes,Sports,North,Jaipur,2,3591.19,0.15,6105.02,4024.93,2080.09,Delivered,UPI
+ORD01018,2024-12-27,CUST0229,Wireless Earbuds,Electronics,West,Surat,5,6141.11,0.0,30705.55,16662.23,14043.32,Delivered,Net Banking
+ORD01019,2024-01-31,CUST0015,Wireless Earbuds,Electronics,East,Guwahati,2,8380.76,0.1,15085.37,9920.52,5164.85,Cancelled,UPI
+ORD01020,2024-03-25,CUST0010,Running Shoes,Sports,West,Mumbai,2,4264.25,0.0,8528.5,4489.45,4039.05,Delivered,UPI
+ORD01021,2024-02-10,CUST0051,Water Bottle,Home & Kitchen,West,Surat,5,907.35,0.15,3856.24,3113.77,742.47,Delivered,Cash on Delivery
+ORD01022,2024-02-22,CUST0232,Handbag,Fashion,West,Surat,4,2158.93,0.05,8203.93,4361.45,3842.48,Returned,Cash on Delivery
+ORD01023,2025-09-26,CUST0122,Storage Set,Home & Kitchen,South,Vijayawada,5,4687.03,0.1,21091.63,13704.68,7386.95,Delivered,Credit Card
+ORD01024,2025-09-07,CUST0198,Dumbbells,Sports,Central,Nagpur,4,1421.01,0.05,5399.84,3448.76,1951.08,Returned,Credit Card
+ORD01025,2025-08-23,CUST0042,Water Bottle,Home & Kitchen,North,Lucknow,3,3067.74,0.05,8743.06,4709.4,4033.66,Delivered,Credit Card
+ORD01026,2024-02-10,CUST0114,Yoga Mat,Sports,South,Chennai,2,1349.13,0.1,2428.43,2063.46,364.97,Delivered,Cash on Delivery
+ORD01027,2024-02-26,CUST0177,Moisturizer,Beauty,North,Chandigarh,1,1261.52,0.0,1261.52,735.91,525.61,Delivered,Net Banking
+ORD01028,2024-07-24,CUST0026,Handbag,Fashion,East,Patna,3,2732.28,0.0,8196.84,5635.54,2561.3,Delivered,Net Banking
+ORD01029,2025-02-17,CUST0137,Cricket Kit,Sports,South,Bengaluru,2,1627.88,0.0,3255.76,1762.72,1493.04,Returned,UPI
+ORD01030,2024-09-01,CUST0122,Dumbbells,Sports,Central,Bhopal,2,2100.11,0.0,4200.22,2701.79,1498.43,Returned,Net Banking
+ORD01031,2024-12-22,CUST0048,Face Wash,Beauty,East,Bhubaneswar,1,1303.96,0.15,1108.37,811.97,296.4,Delivered,Net Banking
+ORD01032,2024-05-06,CUST0102,Bluetooth Speaker,Electronics,North,Delhi,3,2465.45,0.1,6656.71,5387.6,1269.11,Delivered,Cash on Delivery
+ORD01033,2025-06-18,CUST0128,Mixer Grinder,Home & Kitchen,West,Mumbai,2,2940.99,0.05,5587.88,4291.46,1296.42,Delivered,Cash on Delivery
+ORD01034,2024-08-17,CUST0131,Wireless Earbuds,Electronics,West,Surat,1,1121.21,0.15,953.03,835.07,117.96,Delivered,Debit Card
+ORD01035,2024-02-18,CUST0043,Hair Serum,Beauty,South,Vijayawada,5,1263.2,0.15,5368.6,3336.14,2032.46,Returned,Debit Card
+ORD01036,2025-06-26,CUST0078,Water Bottle,Home & Kitchen,North,Chandigarh,2,2879.87,0.2,4607.79,2971.39,1636.4,Delivered,UPI
+ORD01037,2025-10-21,CUST0145,Sneakers,Fashion,North,Lucknow,2,2101.13,0.05,3992.15,2818.47,1173.68,Delivered,UPI
+ORD01038,2024-01-11,CUST0149,Running Shoes,Sports,North,Delhi,3,2076.46,0.05,5917.91,4048.51,1869.4,Delivered,UPI
+ORD01039,2024-11-15,CUST0168,Sneakers,Fashion,East,Kolkata,2,3417.4,0.05,6493.06,4441.12,2051.94,Delivered,Credit Card
+ORD01040,2025-08-27,CUST0222,Mixer Grinder,Home & Kitchen,West,Surat,4,539.1,0.05,2048.58,1389.15,659.43,Cancelled,Cash on Delivery
+ORD01041,2025-05-31,CUST0207,Bedsheet,Home & Kitchen,East,Guwahati,4,1054.9,0.15,3586.66,3205.73,380.93,Delivered,Credit Card
+ORD01042,2025-09-18,CUST0075,Hair Serum,Beauty,North,Lucknow,5,1273.68,0.1,5731.56,4012.4,1719.16,Delivered,UPI
+ORD01043,2024-10-30,CUST0071,Jeans,Fashion,Central,Bhopal,5,3323.75,0.0,16618.75,8443.31,8175.44,Delivered,Debit Card
+ORD01044,2024-09-29,CUST0145,Sunscreen,Beauty,East,Kolkata,5,715.42,0.1,3219.39,2564.82,654.57,Cancelled,Debit Card
+ORD01045,2025-06-02,CUST0197,Wireless Earbuds,Electronics,Central,Nagpur,3,908.77,0.1,2453.68,1932.74,520.94,Delivered,Credit Card
+ORD01046,2024-04-22,CUST0231,Moisturizer,Beauty,South,Chennai,5,434.08,0.1,1953.36,1242.2,711.16,Delivered,Net Banking
+ORD01047,2024-06-24,CUST0236,Face Wash,Beauty,West,Surat,4,865.98,0.0,3463.92,2485.97,977.95,Delivered,Net Banking
+ORD01048,2025-03-15,CUST0176,Smart Watch,Electronics,North,Chandigarh,5,2342.2,0.0,11711.0,8966.62,2744.38,Delivered,Debit Card
+ORD01049,2025-05-03,CUST0126,Power Bank,Electronics,West,Ahmedabad,3,6140.82,0.15,15659.09,12453.1,3205.99,Delivered,UPI
+ORD01050,2024-03-28,CUST0039,Bedsheet,Home & Kitchen,Central,Indore,3,1963.95,0.05,5597.26,4245.44,1351.82,Delivered,Credit Card
+ORD01051,2025-01-06,CUST0005,Casual Shirt,Fashion,East,Kolkata,3,2860.1,0.0,8580.3,6205.37,2374.93,Delivered,Debit Card
+ORD01052,2024-09-23,CUST0030,Cricket Kit,Sports,West,Mumbai,3,3549.33,0.15,9050.79,8120.04,930.75,Delivered,Cash on Delivery
+ORD01053,2025-01-01,CUST0132,Casual Shirt,Fashion,East,Patna,5,3288.28,0.15,13975.19,10876.55,3098.64,Delivered,UPI
+ORD01054,2025-12-01,CUST0101,Yoga Mat,Sports,West,Mumbai,3,325.59,0.0,976.77,696.72,280.05,Delivered,Cash on Delivery
+ORD01055,2024-02-26,CUST0073,Sneakers,Fashion,North,Jaipur,4,2164.87,0.15,7360.56,6391.14,969.42,Delivered,Cash on Delivery
+ORD01056,2025-12-28,CUST0007,Water Bottle,Home & Kitchen,North,Delhi,5,2121.64,0.1,9547.38,8047.51,1499.87,Delivered,UPI
+ORD01057,2024-11-24,CUST0209,Bedsheet,Home & Kitchen,Central,Bhopal,4,1987.0,0.05,7550.6,4139.77,3410.83,Delivered,Credit Card
+ORD01058,2025-07-18,CUST0005,Hair Serum,Beauty,Central,Bhopal,4,586.78,0.1,2112.41,1153.39,959.02,Returned,Cash on Delivery
+ORD01059,2024-11-06,CUST0046,Face Wash,Beauty,Central,Bhopal,2,333.78,0.0,667.56,371.91,295.65,Delivered,Credit Card
+ORD01060,2024-08-15,CUST0185,Jeans,Fashion,Central,Nagpur,5,1459.9,0.05,6934.52,5137.25,1797.27,Delivered,Cash on Delivery
+ORD01061,2025-07-17,CUST0037,Handbag,Fashion,West,Surat,2,2413.91,0.1,4345.04,3464.12,880.92,Delivered,Net Banking
+ORD01062,2025-05-17,CUST0139,Moisturizer,Beauty,Central,Raipur,2,1593.05,0.0,3186.1,1762.39,1423.71,Delivered,Debit Card
+ORD01063,2024-04-15,CUST0157,Water Bottle,Home & Kitchen,East,Bhubaneswar,5,4515.79,0.1,20321.06,16216.47,4104.59,Returned,Net Banking
+ORD01064,2025-05-30,CUST0003,Dumbbells,Sports,West,Pune,3,4293.41,0.05,12236.22,6269.75,5966.47,Delivered,UPI
+ORD01065,2025-07-04,CUST0091,Bedsheet,Home & Kitchen,East,Patna,2,1967.59,0.0,3935.18,2890.49,1044.69,Delivered,Credit Card
+ORD01066,2024-10-10,CUST0056,Bedsheet,Home & Kitchen,North,Chandigarh,3,3277.66,0.05,9341.33,4848.22,4493.11,Delivered,UPI
+ORD01067,2025-11-07,CUST0135,Jeans,Fashion,West,Surat,5,2446.48,0.05,11620.78,7377.96,4242.82,Delivered,Credit Card
+ORD01068,2025-04-13,CUST0217,Sneakers,Fashion,South,Bengaluru,5,2452.8,0.05,11650.8,6704.84,4945.96,Delivered,UPI
+ORD01069,2024-08-31,CUST0159,Casual Shirt,Fashion,West,Surat,4,2660.72,0.0,10642.88,5475.9,5166.98,Delivered,Credit Card
+ORD01070,2024-01-08,CUST0172,Hair Serum,Beauty,South,Hyderabad,1,1348.87,0.15,1146.54,890.68,255.86,Delivered,Credit Card
+ORD01071,2025-05-08,CUST0128,Yoga Mat,Sports,Central,Bhopal,4,1569.82,0.05,5965.32,4642.9,1322.42,Delivered,Credit Card
+ORD01072,2024-06-01,CUST0046,Power Bank,Electronics,West,Pune,4,1594.85,0.05,6060.43,3560.31,2500.12,Delivered,UPI
+ORD01073,2025-07-07,CUST0095,Smart Watch,Electronics,South,Vijayawada,2,8913.78,0.0,17827.56,10276.28,7551.28,Delivered,UPI
+ORD01074,2025-01-18,CUST0054,Sneakers,Fashion,Central,Raipur,3,2399.08,0.0,7197.24,5503.24,1694.0,Delivered,Credit Card
+ORD01075,2024-12-07,CUST0069,Casual Shirt,Fashion,East,Bhubaneswar,4,979.05,0.1,3524.58,2379.86,1144.72,Delivered,Net Banking
+ORD01076,2024-04-29,CUST0061,Running Shoes,Sports,East,Patna,5,618.78,0.1,2784.51,1909.13,875.38,Delivered,Net Banking
+ORD01077,2025-06-04,CUST0183,Wireless Earbuds,Electronics,Central,Indore,4,3601.66,0.0,14406.64,7465.52,6941.12,Delivered,Credit Card
+ORD01078,2024-05-01,CUST0113,Hair Serum,Beauty,West,Surat,4,1294.64,0.0,5178.56,3430.62,1747.94,Delivered,Credit Card
+ORD01079,2024-11-01,CUST0127,Face Wash,Beauty,North,Chandigarh,4,1438.8,0.0,5755.2,4187.28,1567.92,Delivered,UPI
+ORD01080,2025-09-03,CUST0058,Bluetooth Speaker,Electronics,East,Bhubaneswar,1,7278.77,0.05,6914.83,3820.75,3094.08,Delivered,UPI
+ORD01081,2025-11-03,CUST0106,Water Bottle,Home & Kitchen,North,Delhi,3,2860.17,0.0,8580.51,5348.91,3231.6,Delivered,Debit Card
+ORD01082,2025-12-24,CUST0097,Bluetooth Speaker,Electronics,North,Chandigarh,1,3606.49,0.1,3245.84,1873.13,1372.71,Delivered,UPI
+ORD01083,2025-12-01,CUST0201,Face Wash,Beauty,South,Chennai,3,471.8,0.05,1344.63,696.22,648.41,Delivered,Net Banking
+ORD01084,2025-02-10,CUST0238,Moisturizer,Beauty,West,Pune,4,986.16,0.15,3352.94,3065.27,287.67,Delivered,Credit Card
+ORD01085,2024-05-26,CUST0069,Wireless Earbuds,Electronics,North,Delhi,3,5107.35,0.05,14555.95,10862.66,3693.29,Delivered,Cash on Delivery
+ORD01086,2025-09-05,CUST0215,Casual Shirt,Fashion,West,Mumbai,4,2382.56,0.0,9530.24,6461.65,3068.59,Delivered,Debit Card
+ORD01087,2025-08-08,CUST0181,Moisturizer,Beauty,Central,Nagpur,4,1295.21,0.1,4662.76,3334.46,1328.3,Delivered,Net Banking
+ORD01088,2025-12-24,CUST0055,Face Wash,Beauty,East,Kolkata,5,376.53,0.0,1882.65,1056.16,826.49,Delivered,UPI
+ORD01089,2025-04-20,CUST0106,Dumbbells,Sports,North,Lucknow,5,726.78,0.1,3270.51,2178.75,1091.76,Delivered,Net Banking
+ORD01090,2024-04-13,CUST0021,Yoga Mat,Sports,East,Patna,3,632.08,0.0,1896.24,1461.15,435.09,Delivered,Cash on Delivery
+ORD01091,2025-01-02,CUST0149,Wireless Earbuds,Electronics,West,Pune,1,4421.41,0.15,3758.2,2437.08,1321.12,Delivered,Debit Card
+ORD01092,2024-11-23,CUST0216,Yoga Mat,Sports,South,Bengaluru,2,3351.87,0.0,6703.74,4456.75,2246.99,Delivered,Net Banking
+ORD01093,2025-09-08,CUST0149,Cricket Kit,Sports,North,Jaipur,1,3891.29,0.1,3502.16,2520.96,981.2,Delivered,Debit Card
+ORD01094,2024-10-13,CUST0099,Moisturizer,Beauty,West,Mumbai,1,824.6,0.0,824.6,465.1,359.5,Delivered,Cash on Delivery
+ORD01095,2024-08-28,CUST0206,Handbag,Fashion,West,Surat,1,473.29,0.15,402.3,352.19,50.11,Cancelled,Credit Card
+ORD01096,2024-02-28,CUST0184,Mixer Grinder,Home & Kitchen,East,Guwahati,5,4757.01,0.0,23785.05,17577.87,6207.18,Delivered,Net Banking
+ORD01097,2025-09-02,CUST0219,Smart Watch,Electronics,West,Ahmedabad,4,4020.46,0.1,14473.66,11963.62,2510.04,Delivered,Debit Card
+ORD01098,2025-07-06,CUST0213,Dumbbells,Sports,East,Kolkata,1,4291.43,0.0,4291.43,2775.21,1516.22,Delivered,Credit Card
+ORD01099,2024-01-31,CUST0045,Casual Shirt,Fashion,West,Mumbai,2,2409.16,0.0,4818.32,3316.6,1501.72,Delivered,Credit Card
+ORD01100,2024-11-13,CUST0044,Power Bank,Electronics,North,Lucknow,3,7163.96,0.1,19342.69,15534.45,3808.24,Delivered,Net Banking
+ORD01101,2024-12-16,CUST0047,Sneakers,Fashion,South,Bengaluru,2,864.82,0.1,1556.68,1114.11,442.57,Returned,UPI
+ORD01102,2024-12-09,CUST0007,Cricket Kit,Sports,Central,Raipur,2,1168.91,0.0,2337.82,1393.87,943.95,Delivered,UPI
+ORD01103,2025-11-02,CUST0138,Water Bottle,Home & Kitchen,East,Guwahati,5,679.08,0.05,3225.63,2290.22,935.41,Delivered,Credit Card
+ORD01104,2024-04-20,CUST0086,Wireless Earbuds,Electronics,South,Bengaluru,4,888.06,0.0,3552.24,2642.51,909.73,Delivered,Debit Card
+ORD01105,2024-08-11,CUST0039,Bluetooth Speaker,Electronics,West,Surat,5,8479.95,0.0,42399.75,26708.05,15691.7,Delivered,Credit Card
+ORD01106,2024-05-12,CUST0050,Storage Set,Home & Kitchen,West,Surat,4,421.29,0.1,1516.64,1165.99,350.65,Delivered,Credit Card
+ORD01107,2024-06-27,CUST0048,Mixer Grinder,Home & Kitchen,North,Delhi,3,1384.73,0.0,4154.19,2212.16,1942.03,Returned,UPI
+ORD01108,2025-10-25,CUST0176,Sunscreen,Beauty,South,Vijayawada,2,1713.61,0.0,3427.22,2063.34,1363.88,Delivered,Credit Card
+ORD01109,2025-11-18,CUST0066,Running Shoes,Sports,West,Surat,2,2403.03,0.05,4565.76,2928.77,1636.99,Delivered,Net Banking
+ORD01110,2024-02-02,CUST0171,Casual Shirt,Fashion,North,Delhi,5,2716.84,0.05,12904.99,9565.56,3339.43,Delivered,Debit Card
+ORD01111,2025-04-07,CUST0153,Moisturizer,Beauty,Central,Raipur,4,1385.41,0.05,5264.56,3242.86,2021.7,Delivered,UPI
+ORD01112,2024-06-19,CUST0076,Bluetooth Speaker,Electronics,Central,Bhopal,5,7419.1,0.2,29676.4,20230.03,9446.37,Delivered,Net Banking
+ORD01113,2024-05-20,CUST0174,Face Wash,Beauty,South,Chennai,2,343.36,0.1,618.05,491.54,126.51,Delivered,Net Banking
+ORD01114,2024-08-01,CUST0170,Moisturizer,Beauty,East,Bhubaneswar,3,410.53,0.0,1231.59,776.33,455.26,Cancelled,Debit Card
+ORD01115,2024-05-22,CUST0061,Moisturizer,Beauty,West,Pune,4,1260.72,0.0,5042.88,3356.25,1686.63,Delivered,Credit Card
+ORD01116,2024-12-24,CUST0193,Moisturizer,Beauty,East,Bhubaneswar,3,758.28,0.0,2274.84,1436.89,837.95,Returned,Debit Card
+ORD01117,2025-12-28,CUST0020,Storage Set,Home & Kitchen,Central,Raipur,5,2103.36,0.0,10516.8,5988.64,4528.16,Delivered,UPI
+ORD01118,2025-03-04,CUST0125,Dumbbells,Sports,North,Lucknow,4,2925.46,0.05,11116.75,7616.33,3500.42,Delivered,Debit Card
+ORD01119,2025-06-12,CUST0221,Dumbbells,Sports,Central,Bhopal,5,1480.11,0.0,7400.55,4410.53,2990.02,Delivered,Net Banking
+ORD01120,2024-12-26,CUST0198,Power Bank,Electronics,North,Jaipur,2,4254.02,0.15,7231.83,6217.98,1013.85,Cancelled,Cash on Delivery
+ORD01121,2024-01-11,CUST0177,Hair Serum,Beauty,East,Guwahati,1,555.99,0.0,555.99,268.36,287.63,Delivered,Net Banking
+ORD01122,2024-03-02,CUST0055,Storage Set,Home & Kitchen,South,Vijayawada,4,403.11,0.05,1531.82,1104.92,426.9,Delivered,Net Banking
+ORD01123,2024-07-15,CUST0076,Power Bank,Electronics,North,Lucknow,1,6100.27,0.1,5490.24,4421.83,1068.41,Cancelled,Cash on Delivery
+ORD01124,2024-06-27,CUST0158,Running Shoes,Sports,South,Vijayawada,3,3335.89,0.05,9507.29,7088.22,2419.07,Delivered,UPI
+ORD01125,2025-09-06,CUST0073,Sneakers,Fashion,North,Delhi,3,3244.6,0.15,8273.73,6022.6,2251.13,Returned,Credit Card
+ORD01126,2025-09-08,CUST0004,Storage Set,Home & Kitchen,West,Pune,2,460.93,0.0,921.86,481.02,440.84,Delivered,Credit Card
+ORD01127,2025-09-16,CUST0023,Wireless Earbuds,Electronics,East,Bhubaneswar,1,2897.91,0.2,2318.33,1732.65,585.68,Delivered,UPI
+ORD01128,2025-04-11,CUST0110,Dumbbells,Sports,North,Chandigarh,4,3812.12,0.15,12961.21,10231.17,2730.04,Delivered,Net Banking
+ORD01129,2025-02-10,CUST0151,Cricket Kit,Sports,East,Bhubaneswar,3,4150.14,0.1,11205.38,6704.85,4500.53,Delivered,Credit Card
+ORD01130,2025-04-19,CUST0049,Bedsheet,Home & Kitchen,West,Ahmedabad,4,1898.58,0.0,7594.32,4378.17,3216.15,Delivered,Cash on Delivery
+ORD01131,2024-10-24,CUST0117,Mixer Grinder,Home & Kitchen,West,Surat,3,4137.96,0.0,12413.88,7208.48,5205.4,Delivered,Net Banking
+ORD01132,2025-05-04,CUST0185,Power Bank,Electronics,East,Guwahati,2,903.86,0.0,1807.72,1012.12,795.6,Delivered,Debit Card
+ORD01133,2025-08-03,CUST0150,Dumbbells,Sports,South,Vijayawada,2,2574.34,0.0,5148.68,2815.08,2333.6,Delivered,UPI
+ORD01134,2025-07-11,CUST0144,Casual Shirt,Fashion,South,Chennai,3,3407.36,0.0,10222.08,6501.84,3720.24,Delivered,Cash on Delivery
+ORD01135,2025-03-24,CUST0247,Dumbbells,Sports,East,Patna,3,1146.38,0.15,2923.27,2044.43,878.84,Delivered,Cash on Delivery
+ORD01136,2024-02-12,CUST0205,Storage Set,Home & Kitchen,South,Bengaluru,3,2309.9,0.15,5890.25,3649.06,2241.19,Delivered,Net Banking
+ORD01137,2025-06-13,CUST0240,Sunscreen,Beauty,Central,Indore,4,1734.03,0.0,6936.12,5118.66,1817.46,Delivered,Credit Card
+ORD01138,2024-09-24,CUST0009,Moisturizer,Beauty,South,Chennai,2,1221.79,0.0,2443.58,1711.13,732.45,Delivered,UPI
+ORD01139,2025-06-27,CUST0109,Bedsheet,Home & Kitchen,West,Ahmedabad,5,2605.96,0.0,13029.8,6824.31,6205.49,Returned,Cash on Delivery
+ORD01140,2025-01-29,CUST0055,Casual Shirt,Fashion,North,Jaipur,4,554.51,0.1,1996.24,1223.32,772.92,Delivered,UPI
+ORD01141,2025-10-06,CUST0229,Smart Watch,Electronics,East,Kolkata,4,3606.04,0.2,11539.33,8957.48,2581.85,Delivered,UPI
+ORD01142,2024-09-04,CUST0098,Smart Watch,Electronics,South,Bengaluru,2,4082.4,0.0,8164.8,6039.9,2124.9,Delivered,Debit Card
+ORD01143,2025-11-11,CUST0043,Sneakers,Fashion,South,Chennai,3,2297.8,0.0,6893.4,3935.68,2957.72,Delivered,Debit Card
+ORD01144,2025-09-09,CUST0085,Smart Watch,Electronics,South,Chennai,1,8191.65,0.2,6553.32,5130.24,1423.08,Delivered,UPI
+ORD01145,2024-08-30,CUST0247,Water Bottle,Home & Kitchen,East,Kolkata,4,724.18,0.2,2317.38,2045.34,272.04,Delivered,Cash on Delivery
+ORD01146,2024-12-18,CUST0177,Moisturizer,Beauty,Central,Nagpur,4,1237.5,0.05,4702.5,2810.43,1892.07,Delivered,Debit Card
+ORD01147,2025-01-23,CUST0041,Casual Shirt,Fashion,North,Jaipur,2,2152.72,0.0,4305.44,2711.17,1594.27,Cancelled,Cash on Delivery
+ORD01148,2025-07-15,CUST0060,Water Bottle,Home & Kitchen,Central,Indore,2,388.68,0.15,660.76,519.08,141.68,Delivered,Cash on Delivery
+ORD01149,2025-05-18,CUST0186,Power Bank,Electronics,South,Vijayawada,4,3860.72,0.0,15442.88,7442.06,8000.82,Cancelled,Net Banking
+ORD01150,2025-09-14,CUST0096,Yoga Mat,Sports,South,Chennai,4,981.17,0.2,3139.74,2269.82,869.92,Delivered,UPI
+ORD01151,2024-09-27,CUST0017,Cricket Kit,Sports,West,Surat,1,4488.65,0.1,4039.78,2680.15,1359.63,Delivered,Cash on Delivery
+ORD01152,2025-01-04,CUST0165,Storage Set,Home & Kitchen,North,Lucknow,5,800.82,0.0,4004.1,2355.2,1648.9,Delivered,Net Banking
+ORD01153,2024-11-10,CUST0149,Smart Watch,Electronics,South,Hyderabad,3,4797.18,0.0,14391.54,8522.69,5868.85,Delivered,Net Banking
+ORD01154,2025-10-26,CUST0081,Sneakers,Fashion,East,Patna,4,2968.71,0.0,11874.84,6921.4,4953.44,Delivered,Net Banking
+ORD01155,2024-08-10,CUST0247,Wireless Earbuds,Electronics,Central,Indore,2,5175.92,0.05,9834.25,6303.91,3530.34,Delivered,Cash on Delivery
+ORD01156,2025-03-05,CUST0076,Face Wash,Beauty,West,Surat,5,398.81,0.1,1794.64,1238.15,556.49,Returned,Net Banking
+ORD01157,2024-03-28,CUST0012,Casual Shirt,Fashion,Central,Bhopal,5,2746.25,0.1,12358.12,9066.23,3291.89,Delivered,UPI
+ORD01158,2025-09-13,CUST0049,Smart Watch,Electronics,East,Bhubaneswar,2,8384.66,0.15,14253.92,13039.32,1214.6,Delivered,Debit Card
+ORD01159,2024-10-07,CUST0102,Wireless Earbuds,Electronics,East,Guwahati,1,7942.05,0.05,7544.95,4001.68,3543.27,Delivered,Net Banking
+ORD01160,2024-09-05,CUST0128,Face Wash,Beauty,West,Surat,1,413.85,0.05,393.16,211.23,181.93,Delivered,UPI
+ORD01161,2025-03-02,CUST0117,Jeans,Fashion,North,Chandigarh,1,1542.06,0.1,1387.85,746.37,641.48,Delivered,Debit Card
+ORD01162,2024-12-30,CUST0194,Dumbbells,Sports,South,Chennai,2,2998.23,0.0,5996.46,3886.09,2110.37,Delivered,UPI
+ORD01163,2025-09-11,CUST0186,Jeans,Fashion,North,Delhi,5,3149.44,0.1,14172.48,8009.83,6162.65,Delivered,Debit Card
+ORD01164,2025-01-23,CUST0219,Smart Watch,Electronics,Central,Bhopal,4,4599.4,0.05,17477.72,11703.8,5773.92,Delivered,Cash on Delivery
+ORD01165,2025-01-12,CUST0208,Bluetooth Speaker,Electronics,North,Delhi,5,1091.55,0.1,4911.98,3694.92,1217.06,Delivered,Net Banking
+ORD01166,2024-03-17,CUST0179,Mixer Grinder,Home & Kitchen,East,Guwahati,3,1732.22,0.0,5196.66,2500.99,2695.67,Delivered,Cash on Delivery
+ORD01167,2024-01-17,CUST0195,Bluetooth Speaker,Electronics,Central,Bhopal,2,4016.95,0.1,7230.51,3911.08,3319.43,Delivered,Cash on Delivery
+ORD01168,2024-10-18,CUST0197,Handbag,Fashion,South,Bengaluru,4,2526.8,0.0,10107.2,7832.19,2275.01,Delivered,UPI
+ORD01169,2025-12-30,CUST0066,Moisturizer,Beauty,West,Mumbai,1,887.51,0.05,843.13,629.16,213.97,Delivered,Debit Card
+ORD01170,2025-11-01,CUST0136,Cricket Kit,Sports,South,Bengaluru,4,3537.56,0.15,12027.7,7149.46,4878.24,Cancelled,Debit Card
+ORD01171,2025-04-04,CUST0117,Yoga Mat,Sports,South,Vijayawada,1,4494.77,0.0,4494.77,2389.5,2105.27,Delivered,Net Banking
+ORD01172,2025-04-06,CUST0245,Water Bottle,Home & Kitchen,North,Chandigarh,5,2522.04,0.05,11979.69,9407.27,2572.42,Delivered,UPI
+ORD01173,2024-10-13,CUST0168,Handbag,Fashion,East,Kolkata,2,3019.03,0.0,6038.06,4241.17,1796.89,Delivered,Net Banking
+ORD01174,2024-05-09,CUST0194,Yoga Mat,Sports,East,Patna,4,3105.4,0.1,11179.44,8430.05,2749.39,Delivered,Cash on Delivery
+ORD01175,2024-01-07,CUST0086,Handbag,Fashion,South,Bengaluru,4,1918.94,0.1,6908.18,5171.92,1736.26,Delivered,UPI
+ORD01176,2024-09-04,CUST0109,Handbag,Fashion,East,Patna,5,3066.62,0.1,13799.79,9207.46,4592.33,Delivered,Net Banking
+ORD01177,2024-08-19,CUST0196,Wireless Earbuds,Electronics,East,Guwahati,2,984.57,0.0,1969.14,1302.18,666.96,Delivered,Credit Card
+ORD01178,2024-05-20,CUST0234,Mixer Grinder,Home & Kitchen,West,Ahmedabad,4,4210.85,0.05,16001.23,9126.53,6874.7,Delivered,Cash on Delivery
+ORD01179,2024-07-08,CUST0141,Bluetooth Speaker,Electronics,West,Mumbai,3,3019.21,0.05,8604.75,4830.11,3774.64,Returned,Debit Card
+ORD01180,2024-01-19,CUST0095,Moisturizer,Beauty,West,Ahmedabad,2,1322.94,0.0,2645.88,1700.79,945.09,Delivered,Credit Card
+ORD01181,2025-03-20,CUST0035,Jeans,Fashion,Central,Bhopal,4,1176.86,0.1,4236.7,3011.77,1224.93,Delivered,UPI
+ORD01182,2025-11-08,CUST0096,Power Bank,Electronics,South,Chennai,3,8779.08,0.15,22386.65,12841.39,9545.26,Delivered,Net Banking
+ORD01183,2025-05-19,CUST0168,Casual Shirt,Fashion,West,Ahmedabad,5,1024.07,0.1,4608.31,2804.7,1803.61,Delivered,UPI
+ORD01184,2024-11-23,CUST0247,Power Bank,Electronics,Central,Raipur,1,3728.41,0.2,2982.73,2401.75,580.98,Delivered,Cash on Delivery
+ORD01185,2024-11-03,CUST0064,Cricket Kit,Sports,Central,Raipur,5,1802.6,0.1,8111.7,6350.36,1761.34,Delivered,UPI
+ORD01186,2024-08-12,CUST0167,Mixer Grinder,Home & Kitchen,South,Vijayawada,5,4547.21,0.05,21599.25,17371.73,4227.52,Delivered,UPI
+ORD01187,2024-04-14,CUST0173,Wireless Earbuds,Electronics,South,Chennai,4,1338.06,0.2,4281.79,2909.75,1372.04,Delivered,Debit Card
+ORD01188,2025-03-13,CUST0022,Face Wash,Beauty,West,Mumbai,2,1105.92,0.1,1990.66,1440.18,550.48,Delivered,UPI
+ORD01189,2025-02-18,CUST0234,Bluetooth Speaker,Electronics,North,Lucknow,1,4320.95,0.15,3672.81,2302.06,1370.75,Returned,Debit Card
+ORD01190,2024-01-06,CUST0240,Sneakers,Fashion,Central,Bhopal,2,826.21,0.15,1404.56,1104.25,300.31,Delivered,UPI
+ORD01191,2024-10-30,CUST0136,Dumbbells,Sports,South,Chennai,1,2437.64,0.15,2071.99,1361.9,710.09,Delivered,Debit Card
+ORD01192,2024-07-22,CUST0053,Running Shoes,Sports,North,Delhi,3,4152.73,0.05,11835.28,9184.57,2650.71,Delivered,UPI
+ORD01193,2024-05-04,CUST0069,Power Bank,Electronics,East,Kolkata,2,8617.67,0.05,16373.57,11363.82,5009.75,Delivered,Net Banking
+ORD01194,2025-05-28,CUST0163,Moisturizer,Beauty,South,Bengaluru,3,393.77,0.15,1004.11,607.8,396.31,Delivered,UPI
+ORD01195,2025-01-19,CUST0169,Wireless Earbuds,Electronics,West,Ahmedabad,2,3715.92,0.05,7060.25,5071.2,1989.05,Delivered,Debit Card
+ORD01196,2025-04-08,CUST0003,Smart Watch,Electronics,West,Surat,4,6121.76,0.1,22038.34,13559.18,8479.16,Delivered,Cash on Delivery
+ORD01197,2025-06-05,CUST0139,Face Wash,Beauty,East,Kolkata,2,1229.84,0.1,2213.71,1219.16,994.55,Delivered,UPI
+ORD01198,2025-12-18,CUST0248,Moisturizer,Beauty,Central,Bhopal,1,271.41,0.1,244.27,135.45,108.82,Delivered,Net Banking
+ORD01199,2025-08-09,CUST0182,Jeans,Fashion,East,Guwahati,1,1410.91,0.1,1269.82,735.22,534.6,Delivered,UPI
+ORD01200,2025-03-29,CUST0138,Running Shoes,Sports,Central,Indore,4,2371.88,0.05,9013.14,5070.21,3942.93,Delivered,Debit Card
